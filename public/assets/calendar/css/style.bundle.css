@@ -1,0 +1,1025 @@
+.fc-unthemed .fc-day-grid td:not(.fc-axis) {
+    padding: .5rem .5rem
+}
+.fc-unthemed .fc-day-grid td:not(.fc-axis).fc-event-container {
+    padding: .2rem .5rem
+}
+.fc-unthemed .fc-axis {
+    padding-top: .5rem;
+    padding-bottom: .5rem
+}
+.fc-unthemed .fc-scroller .fc-content-col {
+    padding: .5rem .5rem
+}
+.fc-unthemed th.fc-day-header {
+    padding: .75rem .5rem;
+    font-size: 1rem;
+    font-weight: 500
+}
+.fc-unthemed .fc-list-heading .fc-widget-header {
+    padding: .75rem 1.25rem
+}
+.fc-unthemed .fc-list-heading .fc-list-heading-alt,
+.fc-unthemed .fc-list-heading .fc-list-heading-main {
+    font-size: 1rem;
+    font-weight: 400
+}
+.fc-unthemed .fc-list-heading .fc-list-heading-main {
+    font-weight: 500;
+    text-transform: uppercase
+}
+.fc-unthemed .fc-list-item td {
+    padding: .75rem 1.25rem;
+    text-transform: uppercase;
+}
+.fc-unthemed .fc-list-item .fc-event-dot {
+    border-radius: 50%
+}
+.fc-unthemed .fc-event,
+.fc-unthemed .fc-event-dot {
+    padding: 0;
+    
+}
+.fc-unthemed .fc-event .fc-content,
+.fc-unthemed .fc-event-dot .fc-content {
+    padding: .55rem .55rem .55rem 2rem
+}
+.fc-unthemed .fc-event .fc-content:before,
+.fc-unthemed .fc-event-dot .fc-content:before {
+    display: block;
+    content: " ";
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    top: .7rem;
+    left: .75rem
+}
+.fc-unthemed .fc-event-dot.fc-not-start.fc-end .fc-content,
+.fc-unthemed .fc-event.fc-not-start.fc-end .fc-content {
+    padding-left: .5rem
+}
+.fc-unthemed .fc-event .fc-time,
+.fc-unthemed .fc-event-dot .fc-time {
+    font-size: .9rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'CircularStd';
+}
+.fc-unthemed .fc-event .fc-title,
+.fc-unthemed .fc-event-dot .fc-title {
+    font-size: .9rem;
+    white-space: normal;
+    font-weight: 400
+}
+.fc-unthemed .fc-description {
+    font-size: .9rem;
+    margin-top: .25rem;
+    font-weight: 400
+}
+.fc-unthemed .fc-list-item-title>a {
+    font-size: 1rem;
+    font-weight: 500
+}
+.fc-unthemed a.fc-more {
+    font-size: .9rem;
+    font-weight: 500
+}
+.fc-unthemed .fc-popover {
+    border-radius: .42rem
+}
+.fc-unthemed .fc-popover .fc-header {
+    padding: .75rem 1.25rem;
+    border-top-left-radius: .42rem;
+    border-top-right-radius: .42rem
+}
+.fc-unthemed .fc-popover .fc-header .fc-close {
+    margin-top: .35rem
+}
+.fc-unthemed .fc-popover .fc-header .fc-title {
+    font-weight: 400
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-container {
+    padding: 1.25rem 1.25rem .75rem 1.25rem
+}
+.fc-unthemed .fc-popover .fc-body .fc-event {
+    margin-bottom: .5rem;
+    border-radius: .42rem
+}
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-not-start.fc-not-end {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0
+}
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-not-start.fc-end {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0
+}
+.fc-unthemed .fc-toolbar {
+    margin-bottom: 1.5rem
+}
+.fc-unthemed .fc-toolbar h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    font-family:'Poppins',sans-serif;
+    margin-top: .75rem
+}
+.fc-unthemed .fc-toolbar .fc-button {
+    outline: 0!important;
+    height: 2.75rem;
+    padding: 0 1.25rem;
+    font-size: 1rem
+}
+.fc-unthemed .fc-toolbar .fc-button.fc-corner-left {
+    border-top-left-radius: .42rem;
+    border-bottom-left-radius: .42rem
+}
+.fc-unthemed .fc-toolbar .fc-button.fc-corner-right {
+    border-top-right-radius: .42rem;
+    border-bottom-right-radius: .42rem
+}
+.fc-unthemed .fc-toolbar .fc-button .fc-icon {
+    font-size: 1.1rem
+}
+.fc-unthemed .fc-toolbar .fc-button .fc-icon:after {
+    display: none
+}
+.fc-unthemed .fc-toolbar .fc-button .fc-icon.fc-icon-left-single-arrow {
+    font-family: Ki;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    line-height: 1;
+    text-decoration: inherit;
+    text-rendering: optimizeLegibility;
+    text-transform: none;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    content: ""
+}
+.fc-unthemed .fc-toolbar .fc-button .fc-icon.fc-icon-right-single-arrow {
+    font-family: Ki;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    line-height: 1;
+    text-decoration: inherit;
+    text-rendering: optimizeLegibility;
+    text-transform: none;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    content: ""
+}
+.fc-unthemed .fc-axis>span {
+    font-size: .9rem
+}
+.ui-draggable-handle {
+    cursor: move;
+    cursor: grab;
+    cursor: -webkit-grab
+}
+@media (max-width: 1199.98px) {
+    .fc-unthemed .fc-toolbar {
+        margin-bottom: 1.5rem
+    }
+    .fc-unthemed .fc-toolbar .fc-center,
+    .fc-unthemed .fc-toolbar .fc-left,
+    .fc-unthemed .fc-toolbar .fc-right {
+        display: block;
+        float: none;
+        margin-bottom: 1rem;
+        text-align: center
+    }
+    .fc-unthemed .fc-toolbar .fc-center h2,
+    .fc-unthemed .fc-toolbar .fc-left h2,
+    .fc-unthemed .fc-toolbar .fc-right h2 {
+        text-align: center;
+        float: none
+    }
+    .fc-unthemed .fc-toolbar .fc-center>.fc-button-group,
+    .fc-unthemed .fc-toolbar .fc-left>.fc-button-group,
+    .fc-unthemed .fc-toolbar .fc-right>.fc-button-group {
+        display: inline-block;
+        float: none
+    }
+    .fc-unthemed .fc-toolbar .fc-center>.fc-button-group>.fc-button,
+    .fc-unthemed .fc-toolbar .fc-left>.fc-button-group>.fc-button,
+    .fc-unthemed .fc-toolbar .fc-right>.fc-button-group>.fc-button {
+        float: none
+    }
+    .fc-unthemed .fc-toolbar .fc-center>.fc-button,
+    .fc-unthemed .fc-toolbar .fc-left>.fc-button,
+    .fc-unthemed .fc-toolbar .fc-right>.fc-button {
+        float: none
+    }
+}
+.fc-unthemed .fc-content,
+.fc-unthemed .fc-divider,
+.fc-unthemed .fc-list-heading td,
+.fc-unthemed .fc-list-view,
+.fc-unthemed .fc-popover,
+.fc-unthemed .fc-row,
+.fc-unthemed tbody,
+.fc-unthemed td,
+.fc-unthemed th,
+.fc-unthemed thead {
+    border-color: #dadada
+}
+.fc-unthemed td.fc-today {
+    background: rgba(105, 147, 255, .025)
+}
+.fc-unthemed .fc-day-grid-event {
+    margin: 0
+}
+.fc-unthemed .fc-event,
+.fc-unthemed .fc-event-dot {
+    background: #fff;
+    border: 1px solid #ebedf3;
+    -webkit-box-shadow: 0 0 9px 0 rgba(0, 0, 0, .055);
+    box-shadow: 0 0 9px 0 rgba(0, 0, 0, .055)
+}
+.fc-unthemed .fc-event-dot.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event.fc-not-start.fc-not-end {
+    border-left: 1px solid #f3f6f9
+}
+.fc-unthemed .fc-event-dot.fc-start .fc-content:before,
+.fc-unthemed .fc-event.fc-start .fc-content:before {
+    background: #ebedf3
+}
+.fc-unthemed .fc-event .fc-time,
+.fc-unthemed .fc-event-dot .fc-time {
+    color: #fff
+}
+.fc-unthemed .fc-event .fc-title,
+.fc-unthemed .fc-event-dot .fc-title {
+    color: #fff
+}
+.fc-unthemed .fc-description {
+    color: #b5b5c3
+}
+.fc-unthemed .fc-list-item-title>a[href]:hover {
+    color: #6993ff;
+    text-decoration: none
+}
+.fc-unthemed .fc-more {
+    color: #b5b5c3
+}
+.fc-unthemed .fc-event-dot.fc-event-primary.fc-start .fc-content:before,
+.fc-unthemed .fc-event.fc-event-primary.fc-start .fc-content:before {
+    background: #6993ff
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-primary.fc-not-start.fc-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-primary.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-primary.fc-start,
+.fc-unthemed .fc-event.fc-event-solid-primary.fc-not-start.fc-end,
+.fc-unthemed .fc-event.fc-event-solid-primary.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event.fc-event-solid-primary.fc-start {
+    background: #6993ff
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-primary.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-primary.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-primary.fc-start .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-primary.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-primary.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-primary.fc-start .fc-title {
+    color: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-primary.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-primary.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-primary.fc-start .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-primary.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-primary.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-primary.fc-start .fc-description {
+    color: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-primary.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-primary.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-primary.fc-start .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-primary.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-primary.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-primary.fc-start .fc-time {
+    color: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-secondary.fc-start .fc-content:before,
+.fc-unthemed .fc-event.fc-event-secondary.fc-start .fc-content:before {
+    background: #e4e6ef
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-secondary.fc-not-start.fc-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-secondary.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-secondary.fc-start,
+.fc-unthemed .fc-event.fc-event-solid-secondary.fc-not-start.fc-end,
+.fc-unthemed .fc-event.fc-event-solid-secondary.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event.fc-event-solid-secondary.fc-start {
+    background: #e4e6ef
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-secondary.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-secondary.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-secondary.fc-start .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-secondary.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-secondary.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-secondary.fc-start .fc-title {
+    color: #3f4254
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-secondary.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-secondary.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-secondary.fc-start .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-secondary.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-secondary.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-secondary.fc-start .fc-description {
+    color: #3f4254
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-secondary.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-secondary.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-secondary.fc-start .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-secondary.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-secondary.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-secondary.fc-start .fc-time {
+    color: #3f4254
+}
+.fc-unthemed .fc-event-dot.fc-event-success.fc-start .fc-content:before,
+.fc-unthemed .fc-event.fc-event-success.fc-start .fc-content:before {
+    background: #1bc5bd
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-success.fc-not-start.fc-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-success.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-success.fc-start,
+.fc-unthemed .fc-event.fc-event-solid-success.fc-not-start.fc-end,
+.fc-unthemed .fc-event.fc-event-solid-success.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event.fc-event-solid-success.fc-start {
+    background: #1bc5bd
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-success.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-success.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-success.fc-start .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-success.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-success.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-success.fc-start .fc-title {
+    color: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-success.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-success.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-success.fc-start .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-success.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-success.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-success.fc-start .fc-description {
+    color: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-success.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-success.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-success.fc-start .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-success.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-success.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-success.fc-start .fc-time {
+    color: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-info.fc-start .fc-content:before,
+.fc-unthemed .fc-event.fc-event-info.fc-start .fc-content:before {
+    background: #8950fc
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-info.fc-not-start.fc-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-info.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-info.fc-start,
+.fc-unthemed .fc-event.fc-event-solid-info.fc-not-start.fc-end,
+.fc-unthemed .fc-event.fc-event-solid-info.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event.fc-event-solid-info.fc-start {
+    background: #8950fc
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-info.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-info.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-info.fc-start .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-info.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-info.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-info.fc-start .fc-title {
+    color: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-info.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-info.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-info.fc-start .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-info.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-info.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-info.fc-start .fc-description {
+    color: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-info.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-info.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-info.fc-start .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-info.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-info.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-info.fc-start .fc-time {
+    color: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-warning.fc-start .fc-content:before,
+.fc-unthemed .fc-event.fc-event-warning.fc-start .fc-content:before {
+    background: #ffa800
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-warning.fc-not-start.fc-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-warning.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-warning.fc-start,
+.fc-unthemed .fc-event.fc-event-solid-warning.fc-not-start.fc-end,
+.fc-unthemed .fc-event.fc-event-solid-warning.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event.fc-event-solid-warning.fc-start {
+    background: #ffa8004d;
+    border-left: 5px solid #ffa800;
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-repro.fc-not-start.fc-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-repro.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-repro.fc-start,
+.fc-unthemed .fc-event.fc-event-solid-repro.fc-not-start.fc-end,
+.fc-unthemed .fc-event.fc-event-solid-repro.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event.fc-event-solid-repro.fc-start {
+    background: #6342ff59;
+    border-left:5px solid #6342ff;
+    color:#fff!important;
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-pending.fc-not-start.fc-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-pending.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-pending.fc-start,
+.fc-unthemed .fc-event.fc-event-solid-pending.fc-not-start.fc-end,
+.fc-unthemed .fc-event.fc-event-solid-pending.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event.fc-event-solid-pending.fc-start {
+    background: #0044e959;
+    border-left: 5px solid #0044e9;
+    color:#fff!important;
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-confirmed.fc-not-start.fc-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-confirmed.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-confirmed.fc-start,
+.fc-unthemed .fc-event.fc-event-solid-confirmed.fc-not-start.fc-end,
+.fc-unthemed .fc-event.fc-event-solid-confirmed.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event.fc-event-solid-confirmed.fc-start {
+    background: #52841057;
+    border-left: 5px solid #528410;
+    color:#fff!important;
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-cancelled.fc-not-start.fc-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-cancelled.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-cancelled.fc-start,
+.fc-unthemed .fc-event.fc-event-solid-cancelled.fc-not-start.fc-end,
+.fc-unthemed .fc-event.fc-event-solid-cancelled.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event.fc-event-solid-cancelled.fc-start {
+    background: #9e00273b;
+    color:#fff!important;
+    border-left: 5px solid #9e0027;
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-warning.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-warning.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-warning.fc-start .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-warning.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-warning.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-warning.fc-start .fc-title {
+    color: #686f6b
+}
+
+.fc-unthemed .fc-event-dot.fc-event-solid-warning.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-warning.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-warning.fc-start .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-warning.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-warning.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-warning.fc-start .fc-title {
+    color: #686f6b
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-cancelled.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-cancelled.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-cancelled.fc-start .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-cancelled.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-cancelled.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-cancelled.fc-start .fc-title {
+    color: #9e0027
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-pending.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-pending.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-pending.fc-start .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-pending.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-pending.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-pending.fc-start .fc-title {
+    color: #0044e9
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-repro.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-repro.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-repro.fc-start .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-repro.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-repro.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-repro.fc-start .fc-title {
+    color: #6342ff
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-confirmed.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-confirmed.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-confirmed.fc-start .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-confirmed.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-confirmed.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-confirmed.fc-start .fc-title {
+    color: #528410
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-warning.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-warning.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-warning.fc-start .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-warning.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-warning.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-warning.fc-start .fc-time {
+    color: #686f6b
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-cancelled.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-cancelled.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-cancelled.fc-start .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-cancelled.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-cancelled.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-cancelled.fc-start .fc-time {
+    color: #9e0027
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-pending.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-pending.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-pending.fc-start .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-pending.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-pending.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-pending.fc-start .fc-time {
+    color: #0044e9
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-confirmed.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-confirmed.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-confirmed.fc-start .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-confirmed.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-confirmed.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-confirmed.fc-start .fc-time {
+    color: #528410
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-repro.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-repro.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-repro.fc-start .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-repro.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-repro.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-repro.fc-start .fc-time {
+    color: #6342ff
+}
+.fc-unthemed .fc-event-dot.fc-event-danger.fc-start .fc-content:before,
+.fc-unthemed .fc-event.fc-event-danger.fc-start .fc-content:before {
+    background: #f64e60
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-danger.fc-not-start.fc-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-danger.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-danger.fc-start,
+.fc-unthemed .fc-event.fc-event-solid-danger.fc-not-start.fc-end,
+.fc-unthemed .fc-event.fc-event-solid-danger.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event.fc-event-solid-danger.fc-start {
+    background: #f64e60
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-danger.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-danger.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-danger.fc-start .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-danger.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-danger.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-danger.fc-start .fc-title {
+    color: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-danger.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-danger.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-danger.fc-start .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-danger.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-danger.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-danger.fc-start .fc-description {
+    color: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-danger.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-danger.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-danger.fc-start .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-danger.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-danger.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-danger.fc-start .fc-time {
+    color: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-light.fc-start .fc-content:before,
+.fc-unthemed .fc-event.fc-event-light.fc-start .fc-content:before {
+    background: #f3f6f9
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-light.fc-not-start.fc-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-light.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-light.fc-start,
+.fc-unthemed .fc-event.fc-event-solid-light.fc-not-start.fc-end,
+.fc-unthemed .fc-event.fc-event-solid-light.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event.fc-event-solid-light.fc-start {
+    background: #f3f6f9
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-light.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-light.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-light.fc-start .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-light.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-light.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-light.fc-start .fc-title {
+    color: #7e8299
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-light.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-light.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-light.fc-start .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-light.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-light.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-light.fc-start .fc-description {
+    color: #7e8299
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-light.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-light.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-light.fc-start .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-light.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-light.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-light.fc-start .fc-time {
+    color: #7e8299
+}
+.fc-unthemed .fc-event-dot.fc-event-dark.fc-start .fc-content:before,
+.fc-unthemed .fc-event.fc-event-dark.fc-start .fc-content:before {
+    background: #181c32
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-dark.fc-not-start.fc-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-dark.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-dark.fc-start,
+.fc-unthemed .fc-event.fc-event-solid-dark.fc-not-start.fc-end,
+.fc-unthemed .fc-event.fc-event-solid-dark.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event.fc-event-solid-dark.fc-start {
+    background: #181c32
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-dark.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-dark.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-dark.fc-start .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-dark.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-dark.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-dark.fc-start .fc-title {
+    color: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-dark.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-dark.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-dark.fc-start .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-dark.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-dark.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-dark.fc-start .fc-description {
+    color: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-dark.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-dark.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-dark.fc-start .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-dark.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-dark.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-dark.fc-start .fc-time {
+    color: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-white.fc-start .fc-content:before,
+.fc-unthemed .fc-event.fc-event-white.fc-start .fc-content:before {
+    background: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-white.fc-not-start.fc-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-white.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event-dot.fc-event-solid-white.fc-start,
+.fc-unthemed .fc-event.fc-event-solid-white.fc-not-start.fc-end,
+.fc-unthemed .fc-event.fc-event-solid-white.fc-not-start.fc-not-end,
+.fc-unthemed .fc-event.fc-event-solid-white.fc-start {
+    background: #fff
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-white.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-white.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event-dot.fc-event-solid-white.fc-start .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-white.fc-not-start.fc-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-white.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-event.fc-event-solid-white.fc-start .fc-title {
+    color: #3f4254
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-white.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-white.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event-dot.fc-event-solid-white.fc-start .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-white.fc-not-start.fc-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-white.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-event.fc-event-solid-white.fc-start .fc-description {
+    color: #3f4254
+}
+.fc-unthemed .fc-event-dot.fc-event-solid-white.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-white.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event-dot.fc-event-solid-white.fc-start .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-white.fc-not-start.fc-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-white.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-event.fc-event-solid-white.fc-start .fc-time {
+    color: #3f4254
+}
+.fc-unthemed .fc-divider,
+.fc-unthemed .fc-list-heading td,
+.fc-unthemed .fc-popover .fc-header {
+    background: #f3f6f9
+}
+.fc-unthemed .fc-time-grid-event {
+    overflow: hidden
+}
+.fc-unthemed .fc-popover {
+    -webkit-box-shadow: 0 0 9px 0 rgba(0, 0, 0, .075);
+    box-shadow: 0 0 9px 0 rgba(0, 0, 0, .075);
+    background: #fff
+}
+.fc-unthemed .fc-popover .fc-header {
+    background: #fff;
+    border-bottom: 1px solid #ebedf3
+}
+.fc-unthemed .fc-popover .fc-header .fc-close {
+    color: #b5b5c3
+}
+.fc-unthemed .fc-popover .fc-header .fc-close:hover {
+    color: #3f4254
+}
+.fc-unthemed .fc-popover .fc-header .fc-title {
+    color: #3f4254
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-not-start.fc-not-end .fc-content:before,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-not-start.fc-not-end .fc-content:before {
+    background: #ebedf3
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-primary.fc-not-start.fc-not-end .fc-content:before,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-primary.fc-not-start.fc-not-end .fc-content:before {
+    background: #6993ff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-primary.fc-not-start.fc-not-end,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-primary.fc-not-start.fc-not-end {
+    background: #6993ff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-primary.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-primary.fc-not-start.fc-not-end .fc-title {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-primary.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-primary.fc-not-start.fc-not-end .fc-description {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-primary.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-primary.fc-not-start.fc-not-end .fc-time {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-secondary.fc-not-start.fc-not-end .fc-content:before,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-secondary.fc-not-start.fc-not-end .fc-content:before {
+    background: #e4e6ef
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-secondary.fc-not-start.fc-not-end,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-secondary.fc-not-start.fc-not-end {
+    background: #e4e6ef
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-secondary.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-secondary.fc-not-start.fc-not-end .fc-title {
+    color: #3f4254
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-secondary.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-secondary.fc-not-start.fc-not-end .fc-description {
+    color: #3f4254
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-secondary.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-secondary.fc-not-start.fc-not-end .fc-time {
+    color: #3f4254
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-success.fc-not-start.fc-not-end .fc-content:before,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-success.fc-not-start.fc-not-end .fc-content:before {
+    background: #1bc5bd
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-success.fc-not-start.fc-not-end,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-success.fc-not-start.fc-not-end {
+    background: #1bc5bd
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-success.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-success.fc-not-start.fc-not-end .fc-title {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-success.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-success.fc-not-start.fc-not-end .fc-description {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-success.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-success.fc-not-start.fc-not-end .fc-time {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-info.fc-not-start.fc-not-end .fc-content:before,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-info.fc-not-start.fc-not-end .fc-content:before {
+    background: #8950fc
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-info.fc-not-start.fc-not-end,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-info.fc-not-start.fc-not-end {
+    background: #8950fc
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-info.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-info.fc-not-start.fc-not-end .fc-title {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-info.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-info.fc-not-start.fc-not-end .fc-description {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-info.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-info.fc-not-start.fc-not-end .fc-time {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-warning.fc-not-start.fc-not-end .fc-content:before,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-warning.fc-not-start.fc-not-end .fc-content:before {
+    background: #ffa800
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-warning.fc-not-start.fc-not-end,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-warning.fc-not-start.fc-not-end {
+    background: #ffa800
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-warning.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-warning.fc-not-start.fc-not-end .fc-title {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-warning.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-warning.fc-not-start.fc-not-end .fc-description {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-warning.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-warning.fc-not-start.fc-not-end .fc-time {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-danger.fc-not-start.fc-not-end .fc-content:before,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-danger.fc-not-start.fc-not-end .fc-content:before {
+    background: #f64e60
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-danger.fc-not-start.fc-not-end,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-danger.fc-not-start.fc-not-end {
+    background: #f64e60
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-danger.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-danger.fc-not-start.fc-not-end .fc-title {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-danger.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-danger.fc-not-start.fc-not-end .fc-description {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-danger.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-danger.fc-not-start.fc-not-end .fc-time {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-light.fc-not-start.fc-not-end .fc-content:before,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-light.fc-not-start.fc-not-end .fc-content:before {
+    background: #f3f6f9
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-light.fc-not-start.fc-not-end,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-light.fc-not-start.fc-not-end {
+    background: #f3f6f9
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-light.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-light.fc-not-start.fc-not-end .fc-title {
+    color: #7e8299
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-light.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-light.fc-not-start.fc-not-end .fc-description {
+    color: #7e8299
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-light.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-light.fc-not-start.fc-not-end .fc-time {
+    color: #7e8299
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-dark.fc-not-start.fc-not-end .fc-content:before,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-dark.fc-not-start.fc-not-end .fc-content:before {
+    background: #181c32
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-dark.fc-not-start.fc-not-end,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-dark.fc-not-start.fc-not-end {
+    background: #181c32
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-dark.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-dark.fc-not-start.fc-not-end .fc-title {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-dark.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-dark.fc-not-start.fc-not-end .fc-description {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-dark.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-dark.fc-not-start.fc-not-end .fc-time {
+    color: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-white.fc-not-start.fc-not-end .fc-content:before,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-white.fc-not-start.fc-not-end .fc-content:before {
+    background: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-white.fc-not-start.fc-not-end,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-white.fc-not-start.fc-not-end {
+    background: #fff
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-white.fc-not-start.fc-not-end .fc-title,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-white.fc-not-start.fc-not-end .fc-title {
+    color: #3f4254
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-white.fc-not-start.fc-not-end .fc-description,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-white.fc-not-start.fc-not-end .fc-description {
+    color: #3f4254
+}
+.fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-event-solid-white.fc-not-start.fc-not-end .fc-time,
+.fc-unthemed .fc-popover .fc-body .fc-event.fc-event-solid-white.fc-not-start.fc-not-end .fc-time {
+    color: #3f4254
+}
+.fc-unthemed th.fc-day-header>a,
+.fc-unthemed th.fc-day-header>span {
+    color: #0a090a;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.fc-unthemed .fc-list-heading td {
+    background: #ebedf3;
+    border-color: #ebedf3
+}
+.fc-unthemed .fc-list-heading .fc-list-heading-main {
+    color: #3f4254
+}
+.fc-unthemed .fc-list-heading .fc-list-heading-alt {
+    color: #b5b5c3
+}
+.fc-unthemed .fc-divider,
+.fc-unthemed .fc-list-heading td,
+.fc-unthemed .fc-popover .fc-header {
+    background: #f3f6f9
+}
+.fc-unthemed .fc-list-item:hover td {
+    background: 0 0!important
+}
+.fc-unthemed .fc-list-item .fc-event-dot {
+    background: #ebedf3;
+    border-color: #ebedf3
+}
+.fc-unthemed .fc-list-item.fc-event-primary .fc-event-dot,
+.fc-unthemed .fc-list-item.fc-event-solid-primary .fc-event-dot {
+    background: #6993ff;
+    border-color: #6993ff
+}
+.fc-unthemed .fc-list-item.fc-event-secondary .fc-event-dot,
+.fc-unthemed .fc-list-item.fc-event-solid-secondary .fc-event-dot {
+    background: #e4e6ef;
+    border-color: #e4e6ef
+}
+.fc-unthemed .fc-list-item.fc-event-solid-success .fc-event-dot,
+.fc-unthemed .fc-list-item.fc-event-success .fc-event-dot {
+    background: #1bc5bd;
+    border-color: #1bc5bd
+}
+.fc-unthemed .fc-list-item.fc-event-info .fc-event-dot,
+.fc-unthemed .fc-list-item.fc-event-solid-info .fc-event-dot {
+    background: #8950fc;
+    border-color: #8950fc
+}
+.fc-unthemed .fc-list-item.fc-event-solid-warning .fc-event-dot,
+.fc-unthemed .fc-list-item.fc-event-warning .fc-event-dot {
+    background: #ffa800;
+    border-color: #ffa800
+}
+.fc-unthemed .fc-list-item.fc-event-danger .fc-event-dot,
+.fc-unthemed .fc-list-item.fc-event-solid-danger .fc-event-dot {
+    background: #f64e60;
+    border-color: #f64e60
+}
+.fc-unthemed .fc-list-item.fc-event-light .fc-event-dot,
+.fc-unthemed .fc-list-item.fc-event-solid-light .fc-event-dot {
+    background: #f3f6f9;
+    border-color: #f3f6f9
+}
+.fc-unthemed .fc-list-item.fc-event-dark .fc-event-dot,
+.fc-unthemed .fc-list-item.fc-event-solid-dark .fc-event-dot {
+    background: #181c32;
+    border-color: #181c32
+}
+.fc-unthemed .fc-list-item.fc-event-solid-white .fc-event-dot,
+.fc-unthemed .fc-list-item.fc-event-white .fc-event-dot {
+    background: #fff;
+    border-color: #fff
+}
+.fc-unthemed .fc-toolbar .fc-button {
+    color: #b9b9b9;
+    background: 0 0;
+    margin-right: 10px;
+    border-radius: 25px;
+    border: 1px solid #b9b9b9;
+    text-shadow: none!important;
+    -webkit-box-shadow: none!important;
+    box-shadow: none!important
+}
+.fc-unthemed .fc-toolbar .fc-button .fc-icon {
+    color: #b5b5c3
+}
+.fc-unthemed .fc-toolbar .fc-button:hover {
+    border: 0;
+    background: #f3f6f9;
+    border: 1px solid #ebedf3;
+    color: #b5b5c3
+}
+.fc-unthemed .fc-toolbar .fc-button.fc-button-active,
+.fc-unthemed .fc-toolbar .fc-button:active,
+.fc-unthemed .fc-toolbar .fc-button:focus {
+    background: #0044e9;
+    color: #fff;
+    border-radius:25px;
+    margin-right: 10px;
+    border: 1px solid #6993ff;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    text-shadow: none
+}
+.fc-unthemed .fc-toolbar .fc-button.fc-button-active .fc-icon,
+.fc-unthemed .fc-toolbar .fc-button:active .fc-icon,
+.fc-unthemed .fc-toolbar .fc-button:focus .fc-icon {
+    color: #fff
+}
+.fc-unthemed .fc-toolbar .fc-button.fc-button-disabled {
+    opacity: .7
+}
+.fc-other-month{
+    background: repeating-linear-gradient( 140deg, #ebedf1, #ebedf1 9px, #f6f7f8 8px, #f6f7f8 17px);
+}
+.fc-unthemed td.fc-today {
+    background: #fcf8e3;
+}

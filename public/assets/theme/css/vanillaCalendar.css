@@ -1,0 +1,158 @@
+#v-cal {
+	background-color: #fff;
+	border-radius:5px;
+	-webkit-box-shadow: 0px 5px 12px rgba(126, 142, 177, 0.25);
+    box-shadow: 0px 5px 12px rgba(126, 142, 177, 0.25);
+	margin: 0 0 40px 0;
+	overflow: hidden;
+	min-height: 350px;
+	width: 100%;
+}
+#v-cal .vcal-date--selected span{
+    border-radius: 50%;
+    padding: 0px;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    color: #fff;
+    font-weight:bold;
+    margin-top: -3px;
+    line-height: 33px;
+    background: #6badff;
+}
+#v-cal .vcal-btn {
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-webkit-appearance: button;
+	background: none;
+	border: 0;
+	color: inherit;
+	cursor: pointer;
+	font: inherit;
+	line-height: normal;
+	min-width: 20px;
+	outline: none;
+	overflow: visible;
+	padding: 0;
+	text-align: center
+}
+
+#v-cal .vcal-btn:active {
+	border-radius: 0;
+	-webkit-box-shadow: 0 0 0 2px rgba(16, 152, 158, .1);
+	box-shadow: 0 0 0 2px rgba(16, 152, 158, .1)
+}
+
+#v-cal .vcal-header {
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	-webkit-box-shadow: 0 4px 2px -2px rgba(0, 0, 0, .5);
+	box-shadow: 0 4px 2px -2px rgba(0, 0, 0, .5);
+	display: flex;
+	padding: 19.2px 22.4px;
+	padding: 1.2rem 1.4rem
+}
+
+#v-cal .vcal-header svg {
+	fill: #10989e
+}
+
+#v-cal .vcal-header__label {
+	font-weight: 700;
+	text-align: center;
+	width: 100%
+}
+#v-cal .vcal-header__label .gri {
+	font-weight: 400;
+	color: #d6d6d6;
+}
+
+#v-cal .vcal-week {
+	background-color: #fff;
+	box-shadow: 0 4px 2px -2px #eee;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap
+}
+
+#v-cal .vcal-week span {
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 14.28%;
+	flex: 0 0 14.28%;
+	font-size: 12px;
+	color:#b0c1e0;
+	font-weight: bold;
+	max-width: 14.28%;
+	padding: 5px 20px;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+#v-cal .vcal-body {
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap
+}
+
+#v-cal .vcal-body,
+#v-cal .vcal-date {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	padding: 4px;
+}
+
+#v-cal .vcal-date {
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	background-color: #fff;
+	border-radius: 0;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 14.28%;
+	flex: 0 0 14.28%;
+	height:50px;
+	max-width: 14.28%;
+    padding: 13px;
+}
+
+#v-cal .vcal-date--active {
+	cursor: pointer
+}
+
+#v-cal .vcal-date--today {
+	/*background-color: #027fff;*/
+	font-weight:bold;
+	border-radius: 5px;
+	font-family: 'Karla', sans-serif;
+}
+
+#v-cal .vcal-date--today::after {
+    font-family: 'batch' !important;
+    content: '\e941';
+    font-size:28px;
+    color: #4d7cff;
+    text-align:center;
+    position: relative;
+    top: -18px;
+    display: inline-block;
+}
+
+#v-cal .vcal-date--disabled {
+	border-radius: 0;
+	cursor: not-allowed;
+	opacity: .5
+}

@@ -1,0 +1,85 @@
+body {
+    background: #d1e4dd;
+}
+
+.file-ticket {
+    font-family: 'CircularStd', sans-serif;
+    font-weight: 100;
+    border: 1px solid #dfe4e8;
+    margin: 5px;
+    background-color: #fff;
+    font-size: 11px;
+    color: #8f8f8f;
+    box-shadow: 0px 2px 4px rgba(126, 142, 177, 0.12);
+    position: relative;
+}
+
+.file-ticket+.file-ticket {
+    margin-top: 20px;
+}
+
+.file-ticket:hover,
+.file-ticket.active {
+    background: #efa002;
+    color: white!important;
+    cursor: pointer;
+}
+
+.file-ticket:hover .ticket-title,
+.file-ticket.active .ticket-title {
+    color: #047bf8;
+}
+
+.file-ticket.active {
+    -webkit-transform: none;
+    transform: none;
+}
+
+.file-ticket .st-meta {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    z-index: 99;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.file-ticket .st-meta>div {
+    margin-left: 10px;
+}
+
+.file-ticket .st-meta>i {
+    margin-left: 10px;
+    color: #EAA81D;
+    font-size: 16px;
+}
+
+.file-ticket .st-meta .badge {
+    font-size: 0.72rem;
+    padding: 2px 5px;
+}
+
+.file-ticket .st-body {
+    padding-top: 15px;
+    font-size: 12px;
+    padding-bottom: 15px;
+    text-align: left;
+    padding-left: 20px;
+    border-radius: 6px;
+    border-radius: 6px;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.file-ticket .st-body .avatar {
+    -webkit-box-flex: 0;
+    flex: 0 0 50px;
+    padding-right: 15px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
