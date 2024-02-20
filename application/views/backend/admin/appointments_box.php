@@ -58,7 +58,7 @@
                 <div class="todo-sidebar-section-contents">
                     <ul class="tasks-list">
                         <li>
-                            <form method="POST" action="<?php echo base_url();?>admin/appointments">
+                            <form method="POST" action="<?php echo base_url();?>admin/appointments_box">
                                 <div class="form-group date-time-picker m-b-15">
                                     <div class="input-group date datepicker" id="DoctorPicker1" style="border:0px;">
                                         <input type="text" onchange="submit()" id="applyDate" name="date" autocomplete="off" style="font-weight: 500;padding: 20px;background: #dcdcdc;border-radius: 9px;" value="<?php if($filter) echo $apply; else echo date('d/m/Y');?>" class="form-control">

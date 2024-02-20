@@ -41,7 +41,7 @@
                 echo $this->crud_model->count_archived($doctor_id,date('d/m/Y'));
             }
            ?></span>
-            <label class="custom-control-label" for="customCheck6">Archivadas</label>
+            <label class="custom-control-label" for="customCheck6">Finalizada</label>
         </div>
     </li>
 </ul>

@@ -456,7 +456,7 @@ class Crud_model extends CI_Model
     function get_financial_report($fecha1, $fecha2)
     {
         
-        $sql = "SELECT * FROM `financial` where str_to_date(date, '%d/%m/%Y') BETWEEN str_to_date(?, '%d/%m/%Y') AND str_to_date(?, '%d/%m/%Y') ORDER BY financial_id DESC";
+        $sql = "SELECT * FROM `financial` where str_to_date(date, '%d/%m/%Y') BETWEEN str_to_date(?, '%d/%m/%Y') AND str_to_date(?, '%d/%m/%Y') ";
         $res = $this->db->query($sql, array($fecha1,$fecha2))->result_array();
         return $res;
 
@@ -498,7 +498,7 @@ class Crud_model extends CI_Model
         {
             $d = date("d/m/Y", strtotime($i)); 
 
-            $sql = 'SELECT SUM(amount) as Total, type FROM `financial` where date ="'.$d.'" and type = 0 and clinic_id = '.$this->session->userdata('current_clinic');
+            $sql = 'SELECT SUM(amount) as Total, type FROM `expense` where date ="'.$d.'"  and clinic_id = '.$this->session->userdata('current_clinic');
         
             $res = $this->db->query($sql)->row()->Total;
 
@@ -532,7 +532,7 @@ class Crud_model extends CI_Model
         {
             $d = date("d/m/Y", strtotime($i)); 
 
-            $sql = 'SELECT SUM(amount) as Total, type FROM `financial` where date ="'.$d.'" and type = 1 and clinic_id = '.$this->session->userdata('current_clinic');
+            $sql = 'SELECT SUM(amount) as Total, type FROM `income` where date ="'.$d.'" and  clinic_id = '.$this->session->userdata('current_clinic');
         
             $res = $this->db->query($sql)->row()->Total;
 
@@ -554,7 +554,7 @@ class Crud_model extends CI_Model
     function get_expense_report($date1, $date2)
     {
 
-        $sql = "SELECT SUM(amount) as Total FROM `financial` where clinic_id = ".$this->session->userdata('current_clinic')." AND type = 0 AND str_to_date(date, '%d/%m/%Y') BETWEEN str_to_date(?, '%d/%m/%Y') AND str_to_date(?, '%d/%m/%Y') ORDER BY financial_id DESC";
+        $sql = "SELECT SUM(amount) as Total FROM `expense` where clinic_id = ".$this->session->userdata('current_clinic')."  AND str_to_date(date, '%d/%m/%Y') BETWEEN str_to_date(?, '%d/%m/%Y') AND str_to_date(?, '%d/%m/%Y') ";
         $res = $this->db->query($sql, array($date1,$date2))->row()->Total;
        
         if($res>0)
@@ -568,7 +568,7 @@ class Crud_model extends CI_Model
     function get_income_report($date1, $date2)
     {
         
-        $sql = "SELECT SUM(amount) as Total FROM `financial` where clinic_id = ".$this->session->userdata('current_clinic')." AND  type = 1 AND str_to_date(date, '%d/%m/%Y') BETWEEN str_to_date(?, '%d/%m/%Y') AND str_to_date(?, '%d/%m/%Y') ORDER BY financial_id DESC";
+        $sql = "SELECT SUM(amount) as Total FROM `income` where clinic_id = ".$this->session->userdata('current_clinic')."  AND str_to_date(date, '%d/%m/%Y') BETWEEN str_to_date(?, '%d/%m/%Y') AND str_to_date(?, '%d/%m/%Y') ";
         $res = $this->db->query($sql, array($date1,$date2))->row()->Total;
        
         if($res>0)
@@ -578,6 +578,31 @@ class Crud_model extends CI_Model
 
     }
 
+function count_cost()
+    {
+        $sql = "SELECT * FROM product WHERE clinic_id = ?";
+        $res = $this->db->query($sql, array($this->session->userdata('current_clinic')));   
+        return $res;
+    }
+    
+    function product_expiration($clinic_id,$hoy,$fecha)
+    {
+        $sql = "SELECT * FROM lotes WHERE clinic_id = ? AND str_to_date(expiration_date, '%d/%m/%Y') BETWEEN str_to_date(?, '%d/%m/%Y') AND str_to_date(?, '%d/%m/%Y')";
+                
+        $res = $this->db->query($sql, array($clinic_id,$hoy,$fecha))->result_array();
+                
+        return $res;
+    }
+    
+    function product_expiration22($clinic_id,$hoy)
+    {
+        $sql = "SELECT * FROM lotes WHERE clinic_id = ? AND str_to_date(expiration_date, '%d/%m/%Y') <= str_to_date(?, '%d/%m/%Y')";
+                
+        $res = $this->db->query($sql, array($clinic_id,$hoy))->result_array();
+                
+        return $res;
+    }
+    
     function get_month_appoitments_report($doctor_id ,$date1, $date2)
     {
 
@@ -3259,9 +3284,9 @@ class Crud_model extends CI_Model
 
     function appointment_archived_doc($doctor_id, $date, $clinic_id, $time){
         if($doctor_id != 0)
-            $appointments = $this->db->query("SELECT * FROM `appointment` WHERE status= 4 and clinic_id = ".$clinic_id." and time like '".$time."%' and date ='".$date."' and doctor_id = '".$doctor_id."'");
+            $appointments = $this->db->query("SELECT * FROM `appointment` WHERE status= 10 and clinic_id = ".$clinic_id." and time like '".$time."%' and date ='".$date."' and doctor_id = '".$doctor_id."'");
         else
-            $appointments = $this->db->query("SELECT * FROM `appointment` WHERE status= 4 and clinic_id = ".$clinic_id." and time like '".$time."%' and date ='".$date."'");
+            $appointments = $this->db->query("SELECT * FROM `appointment` WHERE status= 10 and clinic_id = ".$clinic_id." and time like '".$time."%' and date ='".$date."'");
 
         return $appointments;
     }
@@ -3299,9 +3324,9 @@ class Crud_model extends CI_Model
     function count_archived($doctor_id, $date)
     {
         if($doctor_id != 0)
-            $appointments = $this->db->query("SELECT * FROM `appointment` WHERE status = 4 and clinic_id = ".$this->session->userdata('current_clinic')." and date ='".$date."' and doctor_id = '".$doctor_id."'")->num_rows();
+            $appointments = $this->db->query("SELECT * FROM `appointment` WHERE status = 10 and clinic_id = ".$this->session->userdata('current_clinic')." and date ='".$date."' and doctor_id = '".$doctor_id."'")->num_rows();
         else
-            $appointments = $this->db->query("SELECT * FROM `appointment` WHERE status = 4 and clinic_id = ".$this->session->userdata('current_clinic')." and date ='".$date."'")->num_rows();
+            $appointments = $this->db->query("SELECT * FROM `appointment` WHERE status = 10 and clinic_id = ".$this->session->userdata('current_clinic')." and date ='".$date."'")->num_rows();
             
         
             return $appointments;

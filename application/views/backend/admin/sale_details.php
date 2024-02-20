@@ -20,6 +20,7 @@
                     <div class="order-main-info">
                         <strong style="font-size:25px;"><?php if($details['status']==1) echo 'Detalles de venta'; else echo 'Detalles de la cotización';?></strong>
                     </div>
+                    <?php if($details['invoice'] != ''):?>
                     <div class="dropdown" style="float:right">
                         <button class="btn btn-secondary" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="float:right; margin-top:15px;margin-right:10%;background:#0176fe; color:#fff; border:0px;border-radius:5px;-webkit-box-shadow: 0px 2px 14px rgba(1, 118, 254, 0.40); box-shadow: 0px 2px 14px rgba(1,118, 254, 0.40); ">
                             <i class="batch-icon-ellipsis"></i>
@@ -37,6 +38,7 @@
                             <?php endif; ?>
                         </div>
                     </div>
+                    <?php endif;?>
                 </div>
                 <div class="order-items-table">
                     <style>

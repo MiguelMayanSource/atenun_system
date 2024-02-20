@@ -369,6 +369,12 @@ var patient_id = '<?php echo $det['patient_id'];?>';
                         </a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link " data-toggle="tab" href="#c-consent" id="d-consent">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 20 20"><path fill="currentColor" d="M6 2a2 2 0 0 0-2 2v7h1V4a1 1 0 0 1 1-1h4v3.5A1.5 1.5 0 0 0 11.5 8H15v8a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1v-2H4v2a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V7.414a1.5 1.5 0 0 0-.44-1.06l-3.914-3.915A1.5 1.5 0 0 0 10.586 2zm8.793 5H11.5a.5.5 0 0 1-.5-.5V3.207zM6.5 10a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1zm-4 2a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1zm4 2a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1z"/></svg>
+                            Consentimientos
+                        </a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link " data-toggle="tab" href="#c-files" id="d-files">
                             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 256 256">
                                 <path fill="currentColor" d="m212.24 67.76l-40-40A6 6 0 0 0 168 26H88a14 14 0 0 0-14 14v18H56a14 14 0 0 0-14 14v144a14 14 0 0 0 14 14h112a14 14 0 0 0 14-14v-18h18a14 14 0 0 0 14-14V72a6 6 0 0 0-1.76-4.24ZM170 216a2 2 0 0 1-2 2H56a2 2 0 0 1-2-2V72a2 2 0 0 1 2-2h77.51L170 106.49Zm32-32a2 2 0 0 1-2 2h-18v-82a6 6 0 0 0-1.76-4.24l-40-40A6 6 0 0 0 136 58H86V40a2 2 0 0 1 2-2h77.51L202 74.49Zm-60-32a6 6 0 0 1-6 6H88a6 6 0 0 1 0-12h48a6 6 0 0 1 6 6Zm0 32a6 6 0 0 1-6 6H88a6 6 0 0 1 0-12h48a6 6 0 0 1 6 6Z" />
@@ -523,6 +529,14 @@ var patient_id = '<?php echo $det['patient_id'];?>';
                     <div class="card-widget" id="extras" style="margin-top:15px;border: 1px solid #c6c6cc;">
                         <?php
                             include_once(dirname(__DIR__, 1).'/includes/patient_extras.php');
+                        ?>
+                    </div>
+                </div>
+                <!-- Consentimientos -->
+                <div class="tab-pane container fade" id="c-consent">
+                    <div class="card-widget" id="consent" style="margin-top:15px;border: 1px solid #c6c6cc;">
+                        <?php
+                            include_once(dirname(__DIR__, 1).'/includes/patient_consent.php');
                         ?>
                     </div>
                 </div>

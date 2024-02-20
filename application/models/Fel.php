@@ -65,7 +65,7 @@ class Fel extends CI_Model
                     $Description=$response['RequestTransactionResult']['Response']['Description'];
                     $Hint=$response['RequestTransactionResult']['Response']['Hint'];
                     $Data=$response['RequestTransactionResult']['Response']['Data'];
-                    echo '$Data: ' .$Data."  ".$Description;
+                    log_message('error','Error: ' .$Data."  ".$Description); 
                     $retornar['Data']= $Data;
                 }
                 else {
@@ -88,6 +88,7 @@ class Fel extends CI_Model
         catch(Exception $e) {
             echo 'Error: ' . $e->getMessage();
         }
+        
         $numeracion   = $retornar['Batch'];
         $serial       = $retornar['Serial'];
         $autorizacion = $retornar['Guid'];

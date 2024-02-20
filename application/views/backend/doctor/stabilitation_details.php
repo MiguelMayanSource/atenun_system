@@ -366,6 +366,12 @@ var patient_id = '<?php echo $det['patient_id'];?>';
                     </li>
                     -->
                     <li class="nav-item">
+                        <a class="nav-link " data-toggle="tab" href="#c-consent" id="d-consent">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 20 20"><path fill="currentColor" d="M6 2a2 2 0 0 0-2 2v7h1V4a1 1 0 0 1 1-1h4v3.5A1.5 1.5 0 0 0 11.5 8H15v8a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1v-2H4v2a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V7.414a1.5 1.5 0 0 0-.44-1.06l-3.914-3.915A1.5 1.5 0 0 0 10.586 2zm8.793 5H11.5a.5.5 0 0 1-.5-.5V3.207zM6.5 10a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1zm-4 2a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1zm4 2a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1z"/></svg>
+                            Consentimientos
+                        </a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link " data-toggle="tab" href="#c-extras" id="d-extras">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 20 20"><path fill="currentColor" d="M6 2a2 2 0 0 0-2 2v7h1V4a1 1 0 0 1 1-1h4v3.5A1.5 1.5 0 0 0 11.5 8H15v8a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1v-2H4v2a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V7.414a1.5 1.5 0 0 0-.44-1.06l-3.914-3.915A1.5 1.5 0 0 0 10.586 2zm8.793 5H11.5a.5.5 0 0 1-.5-.5V3.207zM6.5 10a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1zm-4 2a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1zm4 2a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1z"/></svg>
                             Extras
@@ -510,6 +516,14 @@ var patient_id = '<?php echo $det['patient_id'];?>';
                     <div class="card-widget" id="extras" style="margin-top:15px;border: 1px solid #c6c6cc;">
                         <?php
                             include_once(dirname(__DIR__, 1).'/includes/patient_extras.php');
+                        ?>
+                    </div>
+                </div>
+                <!-- Consentimientos -->
+                <div class="tab-pane container fade" id="c-consent">
+                    <div class="card-widget" id="consent" style="margin-top:15px;border: 1px solid #c6c6cc;">
+                        <?php
+                            include_once(dirname(__DIR__, 1).'/includes/patient_consent.php');
                         ?>
                     </div>
                 </div>

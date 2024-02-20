@@ -4866,4 +4866,302 @@ class Accounts_model extends CI_Model
     function getPermissionsRole($role_id) {
         return $this->db->get_where('role', array('role_id'=>$role_id))->row()->permissions;
     }
+
+
+	//funciones Miiguel
+
+	    function new_entity() {
+        include('public/apis/class.fileuploader.php');
+		$FileUploader_photo = new FileUploader('photo', array('uploadDir' => 'public/uploads/staff_image/'));
+    	$upload_photo = $FileUploader_photo->upload();
+
+    	if($upload_photo['isSuccess']) {
+        	$files = $upload_photo['files'];
+    	} else {
+        	$warningss = $upload_photo['warnings'];
+    	}
+        if($upload_photo['files'][0]['name'] != "")
+        {
+            $data['photo']        = $upload_photo['files'][0]['name'];
+        }
+        $password = $this->getPassword();
+        
+        $data['category']        = 3;
+        $data['first_name']      = $this->input->post('full_name');
+        $data['last_name']       = $this->input->post('tradename');
+        $data['email']           = $this->input->post('email');  
+        $data['phone']           = $this->input->post('phone_1'); 
+        $data['departamento_id'] = $this->input->post('departamento_id');  
+        $data['municipio_id']    = $this->input->post('municipio_id');  
+        $data['address']         = $this->input->post('address');
+        $data['country']         = $this->input->post('country');
+        $data['city']            = $this->input->post('city');
+        $data['postal_code']     = $this->input->post('postal_code');
+        $data['outdoor_number']  = $this->input->post('outdoor_number');
+        $data['interior_number'] = $this->input->post('interior_number');
+        $data['charge']          = $this->input->post('charge');
+        $data['password']        = sha1($password);
+        $data['username']        = $this->getUsername(strtolower($this->normalizeText($data['first_name']." ".$data['last_name'])));    
+        $data['status']          = 1;   
+        $data['account']         = 1;
+        $data['since']           = $this->formatDate();   
+        $data['clinic_id']       = $this->session->userdata('current_clinic');
+
+        $this->db->insert('staff', $data);
+        $staff_id = $this->db->insert_id();
+        $this->log_model->create_staff($staff_id);
+        
+        $dataProv['staff_id']             = $staff_id;
+        $dataProv['type_provider']        = 2;
+        $dataProv['application_date']     = $this->input->post('application_date');
+        $dataProv['fiscal_address']       = $this->input->post('fiscal_address');
+        $dataProv['commercial_address']   = $this->input->post('commercial_address');
+        $dataProv['website']              = $this->input->post('website');
+        $dataProv['nit']                  = $this->input->post('nit');
+        $dataProv['area_code']            = $this->input->post('area_code');
+        $dataProv['phone_2']              = $this->input->post('phone_2');
+        $dataProv['phone_3']              = $this->input->post('phone_3');
+        $dataProv['phone_contact']        = $this->input->post('phone_contact');
+        $dataProv['full_name_legal']      = $this->input->post('full_name_legal');
+        $dataProv['dpi_legal']            = $this->input->post('dpi_legal');
+        $dataProv['commercial_patent']    = $this->input->post('commercial_patent');
+        $dataProv['nit_legal']            = $this->input->post('nit_legal');
+        $dataProv['full_name_represent']  = $this->input->post('full_name_represent');
+        $dataProv['phone_represent']      = $this->input->post('phone_represent');
+        $dataProv['email_represent']      = $this->input->post('email_represent');
+        $dataProv['full_name_manager']    = $this->input->post('full_name_manager');
+        $dataProv['phone_manager']        = $this->input->post('phone_manager');
+        $dataProv['email_manager']        = $this->input->post('email_manager');
+        $dataProv['full_name_accounts']   = $this->input->post('full_name_accounts');
+        $dataProv['phone_accounts']       = $this->input->post('phone_accounts');
+        $dataProv['email_accounts']       = $this->input->post('email_accounts');
+        $dataProv['full_name_billing']    = $this->input->post('full_name_billing');
+        $dataProv['phone_billing']        = $this->input->post('phone_billing');
+        $dataProv['email_billing']        = $this->input->post('email_billing');
+        $dataProv['full_name_finance']    = $this->input->post('full_name_finance');
+        $dataProv['phone_finance']        = $this->input->post('phone_finance');
+        $dataProv['email_finance']        = $this->input->post('email_finance');
+        $dataProv['full_name_accounting'] = $this->input->post('full_name_accounting');
+        $dataProv['phone_accounting']     = $this->input->post('phone_accounting');
+        $dataProv['email_accounting']     = $this->input->post('email_accounting');
+        $dataProv['provider_service_id']  = $this->input->post('provider_service_id');
+        $dataProv['apply_fiscal']         = $this->input->post('apply_fiscal_legal');
+        $dataProv['fiscal_data']          = $this->input->post('fiscal_data');
+        $dataProv['credit_days']          = $this->input->post('credit_days');
+        $this->db->insert('provider_data', $dataProv);
+        
+        for ($i=0; $i<count($this->input->post('first_name_reference')); $i++) {
+            $first_name_reference = $this->input->post('first_name_reference')[$i];
+            if ($first_name_reference != '') {
+                $dataCom['first_name']     = $first_name_reference;
+                $dataCom['last_name']      = $this->input->post('last_name_reference')[$i];
+                $dataCom['phone']          = $this->input->post('first_name_reference')[$i];
+                $dataCom['company_person'] = $this->input->post('company_person_reference')[$i];
+                $dataCom['staff_id']       = $staff_id;
+                $this->db->insert('commercial_reference', $dataCom);
+            }
+        }
+        
+        for ($i=0; $i<count($this->input->post('bank_id')); $i++) {
+            $account_name = $this->input->post('account_name')[$i];
+            $account_no = $this->input->post('account_no')[$i];
+            if ($account_name != '' && $account_no != '') {
+                $dataBank['bank_id']         = $this->input->post('bank_id')[$i];
+                $dataBank['account_name']    = $account_name;
+                $dataBank['currency_id']     = $currency_id;
+                $dataBank['account_no']      = $this->input->post('account_no')[$i];
+                $dataBank['account_type_id'] = $this->input->post('account_type_id')[$i];
+                $dataBank['staff_id']        = $staff_id;
+                $this->db->insert('bank_reference', $dataBank);
+            }
+        }
+        
+        //log_message("error", "-----------------------------------");
+    	$files = array();
+    	$FileUploader = new FileUploader('doc_rtu', array('uploadDir' => 'public/uploads/staff_documents/' ));
+    	$upload = $FileUploader->upload();
+    	if($upload['isSuccess']) {
+        	$files = $upload['files'];
+    	} else {
+        	$warnings = $upload['warnings'];
+    	}
+    	if (count($files) > 0) {
+    	    for ($i=0; $i<count($files); $i++) {
+    	        $dataDocs['name']       = $files[$i]['name'];
+    	        $dataDocs['type']       = "rtu";
+    	        $dataDocs['expiration'] = $this->input->post('expiration_rtu');
+    	        $dataDocs['user_id']    = $staff_id;
+    	        $dataDocs['user_type']  = "staff";
+    	        $this->db->insert('document', $dataDocs);
+    	    }
+    	}
+    	$files = array();
+    	$FileUploader = new FileUploader('doc_dpi_rp', array('uploadDir' => 'public/uploads/staff_documents/' ));
+    	$upload = $FileUploader->upload();
+    	log_message("error", "Resultados: ".json_encode($upload));
+    	if($upload['isSuccess']) {
+        	$files = $upload['files'];
+    	} else {
+        	$warnings = $upload['warnings'];
+    	}
+    	if (count($files) > 0) {
+    	    for ($i=0; $i<count($files); $i++) {
+    	        // log_message("error", "Nombre: ".$files[$i]['name'].", Tipo: ".$files[$i]['type']);
+    	        $dataDocs['name']       = $files[$i]['name'];
+    	        $dataDocs['type']       = "dpi_rp";
+    	        $dataDocs['expiration'] = $this->input->post('expiration_dpi_rp');
+    	        $dataDocs['user_id']    = $staff_id;
+    	        $dataDocs['user_type']  = "staff";
+    	        $this->db->insert('document', $dataDocs);
+    	    }
+    	}
+    	$files = array();
+    	$FileUploader = new FileUploader('doc_rtu_company', array('uploadDir' => 'public/uploads/staff_documents/' ));
+    	$upload = $FileUploader->upload();
+    	if($upload['isSuccess']) {
+        	$files = $upload['files'];
+    	} else {
+        	$warnings = $upload['warnings'];
+    	}
+    	if (count($files) > 0) {
+    	    for ($i=0; $i<count($files); $i++) {
+    	        $dataDocs['name']       = $files[$i]['name'];
+    	        $dataDocs['type']       = "rtu_company";
+    	        $dataDocs['expiration'] = $this->input->post('expiration_rtu_company');
+    	        $dataDocs['user_id']    = $staff_id;
+    	        $dataDocs['user_type']  = "staff";
+    	        $this->db->insert('document', $dataDocs);
+    	    }
+    	}
+    	$files = array();
+    	$FileUploader = new FileUploader('doc_rtu_rp', array('uploadDir' => 'public/uploads/staff_documents/' ));
+    	$upload = $FileUploader->upload();
+    	if($upload['isSuccess']) {
+        	$files = $upload['files'];
+    	} else {
+        	$warnings = $upload['warnings'];
+    	}
+    	if (count($files) > 0) {
+    	    for ($i=0; $i<count($files); $i++) {
+    	        $dataDocs['name']       = $files[$i]['name'];
+    	        $dataDocs['type']       = "rtu_rp";
+    	        $dataDocs['expiration'] = $this->input->post('expiration_rtu_rp');
+    	        $dataDocs['user_id']    = $staff_id;
+    	        $dataDocs['user_type']  = "staff";
+    	        $this->db->insert('document', $dataDocs);
+    	    }
+    	}
+    	$files = array();
+    	$FileUploader = new FileUploader('doc_commercial_patent', array('uploadDir' => 'public/uploads/staff_documents/' ));
+    	$upload = $FileUploader->upload();
+    	if($upload['isSuccess']) {
+        	$files = $upload['files'];
+    	} else {
+        	$warnings = $upload['warnings'];
+    	}
+    	if (count($files) > 0) {
+    	    for ($i=0; $i<count($files); $i++) {
+    	        $dataDocs['name']       = $files[$i]['name'];
+    	        $dataDocs['type']       = "commercial_patent";
+    	        $dataDocs['expiration'] = $this->input->post('expiration_commercial_patent');
+    	        $dataDocs['user_id']    = $staff_id;
+    	        $dataDocs['user_type']  = "staff";
+    	        $this->db->insert('document', $dataDocs);
+    	    }
+    	}
+    	$files = array();
+    	$FileUploader = new FileUploader('doc_partner_patent', array('uploadDir' => 'public/uploads/staff_documents/' ));
+    	$upload = $FileUploader->upload();
+    	if($upload['isSuccess']) {
+        	$files = $upload['files'];
+    	} else {
+        	$warnings = $upload['warnings'];
+    	}
+    	if (count($files) > 0) {
+    	    for ($i=0; $i<count($files); $i++) {
+    	        $dataDocs['name']       = $files[$i]['name'];
+    	        $dataDocs['type']       = "partner_patent";
+    	        $dataDocs['expiration'] = $this->input->post('expiration_partner_patent');
+    	        $dataDocs['user_id']    = $staff_id;
+    	        $dataDocs['user_type']  = "staff";
+    	        $this->db->insert('document', $dataDocs);
+    	    }
+    	}
+    	$files = array();
+    	$FileUploader = new FileUploader('doc_receipt', array('uploadDir' => 'public/uploads/staff_documents/' ));
+    	$upload = $FileUploader->upload();
+    	if($upload['isSuccess']) {
+        	$files = $upload['files'];
+    	} else {
+        	$warnings = $upload['warnings'];
+    	}
+    	if (count($files) > 0) {
+    	    for ($i=0; $i<count($files); $i++) {
+    	        $dataDocs['name']       = $files[$i]['name'];
+    	        $dataDocs['type']       = "receipt";
+    	        $dataDocs['expiration'] = $this->input->post('expiration_receipt');
+    	        $dataDocs['user_id']    = $staff_id;
+    	        $dataDocs['user_type']  = "staff";
+    	        $this->db->insert('document', $dataDocs);
+    	    }
+    	}
+    	$files = array();
+    	$FileUploader = new FileUploader('doc_bank_statement', array('uploadDir' => 'public/uploads/staff_documents/' ));
+    	$upload = $FileUploader->upload();
+    	if($upload['isSuccess']) {
+        	$files = $upload['files'];
+    	} else {
+        	$warnings = $upload['warnings'];
+    	}
+    	if (count($files) > 0) {
+    	    for ($i=0; $i<count($files); $i++) {
+    	        $dataDocs['name']       = $files[$i]['name'];
+    	        $dataDocs['type']       = "bank_statement";
+    	        $dataDocs['expiration'] = $this->input->post('expiration_bank_statement');
+    	        $dataDocs['user_id']    = $staff_id;
+    	        $dataDocs['user_type']  = "staff";
+    	        $this->db->insert('document', $dataDocs);
+    	    }
+    	}
+    	$files = array();
+    	$FileUploader = new FileUploader('doc_fiscal_solvency', array('uploadDir' => 'public/uploads/staff_documents/' ));
+    	$upload = $FileUploader->upload();
+    	if($upload['isSuccess']) {
+        	$files = $upload['files'];
+    	} else {
+        	$warnings = $upload['warnings'];
+    	}
+    	if (count($files) > 0) {
+    	    for ($i=0; $i<count($files); $i++) {
+    	        $dataDocs['name']       = $files[$i]['name'];
+    	        $dataDocs['type']       = "fiscal_solvency";
+    	        $dataDocs['expiration'] = $this->input->post('expiration_fiscal_solvency');
+    	        $dataDocs['user_id']    = $staff_id;
+    	        $dataDocs['user_type']  = "staff";
+    	        $this->db->insert('document', $dataDocs);
+    	    }
+    	}
+        
+		/*
+        //-- Enviando correo de bienvenida
+        require("public/apis/class.phpmailer.php");
+        $mail = new PHPMailer(); 
+        $mail->IsHTML(true);
+        $mail->IsMail();
+        $mail->CharSet = 'UTF-8';
+        $mail->SetFrom('usuarios@mayansource.com', 'Notificaciones  sistema Atenun');
+        $mail->Subject = "Nueva cuenta registrada";
+        $data_email = array(
+            'email_msg' => "¡Hola ".str_replace(' ', '',$this->input->post('first_name'))."! Recibes esta notificación porque se ha creado una nueva cuenta de usuario en <b>".$this->system_name()."</b>, tus datos son los siguientes: <br><br><b>Usuario: </b>".$data['username']."<br><b>Contraseña:</b> ".$password."<br> Para iniciar sesión haz click aquí: ".base_url()
+        );
+        $mail->Body = $this->load->view('backend/mails/credentials.php',$data_email,TRUE);
+        $mail->AddAddress($this->input->post('email'));
+        if(!$mail->Send()) {
+            echo "Mailer Error: " . $mail->ErrorInfo;
+        }
+
+       
+        */
+        return $staff_id;
+    }
 }

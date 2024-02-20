@@ -148,7 +148,7 @@
                                     foreach($appointments as $appointment):
                                     if($appointment['status'] == 0){
                                         $className = 'pending';
-                                    }elseif($appointment['status'] == 1 || $appointment['status'] == 4){
+                                    }elseif($appointment['status'] == 1 || $appointment['status'] == 4 || $appointment['status'] == 10){
                                          $className = 'confirmed';
                                     }elseif($appointment['status'] == 3){
                                         $className = 'rep';
@@ -200,7 +200,7 @@
 
                                             <?php 
 
-                                        }elseif($appointment['status'] == 4){
+                                        }elseif($appointment['status'] == 4 || $appointment['status'] == 10){
 
                                             ?>
 

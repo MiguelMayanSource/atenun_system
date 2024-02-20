@@ -107,14 +107,9 @@
                 <span class="sideBox-item-name">Finanzas</span>
             </a>
         </li> -->
-        <?php endif; if ($check['reports'] == 1):?>
-        <!--<li class="sideBox-item" data-toggle="tooltip" data-placement="right" title="Reportes">
-            <a href="<?php echo base_url();?>admin/financial_reports/" <?php if ($page_name == 'reports' || $page_name == 'financial_reports' || $page_name == 'appointment_reports' || $page_name == 'inventory_reports'):?>class="currentPage" <?php endif;?>>
-                <i class="iconBox picons-thin-icon-thin-0397_analytics_graph_line_statistics_presentation_keynote"></i>
-                <span class="sideBox-item-name">Reportes</span>
-            </a>
-        </li>-->
-        <?php endif; if ($check['view_accounting'] == 1):?>
+        <?php endif;?>
+       
+        <?php  if ($check['view_accounting'] == 1):?>
         <li class="sideBox-item" data-toggle="tooltip" data-placement="right" title="Contabilidad">
             <a href="<?php echo base_url();?>admin/accounting/" <?php if ($page_name == 'accounting' || $page_name == 'nomenclature' || $page_name == 'departures' || $page_name == 'departure' || $page_name == 'departure_edit' || $page_name == 'journal' || $page_name == 'ledger' || $page_name == 'balances' || $page_name == 'statement' || $page_name == 'general' || $page_name == 'sales_book' || $page_name == 'purchasing' || $page_name == 'bank_book' || $page_name == 'bank_conciliations' || $page_name == 'bank_conciliation' || $page_name == 'bank_conciliation_detail' || $page_name == 'cash_flows' || $page_name == 'cash_flow' || $page_name == 'cash_flow_detail' || $page_name == 'clients_book' || $page_name == 'adjust' || $page_name == 'adjust_departure' || $page_name == 'adjust_detail' || $page_name == 'closing' || $page_name == 'closing_departure' || $page_name == 'closing_detail' || $page_name == 'opening' || $page_name == 'opening_departure' || $page_name == 'opening_detail'):?>class="currentPage" <?php endif;?>>
                 <i class="iconBox picons-thin-icon-thin-0016_bookmarks_reading_book"></i>
@@ -161,8 +156,16 @@
                     <span class="sideBox-item-name">Whatsapp</span>
                 </a>
             </li>
-            <?php endif;
-              if ($check['view_settings'] == 1):?> 
+            <?php endif;?>
+            
+             <li class="sideBox-item" data-toggle="tooltip" data-placement="right" title="Reportes">
+                <a href="<?php echo base_url();?>admin/appointment_reports/" <?php if ($page_name == 'reports' || $page_name == 'financial_reports' || $page_name == 'appointment_reports' || $page_name == 'inventory_reports'):?>class="currentPage" <?php endif;?>>
+                    <i class="iconBox picons-thin-icon-thin-0397_analytics_graph_line_statistics_presentation_keynote"></i>
+                    <span class="sideBox-item-name">Reportes</span>
+                </a>
+            </li>
+
+            <?php  if ($check['view_settings'] == 1):?> 
             <li class="sideBox-item" data-toggle="tooltip" data-placement="right" title="Configuración">
                 <a href="<?php echo base_url();?>admin/settings/" <?php if ($page_name == 'survey_results' || $page_name == 'question_board' || $page_name == 'questions' || $page_name == 'forms' || $page_name == 'confirmed' || $page_name == 'subscription' || $page_name == 'settings' || $page_name == 'specialties' || $page_name == 'laboratories' || $page_name == 'clinics' || $page_name == 'services' || $page_name == 'specialties' || $page_name == 'laboratories' || $page_name == 'surveys' || $page_name == 'thooth_procedures'):?>class="currentPage" <?php endif;?>>
                     <i class="iconBox picons-thin-icon-thin-0049_settings_panel_equalizer_preferences"></i>

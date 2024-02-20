@@ -1358,8 +1358,63 @@ class Admin extends CI_Controller
             $this->load->view('backend/includes/patient_appointments2.php', $page_data);
         }
 
+
+        if($param1 == 'patient_consent')
+        {
+            # code...
+            $page_data['patient_id'] = $this->input->post('patient_id');
+            $page_data['origin_type'] = $this->input->post('origin_type');
+            $page_data['origin_id'] = $this->input->post('origin_id');
+            $this->load->view('backend/includes/patient_consent.php', $page_data);
+        }
+        
+        if($param1 == 'new_patient_consent')
+        {
+            # code...
+            $page_data['patient_id'] = $this->input->post('patient_id');
+            $page_data['origin_type'] = $this->input->post('origin_type');
+            $page_data['origin_id'] = $this->input->post('origin_id');
+            $this->load->view('backend/includes/new_patient_consent.php', $page_data);
+        }
+
+
     }
     
+
+    function patient_consent($param1 = '', $param2 = '')
+    {
+          if($param1 == 'add_consent'){
+
+            if($this->session->userdata('login_type') != "doctor")
+            $user_type = $this->session->userdata('login_type');
+            else
+            $user_type = 'admin';
+            
+
+            $data = array(
+                'patient_id' => $this->input->post('patient_id'),
+                'date_solicite' => $this->input->post('date_solicite'),
+                'motive' => $this->input->post('motive'),
+                'details' => $this->input->post('details'),
+                'user_id' => $this->session->userdata('login_user_id'),
+                'user_type' => $user_type,
+                'status' => 0
+            );
+
+            $this->db->insert('patient_consent',$data);
+
+            exit();
+        }
+
+        if($param1 == 'print_consent')
+        {
+            $data = array(
+                'patient_consent_id' => $param2,
+            );
+            $this->pdf_model->pdf('Consentimiento Informado','print_consent.php',$data);
+        }
+
+    }
 
     function forms($param1 = '', $param2 = '')
     {
@@ -2954,6 +3009,21 @@ class Admin extends CI_Controller
             $this->session->set_flashdata('flash_message' , "Venta agregada correctamente.");
             redirect(base_url() . 'admin/sales_insurance/', 'refresh');
               
+        }
+
+        if($param1 == 'emit_invoice')
+        {
+            $emision_id = $this->fel->requestDocument(base64_decode($param2));
+
+            $this->db->where('sale_id',base64_decode($param2));
+            $this->db->update('sale',array('invoice'=> $emision_id['emision_id']));
+
+            if($emision_id['emision_id'] != '')
+            $this->session->set_flashdata('flash_message' , "Factura emitida correctamente.");
+            else
+            $this->session->set_flashdata('error_message' , "La factura no se pudo emitir.");
+
+            redirect(base_url() . 'admin/sale_details/'.$param2, 'refresh');
         }
 
         if($this->input->post('date_start') != '' && $this->input->post('date_end') != '')
@@ -10121,6 +10191,85 @@ function service_details($param1 = '', $param2 = '')
         $page_data['page_title']  = "Clientes";
         $this->load->view('backend/index', $page_data);
     }
+
+    //Datos de Miguel
+    function entity($param1 = '', $param2 = '') 
+    {
+         $this->session_login();
+        
+        if ($param1 == 'new') {
+            return $this->accounts_model->new_entity();
+        }
+        if ($param1 == 'edit_single') {
+            return $this->accounts_model->edit_provider_single($param2);
+        }
+        if ($param1 == 'edit_legal') {
+            return $this->accounts_model->edit_provider_legal($param2);
+        }
+        $page_data['staff']       = $this->crud_model->getStaffList(3);
+        $page_data['page_name']   = 'providers';
+        $page_data['page_title']  = "Proveedores";
+        $this->load->view('backend/index', $page_data);
+    }
+
+
+
+
+    function update_patient_copies() {
+    
+    
+        $tables = $this->db->query("SELECT TABLE_NAME FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME != 'patient' AND COLUMN_NAME LIKE '%patient_id%' AND TABLE_SCHEMA = 'atenun_system'")->result_array();
+        foreach($tables as $tb)
+        {
+            echo $tb['TABLE_NAME'].'<br>';
+          
+            $data= array('patient_id'=>1380);
+            $this->db->where('patient_id',620);
+            $this->db->update($tb['TABLE_NAME'],$data);
+          
+            $data= array('patient_id'=>644);
+            $this->db->where('patient_id',643);
+            $this->db->update($tb['TABLE_NAME'],$data);
+  
+            $data= array('patient_id'=>644);
+            $this->db->where('patient_id',642);
+            $this->db->update($tb['TABLE_NAME'],$data);
+            $data= array('patient_id'=>644);
+            $this->db->where('patient_id',641);
+            $this->db->update($tb['TABLE_NAME'],$data);
+            $data= array('patient_id'=>644);
+            $this->db->where('patient_id',642);
+            $this->db->update($tb['TABLE_NAME'],$data);
+            $data= array('patient_id'=>644);
+            $this->db->where('patient_id',640);
+            $this->db->update($tb['TABLE_NAME'],$data);
+            $data= array('patient_id'=>644);
+            $this->db->where('patient_id',639);
+            $this->db->update($tb['TABLE_NAME'],$data);
+            $this->db->where('patient_id',453);
+            $this->db->update($tb['TABLE_NAME'],$data);
+  
+          }
+          
+  
+          $this->db->where('patient_id',620);
+          $this->db->delete('patient');    
+          $this->db->where('patient_id',643);
+          $this->db->delete('patient');    
+          $this->db->where('patient_id',642);
+          $this->db->delete('patient');    
+          $this->db->where('patient_id',641);
+          $this->db->delete('patient');    
+          $this->db->where('patient_id',640);
+          $this->db->delete('patient');   
+          $this->db->where('patient_id',639);
+          $this->db->delete('patient'); 
+          $this->db->where('patient_id',453);
+          $this->db->delete('patient'); 
+          
+      }
+
+
     
 ////////////////////////////////////////////////////////////////
 }

@@ -1383,6 +1383,24 @@ class Staff extends CI_Controller
             $this->load->view('backend/includes/patient_appointments2.php', $page_data);
         }
 
+        if($param1 == 'patient_consent')
+        {
+            # code...
+            $page_data['patient_id'] = $this->input->post('patient_id');
+            $page_data['origin_type'] = $this->input->post('origin_type');
+            $page_data['origin_id'] = $this->input->post('origin_id');
+            $this->load->view('backend/includes/patient_consent.php', $page_data);
+        }
+        
+        if($param1 == 'new_patient_consent')
+        {
+            # code...
+            $page_data['patient_id'] = $this->input->post('patient_id');
+            $page_data['origin_type'] = $this->input->post('origin_type');
+            $page_data['origin_id'] = $this->input->post('origin_id');
+            $this->load->view('backend/includes/new_patient_consent.php', $page_data);
+        }
+
     }
     
     

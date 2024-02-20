@@ -357,6 +357,12 @@ var patient_id = '<?php echo $det['patient_id'];?>';
                         </a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link " data-toggle="tab" href="#c-consent" id="d-consent">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 20 20"><path fill="currentColor" d="M6 2a2 2 0 0 0-2 2v7h1V4a1 1 0 0 1 1-1h4v3.5A1.5 1.5 0 0 0 11.5 8H15v8a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1v-2H4v2a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V7.414a1.5 1.5 0 0 0-.44-1.06l-3.914-3.915A1.5 1.5 0 0 0 10.586 2zm8.793 5H11.5a.5.5 0 0 1-.5-.5V3.207zM6.5 10a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1zm-4 2a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1zm4 2a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1z"/></svg>
+                            Consentimientos
+                        </a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link " data-toggle="tab" href="#c-files" id="d-files">
                             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 256 256">
                                 <path fill="currentColor" d="m212.24 67.76l-40-40A6 6 0 0 0 168 26H88a14 14 0 0 0-14 14v18H56a14 14 0 0 0-14 14v144a14 14 0 0 0 14 14h112a14 14 0 0 0 14-14v-18h18a14 14 0 0 0 14-14V72a6 6 0 0 0-1.76-4.24ZM170 216a2 2 0 0 1-2 2H56a2 2 0 0 1-2-2V72a2 2 0 0 1 2-2h77.51L170 106.49Zm32-32a2 2 0 0 1-2 2h-18v-82a6 6 0 0 0-1.76-4.24l-40-40A6 6 0 0 0 136 58H86V40a2 2 0 0 1 2-2h77.51L202 74.49Zm-60-32a6 6 0 0 1-6 6H88a6 6 0 0 1 0-12h48a6 6 0 0 1 6 6Zm0 32a6 6 0 0 1-6 6H88a6 6 0 0 1 0-12h48a6 6 0 0 1 6 6Z" />
@@ -372,6 +378,20 @@ var patient_id = '<?php echo $det['patient_id'];?>';
                         <div class="row layout-top-spacing">
                             <div class="col-xl-12 col-lg-12 col-sm-12  layout-spacing">
                                 <div class="widget-content widget-content-area br-6">
+                                    <?php
+                                        // Fecha de registro (asumiendo que está en formato de fecha de MySQL)
+                                        $fecha_registro = $det['date']; // Ejemplo, debes reemplazar esto con tu fecha de registro
+                                        // Convertir la fecha de registro al formato de fecha de MySQL ("YYYY-MM-DD")
+                                        $fecha_registro_mysql = DateTime::createFromFormat('d/m/Y', $fecha_registro)->format('Y-m-d');
+
+                                        // Obtener la fecha actual en formato de fecha de MySQL
+                                        $fecha_actual_mysql = date('Y-m-d');
+
+                                        // Calcular la diferencia en días entre la fecha actual y la fecha de registro
+                                        $diff = date_diff(date_create($fecha_registro_mysql), date_create($fecha_actual_mysql));
+                                        $diferencia_dias = $diff->days;
+
+                                     if($det['status'] == 1 || (($det['status'] == 10 || $det['status'] )== 4 && $diferencia_dias < 7)):?>
                                     <div id="sticky1">
                                         <div class="" id="mydiv">
                                             <img class="intLink" title="Save" onclick="save()"
@@ -416,6 +436,7 @@ var patient_id = '<?php echo $det['patient_id'];?>';
                                             <img class="intLink" title="Print" onclick="print_history();" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABGdBTUEAALGPC/xhBQAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9oEBxcZFmGboiwAAAAIdEVYdENvbW1lbnQA9syWvwAAAuFJREFUOMvtlUtsjFEUx//n3nn0YdpBh1abRpt4LFqtqkc3jRKkNEIsiIRIBBEhJJpKlIVo4m1RRMKKjQiRMJRUqUdKPT71qpIpiRKPaqdF55tv5vvusZjQTjOlseUkd3Xu/3dPzusC/22wtu2wRn+jG5So/OCDh8ycMJDflehMlkJkVK7KUYN+ufzA/RttH76zaVocDptRxzQtNi3mRWuPc+6cKtlXZ/sddP2uu9uXlmYXZ6Qm8v4Tz8lhF1H+zDQXt7S8oLMXtbF4e8QaFHjj3kbP2MzkktHpiTjp9VH6iHiA+whtAsX5brpwueMGdONdf/2A4M7ukDs1JW662+XkqTkeUoqjKtOjm2h53YFL15pSJ04Zc94wdtibr26fXlC2mzRvBccEbz2kiRFD414tKMlEZbVGT33+qCoHgha81SWYsew0r1uzfNylmtpx80pngQQ91LwVk2JGvGnfvZG6YcYRAT16GFtW5kKKfo1EQLtfh5Q2etT0BIWF+aitq4fDbk+ImYo1OxvGF03waFJQvBCkvDffRyEtxQiFFYgAZTHS0zwAGD7fG5TNnYNTp8/FzvGwJOfmgG7GOx0SAKKgQgDMgKBI0NJGMEImpGDk5+WACEwEd0ywblhGUZ4Hw5OdUekRBLT7DTgdEgxACsIznx8zpmWh7k4rkpJcuHDxCul6MDsmmBXDlWCH2+XozSgBnzsNCEE4euYV4pwCpsWYPW0UHDYBKSWu1NYjENDReqtKjwn2+zvtTc1vMSTB/mvev/WEYSlASsLimcOhOBJxw+N3aP/SjefNL5GePZmpu4kG7OPr1+tOfPyUu3BecWYKcwQcDFmwFKAUo90fhKDInBCAmvqnyMgqUEagQwCoHBDc1rjv9pIlD8IbVkz6qYViIBQGTJPx4k0XpIgEZoRN1Da0cij4VfR0ta3WvBXH/rjdCufv6R2zPgPH/e4pxSBCpeatqPrjNiso203/5s/zA171Mv8+w1LOAAAAAElFTkSuQmCC">
                                         </div>
                                     </div>
+                                    <?php endif; ?>
                                     <div class="editor appointmet_observations">
                                         <?php 
                                             
@@ -492,6 +513,14 @@ var patient_id = '<?php echo $det['patient_id'];?>';
                     <div class="card-widget" id="extras" style="margin-top:15px;border: 1px solid #c6c6cc;">
                         <?php
                             include_once(dirname(__DIR__, 1).'/includes/patient_extras.php');
+                        ?>
+                    </div>
+                </div>
+                <!-- Consentimientos -->
+                <div class="tab-pane container fade" id="c-consent">
+                    <div class="card-widget" id="consent" style="margin-top:15px;border: 1px solid #c6c6cc;">
+                        <?php
+                            include_once(dirname(__DIR__, 1).'/includes/patient_consent.php');
                         ?>
                     </div>
                 </div>

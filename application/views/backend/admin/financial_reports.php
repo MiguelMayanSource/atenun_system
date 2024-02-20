@@ -3,15 +3,9 @@
         <div class="os-tabs-controls">
             <ul class="navx nav-tabs">
                 <li class="nav-item text-center">
-                    <a class="nav-link current" href="<?php echo base_url();?>admin/financial_reports/">
-                        <div class="navWidget"><i class="picons-thin-icon-thin-0425_money_payment_dollar_cash"></i>
-                        </div> <span>Financiero</span>
-                    </a>
-                </li>
-                <li class="nav-item text-center">
                     <a class="nav-link" href="<?php echo base_url();?>admin/appointment_reports/">
                         <div class="navWidget"><i class="picons-thin-icon-thin-0021_calendar_month_day_planner"></i>
-                        </div> <span>Cirugías</span>
+                        </div> <span>Citas</span>
                     </a>
                 </li>
                 <?php 

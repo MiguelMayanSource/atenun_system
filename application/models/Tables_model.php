@@ -1744,8 +1744,14 @@ function get_sales($table, $fetch_data,$param1, $param2, $param3)
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">';
                                 if($row->status == 3)
                 $actions .=' <a class="dropdown-item" href="'.base_url().$this->session->userdata('login_type').'/notasdca/'.base64_encode($row->sale_id).'">Nueva nota</a>';
-               $actions .='     <a class="dropdown-item" href="'.base_url().$this->session->userdata('login_type').'/sale_details/'.base64_encode($row->sale_id).'">Detalles</a>
-                                    <a class="dropdown-item" href="javascript:void(0);" onclick="delete_sale(\''.base64_encode($row->sale_id).'\')">Anular</a>
+               
+               
+               $actions .='         <a class="dropdown-item" href="'.base_url().$this->session->userdata('login_type').'/sale_details/'.base64_encode($row->sale_id).'">Detalles</a>';
+                 if($row->invoice == '')
+                                      $actions .='    <a class="dropdown-item" href="'.base_url().$this->session->userdata('login_type').'/sales/emit_invoice/'.base64_encode($row->sale_id).'">Emitir factura</a>';
+
+
+                                       $actions .='  
                                 </div>
                             </div>';
 
