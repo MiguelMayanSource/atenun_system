@@ -10212,6 +10212,15 @@ function service_details($param1 = '', $param2 = '')
         $this->load->view('backend/index', $page_data);
     }
 
+    function entity_new ($param1 = '', $param2 = '')
+    {
+         $this->session_login();
+        $page_data['type']        = $param1;
+        $page_data['page_name']   = 'entity_new';
+        $page_data['page_title']  = "Nueva Entidad";
+        $this->load->view('backend/index', $page_data);
+    }
+
 
 
 
