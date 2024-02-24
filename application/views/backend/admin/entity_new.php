@@ -658,7 +658,7 @@
                             </div>
                             <div class="col-sm-12 mt-4">
                                 <div class="form-group m-b-15">
-                                    <button class="btn btn-primary" type="submit">Guardar proveedor</button>
+                                    <button class="btn btn-primary" type="submit">Guardar Entidad</button>
                                 </div>
                             </div>
                         </div>

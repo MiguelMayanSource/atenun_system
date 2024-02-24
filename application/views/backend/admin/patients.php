@@ -11,7 +11,7 @@
             <div class="title-header">
                 <h3 class="module-title">PACIENTES</h3>
                 <a class="add-buton pull-right" href="javascript:void(0)" data-toggle="modal" data-target="#1specialtiesModal">+ Agregar seguro</a>
-                <a class="add-buton pull-right" href="javascript:void(0)" data-toggle="modal" data-target="#1specialtiesModal">+ Agregar seguro</a>
+                <a class="add-buton pull-right" href="<?php echo base_url(); ?>admin/entity_new" >+ Agregar Entidad</a>
             </div>
         </div>
         <div class="col-sm-3">
