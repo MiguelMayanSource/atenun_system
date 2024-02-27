@@ -10206,13 +10206,17 @@ function service_details($param1 = '', $param2 = '')
         if ($param1 == 'edit') {
             $this->accounts_model->edit_entity($param2);
             $this->session->set_flashdata('flash_message' , "Entidad actualizada correctamente.");
-            redirect(base_url().'admin/entity_maintenance/', 'refresh');
+            redirect(base_url().'admin/entity/'.base64_encode($param2), 'refresh');
         }
-
-        $page_data['id_category'] = base64_decode($param1);
-        $page_data['page_name']   = 'entity';
-        $page_data['page_title']  = "Entidad";
-        $this->load->view('backend/index', $page_data);
+        if($param1 != "")
+        {
+            $page_data['id_category'] = base64_decode($param1);
+            $page_data['page_name']   = 'entity';
+            $page_data['page_title']  = "Entidad";
+            $this->load->view('backend/index', $page_data);
+        }
+        else 
+        redirect(base_url().'admin/patients', 'refresh');
     }
 
     function entity_new ($param1 = '', $param2 = '')
