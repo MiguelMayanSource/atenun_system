@@ -3,6 +3,7 @@
     $week_name_days  = $this->crud_model->panelDate();
 ?>
 
+<?php include "navigation_entity.php"; ?>
 <div id="main-content">
     <?php $insurance = $this->db->get_where('insurance',array('status'=>1))->result_array();?>
 
@@ -11,7 +12,6 @@
             <div class="title-header">
                 <h3 class="module-title">PACIENTES</h3>
                 <a class="add-buton pull-right" href="javascript:void(0)" data-toggle="modal" data-target="#1specialtiesModal">+ Agregar seguro</a>
-                <a class="add-buton pull-right" href="<?php echo base_url(); ?>admin/entity_new" >+ Agregar Entidad</a>
             </div>
         </div>
         <div class="col-sm-3">

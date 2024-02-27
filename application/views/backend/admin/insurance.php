@@ -37,6 +37,12 @@
                             <div class="navWidget"><i class="picons-thin-icon-thin-0711_young_boy_user_profile_avatar_man_male"></i></div> <span>Roles de usuario</span>
                         </a>
                     </li>
+                    
+                 <li class="nav-item text-center">
+                    <a class="nav-link" href="<?php echo base_url();?>admin/entity_maintenance/">
+                        <div class="navWidget"><i class="picons-thin-icon-thin-0823_hospital_ill_medicine_doctor_ambulance"></i></div> <span>Categoría de entidad</span>
+                    </a>
+                </li>
                 </ul>
             </div>
         </div>

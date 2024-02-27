@@ -10198,31 +10198,72 @@ function service_details($param1 = '', $param2 = '')
          $this->session_login();
         
         if ($param1 == 'new') {
-            return $this->accounts_model->new_entity();
+            $this->accounts_model->new_entity($param2);
+            $this->session->set_flashdata('flash_message' , "Entidad Registrada correctamente.");
+            redirect(base_url().'admin/entity/'.base64_encode($param2), 'refresh');
         }
-        if ($param1 == 'edit_single') {
-            return $this->accounts_model->edit_provider_single($param2);
+
+        if ($param1 == 'edit') {
+            $this->accounts_model->edit_entity($param2);
+            $this->session->set_flashdata('flash_message' , "Entidad actualizada correctamente.");
+            redirect(base_url().'admin/entity_maintenance/', 'refresh');
         }
-        if ($param1 == 'edit_legal') {
-            return $this->accounts_model->edit_provider_legal($param2);
-        }
-        $page_data['staff']       = $this->crud_model->getStaffList(3);
-        $page_data['page_name']   = 'providers';
-        $page_data['page_title']  = "Proveedores";
+
+        $page_data['id_category'] = base64_decode($param1);
+        $page_data['page_name']   = 'entity';
+        $page_data['page_title']  = "Entidad";
         $this->load->view('backend/index', $page_data);
     }
 
     function entity_new ($param1 = '', $param2 = '')
     {
-         $this->session_login();
+        $this->session_login();
+        $page_data['type']        = base64_decode($param1);
+        $page_data['page_name']   = 'entity_new';
+        $page_data['page_title']  = "Nueva Entidad";
+        $this->load->view('backend/index', $page_data);
+    }
+    function entity_edit ($param1 = '', $param2 = '')
+    {
+        $this->session_login();
+        $page_data['type']        = base64_decode($param1);
+        $page_data['page_name']   = 'entity_edit';
+        $page_data['page_title']  = "Editar Entidad";
+        $this->load->view('backend/index', $page_data);
+    }
+
+    function entity_category($param1 = "", $param2 = ""){
+        $this->session_login();
+        if($param1 == "create")
+        {
+            $new_id =  $this->accounts_model->entity_category_add();
+            redirect(base_url().'admin/entity/'.base64_encode($new_id), 'refresh');
+        }
+        if($param1 == "delete")
+        {
+            $this->accounts_model->entity_category_delete($param2);
+            redirect(base_url().'admin/entity_maintenance/', 'refresh');
+        }
+        if($param1 == "update")
+        {
+            $this->accounts_model->entity_category_update($param2);
+            redirect(base_url().'admin/entity_maintenance/', 'refresh');
+        }
+
         $page_data['type']        = $param1;
         $page_data['page_name']   = 'entity_new';
         $page_data['page_title']  = "Nueva Entidad";
         $this->load->view('backend/index', $page_data);
     }
 
-
-
+    function entity_maintenance($param1 = '', $param2 = '')
+    {
+        
+        $page_data['type']        = $param1;
+        $page_data['page_name']   = 'entity_maintenance';
+        $page_data['page_title']  = "Entidades";
+        $this->load->view('backend/index', $page_data);
+    }
 
     function update_patient_copies() {
     
