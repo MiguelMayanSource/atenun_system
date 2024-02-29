@@ -30,9 +30,9 @@
                                     <i class="picons-thin-icon-thin-0699_user_profile_avatar_man_male"></i>
                                 </div>
                                 <ul>
-                                    <li><a href="<?php echo base_url()?>admin/entity_edit/<?php echo base64_encode($row['entity_id']);?>"><i class="picons-thin-icon-thin-0001_compose_write_pencil_new"></i><span>Actualizar</span></a>
+                                    <li><a href="<?php echo base_url()?>admin/entity_edit/<?php echo base64_encode($row['entity_id'])."/".base64_encode($id_category);?>"><i class="picons-thin-icon-thin-0001_compose_write_pencil_new"></i><span>Actualizar</span></a>
                                     </li>
-                                    <li><a href="javascript:void(0);" onclick="delete_insurance('<?php echo $row['entity_id'];?>')"><i class="picons-thin-icon-thin-0056_bin_trash_recycle_delete_garbage_empty"></i><span>Eliminar</span></a>
+                                    <li><a href="javascript:void(0);" onclick="delete_entity('<?php echo $row['entity_id']?>','<?php echo $id_category; ?>')"><i class="picons-thin-icon-thin-0056_bin_trash_recycle_delete_garbage_empty"></i><span>Eliminar</span></a>
                                     </li>
                                 </ul>
                             </div>
@@ -40,7 +40,7 @@
                     </div>
                     <div class="" style="display: inline-block;width: 113px;height: auto;font-size: 60px;background: #042d50;color: white;padding: 10px;border-radius: 50%;"><i class="picons-thin-icon-thin-0823_hospital_ill_medicine_doctor_ambulance"></i></div>
                     <div class="pt-user-last"><?php echo $row['first_name'  ];?></div>
-                    <div class="pt-user-name" onclick="window.location.href='<?php echo base_url();?>admin/patients_list/<?php echo base64_encode($row['insurance_id']);?>';">
+                    <div class="pt-user-name" onclick="window.location.href='<?php echo base_url();?>admin/entity_list/<?php echo base64_encode($row['entity_id']);?>';">
                         Ver</div>
                 </div>
             </div>
@@ -57,5 +57,21 @@ $('.os-dropdown-trigger').on('mouseleave', function() {
     $(this).removeClass('over');
 });
 
+function delete_entity(entity_id,id_category) {
+    Swal.fire({
+        title: "¡Advertencia!",
+        text: "Esta acción no puede deshacerse, perderá información de sus pacientes, citas. ¿Aún así, desea continuar?",
+        type: 'info',
+        showCancelButton: true,
+        confirmButtonColor: '#9fd13b',
+        cancelButtonColor: '#fd4f57',
+        confirmButtonText: 'Sí, eliminar',
+        cancelButtonText: 'Cancelar'
+    }).then((result) => {
+        if (result.value) {
+            location.href = "<?php echo base_url();?>admin/entity/delete/" + entity_id +"/"+ id_category;
+        }
+    })
+}
 
 </script>

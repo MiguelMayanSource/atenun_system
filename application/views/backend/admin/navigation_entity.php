@@ -16,11 +16,11 @@
                     </a>
                 </li>
                 <?php endif; endforeach; ?>
-                <li class="nav-item text-center">
+                <!-- <li class="nav-item text-center">
                     <a class="nav-link <?php  if($page_name == "doctors") echo 'current'; ?>" href="javascript:void(0)" onclick="modal_lg('<?php echo base_url();?>Modal/popup/modal_entity_add');">
                         <div class="navWidget"><i class="picons-thin-icon-thin-0706_user_profile_add_new"></i></div> <span>Agregar</span>
                     </a>
-                </li>
+                </li> -->
             </ul>
         </div>
     </div>

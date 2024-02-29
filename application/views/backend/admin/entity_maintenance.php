@@ -58,6 +58,7 @@
         <div class="card-box padding0">
 
             <div class="card-h customPadding noborder">
+                <a class="btn btn-info pull-right" href="javascript:void(0)" onclick="modal_lg('<?php echo base_url();?>Modal/popup/modal_entity_add');" style="margin-right:45px">Nuevo</a>
                 <h5 class="card-caption">Categoría de Entidades</h5>
             </div>
             <div class="card-b">

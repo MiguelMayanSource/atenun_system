@@ -60,7 +60,7 @@
         <?php endif;
         if ($check['view_patients'] == 1):?>
         <li class="sideBox-item" data-toggle="tooltip" data-placement="right" title="Pacientes">
-            <a href="<?php echo base_url();?>admin/patients/" <?php if ($page_name == 'prescription_details' || $page_name == 'patients' || $page_name == 'patients_list' || $page_name == 'patient_profile' || $page_name == 'medical_history' || $page_name == 'medical_prescriptions' || $page_name == 'patient_files' || $page_name == 'patient_appointments' || $page_name == 'patient_financial' || $page_name == 'patient_security' || $page_name == 'treatment' || $page_name == 'treatment_details' || $page_name == 'patients_add'|| $page_name == 'patients_edit'):?>class="currentPage" <?php endif;?>>
+            <a href="<?php echo base_url();?>admin/patients/" <?php if ($page_name == 'entity' || $page_name == 'prescription_details' || $page_name == 'patients' || $page_name == 'patients_list' || $page_name == 'patient_profile' || $page_name == 'medical_history' || $page_name == 'medical_prescriptions' || $page_name == 'patient_files' || $page_name == 'patient_appointments' || $page_name == 'patient_financial' || $page_name == 'patient_security' || $page_name == 'treatment' || $page_name == 'treatment_details' || $page_name == 'patients_add'|| $page_name == 'patients_edit'):?>class="currentPage" <?php endif;?>>
                 <i class="iconBox picons-thin-icon-thin-0092_file_profile_user_personal"></i>
                 <span class="sideBox-item-name">Pacientes</span>
             </a>

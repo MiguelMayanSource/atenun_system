@@ -166,6 +166,7 @@
                                     <input style="border: 1px solid #198cff8f;" type="tel" name="workplace" class="form-control">
                                 </div>
                             </div>
+                            <?php if($category == 0): ?>
                             <div class="col-sm-3">
                                 <div class="form-group m-b-15">
                                     <label for="simpleinput">Seguro <span style="color:red">*</span></label><br>
@@ -180,6 +181,9 @@
                                     </select>
                                 </div>
                             </div>
+                            <?php else:?>
+                                <input type="hidden" name="entity_id" value="<?php echo $category;?>">
+                            <?php endif; ?>
                             <div class="col-sm-3">
                                 <div class="form-group">
                                     <label>Estado civil</label>
@@ -205,6 +209,34 @@
                                         </div>
                                         <div class="form-check" style="">
                                             <input class="radiobutton" type="radio" name="gender" id="radio5" value="O"><label class="radiobutton-label" for="radio5">Otros</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <label>Notificaciónes Whatsapp</label>
+                                    <div class="input-group">
+                                        <div class="form-check" style="padding-left: 0px;padding-right: 8px;">
+                                            <input checked="" class="radiobutton" type="radio" name="wha_status" id="radio6" checked value="0"><label class="radiobutton-label" for="radio6">Si</label>
+                                        </div>
+                                        <div class="form-check" style="padding-left: 0px;">
+                                            <input class="radiobutton" type="radio" name="wha_status" id="radio7" value="1"><label class="radiobutton-label" for="radio7">No</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <label>Notificaciónes Email</label>
+                                    <div class="input-group">
+                                        <div class="form-check" style="padding-left: 0px;padding-right: 8px;">
+                                            <input checked="" class="radiobutton" type="radio" name="email_status" id="radio8" checked value="0"><label class="radiobutton-label" for="radio8">Si</label>
+                                        </div>
+                                        <div class="form-check" style="padding-left: 0px;">
+                                            <input class="radiobutton" type="radio" name="email_status" id="radio9" value="1"><label class="radiobutton-label" for="radio9">No</label>
                                         </div>
                                     </div>
                                 </div>
@@ -519,6 +551,33 @@
                                             </div>
                                             <div class="form-check" style="">
                                                 <input class="radiobutton" type="radio" name="gender_rep" id="radio10" value="O"><label class="radiobutton-label" for="radio10">Otros</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
+                                    <div class="form-group">
+                                        <label>Notificaciónes Whatsapp</label>
+                                        <div class="input-group">
+                                            <div class="form-check" style="padding-left: 0px;padding-right: 8px;">
+                                                <input checked="" class="radiobutton" type="radio" name="wha_status_rep" id="radio11" checked value="0"><label class="radiobutton-label" for="radio11">Si</label>
+                                            </div>
+                                            <div class="form-check" style="padding-left: 0px;">
+                                                <input class="radiobutton" type="radio" name="wha_status_rep" id="radio12" value="1"><label class="radiobutton-label" for="radio12">No</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-3">
+                                    <div class="form-group">
+                                        <label>Notificaciónes Email</label>
+                                        <div class="input-group">
+                                            <div class="form-check" style="padding-left: 0px;padding-right: 8px;">
+                                                <input checked="" class="radiobutton" type="radio" name="email_status_rep" id="radio13" checked value="0"><label class="radiobutton-label" for="radio13">Si</label>
+                                            </div>
+                                            <div class="form-check" style="padding-left: 0px;">
+                                                <input class="radiobutton" type="radio" name="email_status_rep" id="radio14" value="1"><label class="radiobutton-label" for="radio14">No</label>
                                             </div>
                                         </div>
                                     </div>

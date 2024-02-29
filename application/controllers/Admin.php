@@ -4286,11 +4286,11 @@ class Admin extends CI_Controller
         }
         if($param1 == 'update')
         {
+
             $this->accounts_model->update_patient($param2);
             $this->session->set_flashdata('flash_message' , "Paciente actualizado correctamente.");
            
             redirect(base_url() . 'admin/patient_profile/'.base64_encode($param2), 'refresh');
-           
         }
         if($param1 == 'delete')
         {
@@ -4798,8 +4798,7 @@ class Admin extends CI_Controller
 
     function patients_add($param1 ='' , $param2 ='' ){
          $this->session_login();
-
-        $page_data['category']   = $param1;
+        $page_data['category']   = base64_decode($param1);
         $page_data['page_name']   = 'patients_add';
         $page_data['page_title']  = "Pacientes";
         $this->load->view('backend/index', $page_data);
@@ -9805,6 +9804,7 @@ function getPatientsWhatsapp()
         $this->db->select("*");  
         $this->db->order_by('first_name', 'ASC');
         $this->db->from("patient");
+        $this->db->where("whatsapp_notification",0);
         $this->db->where('clinic_id',$this->session->userdata('current_clinic'));
         $this->db->where('status !=', 0);
         $patients = $this->db->get()->result_array();  
@@ -9814,6 +9814,7 @@ function getPatientsWhatsapp()
         $this->db->from('insurance_patients ip');
         $this->db->join('patient p', 'ip.patient_id = p.patient_id');
         $this->db->where('ip.insurance_id', $this->input->post('insurance_id'));
+        $this->db->where('p.whatsapp_notification', 0);
         $this->db->where('p.status', 1);
         $patients = $this->db->get()->result_array();  
     }
@@ -10193,20 +10194,27 @@ function service_details($param1 = '', $param2 = '')
     }
 
     //Datos de Miguel
-    function entity($param1 = '', $param2 = '') 
+    function entity($param1 = '', $param2 = '', $param3 = '') 
     {
          $this->session_login();
         
         if ($param1 == 'new') {
             $this->accounts_model->new_entity($param2);
             $this->session->set_flashdata('flash_message' , "Entidad Registrada correctamente.");
-            redirect(base_url().'admin/entity/'.base64_encode($param2), 'refresh');
+            redirect(base_url().'admin/patients', 'refresh');
         }
 
         if ($param1 == 'edit') {
+            
             $this->accounts_model->edit_entity($param2);
             $this->session->set_flashdata('flash_message' , "Entidad actualizada correctamente.");
-            redirect(base_url().'admin/entity/'.base64_encode($param2), 'refresh');
+            redirect(base_url().'admin/entity/'.base64_encode($param3), 'refresh');
+        }
+
+        if ($param1 == 'delete') {
+            $this->accounts_model->delete_entity($param2);
+            $this->session->set_flashdata('flash_message' , "Entidad Eliminada correctamente.");
+            redirect(base_url().'admin/entity/'.base64_encode($param3), 'refresh');
         }
         if($param1 != "")
         {
@@ -10231,6 +10239,7 @@ function service_details($param1 = '', $param2 = '')
     {
         $this->session_login();
         $page_data['type']        = base64_decode($param1);
+        $page_data['category']        = base64_decode($param2);
         $page_data['page_name']   = 'entity_edit';
         $page_data['page_title']  = "Editar Entidad";
         $this->load->view('backend/index', $page_data);
@@ -10241,16 +10250,19 @@ function service_details($param1 = '', $param2 = '')
         if($param1 == "create")
         {
             $new_id =  $this->accounts_model->entity_category_add();
-            redirect(base_url().'admin/entity/'.base64_encode($new_id), 'refresh');
+            $this->session->set_flashdata('flash_message' , "Categoría agregada correctamente.");
+            redirect(base_url().'admin/entity_maintenance/', 'refresh');
         }
         if($param1 == "delete")
         {
             $this->accounts_model->entity_category_delete($param2);
+            $this->session->set_flashdata('flash_message' , "Categoría eliminada correctamente.");
             redirect(base_url().'admin/entity_maintenance/', 'refresh');
         }
         if($param1 == "update")
         {
             $this->accounts_model->entity_category_update($param2);
+            $this->session->set_flashdata('flash_message' , "Categoría actualizada correctamente.");
             redirect(base_url().'admin/entity_maintenance/', 'refresh');
         }
 
@@ -10262,10 +10274,19 @@ function service_details($param1 = '', $param2 = '')
 
     function entity_maintenance($param1 = '', $param2 = '')
     {
-        
+        $this->session_login();
         $page_data['type']        = $param1;
         $page_data['page_name']   = 'entity_maintenance';
         $page_data['page_title']  = "Entidades";
+        $this->load->view('backend/index', $page_data);
+    }
+
+    function entity_list($param1 = '', $param2 = '')
+    {
+        $this->session_login();
+        $page_data['entity_id']        = $param1;
+        $page_data['page_name']   = 'entity_list';
+        $page_data['page_title']  = "Listado";
         $this->load->view('backend/index', $page_data);
     }
 

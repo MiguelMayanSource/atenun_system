@@ -68,7 +68,6 @@ class Tables_model extends CI_Model
                 $this->db->where('status !=', 0);
             }else
             {
-
                 $this->db->from('insurance_patients ip');
                 $this->db->join('patient p', 'ip.patient_id = p.patient_id');
                 $this->db->where('ip.insurance_id', $param1);
@@ -78,7 +77,22 @@ class Tables_model extends CI_Model
             
         }
         
-        
+        elseif($table == 'patientsEntity')
+        {
+            if($param1 == 0){
+                $this->db->order_by('first_name', 'ASC');
+                $this->db->from("patient");
+                $this->db->where('status !=', 0);
+            }else
+            {
+                $this->db->from('entity_patients ip');
+                $this->db->join('patient p', 'ip.patient_id = p.patient_id');
+                $this->db->where('ip.entity_id', $param1);
+                $this->db->where('p.status', 1);
+            }
+            
+        }
+
          elseif($table == 'clients')
         {
              $this->db->order_by('patient_id', 'desc');
@@ -296,6 +310,15 @@ class Tables_model extends CI_Model
                 $this->db->or_where("concat(first_name,' ',second_name,' ',third_name,' ',last_name,' ',second_last_name) like '%". $_POST["search"]["value"]."%' and status = 1");
             }
 
+            elseif($table == 'patientsEntity')
+            {
+                $this->db->where("first_name like '%". $_POST["search"]["value"]."%' and status = 1");
+                $this->db->or_where("second_name like '%". $_POST["search"]["value"]."%' and status = 1");
+                $this->db->or_where("concat(first_name,' ',second_name) like '%". $_POST["search"]["value"]."%' and status = 1");
+                $this->db->or_where("concat(first_name,' ',second_name,' ',third_name) like '%". $_POST["search"]["value"]."%' and status = 1");
+                $this->db->or_where("concat(first_name,' ',second_name,' ',third_name,' ',last_name) like '%". $_POST["search"]["value"]."%' and status = 1");
+                $this->db->or_where("concat(first_name,' ',second_name,' ',third_name,' ',last_name,' ',second_last_name) like '%". $_POST["search"]["value"]."%' and status = 1");
+            }
             elseif($table == 'financial')
             {
                 $this->db->like("description", $_POST["search"]["value"]);  
@@ -442,6 +465,10 @@ class Tables_model extends CI_Model
             {
                 $this->db->order_by('first_name', 'ASC');  
             }
+            elseif($table == 'patientsEntity' )
+            {
+                $this->db->order_by('first_name', 'ASC');  
+            }
             
             elseif($table == 'activities' )
             {
@@ -515,6 +542,14 @@ class Tables_model extends CI_Model
             return $this->db->count_all_results(); 
         }
         elseif($table == 'patients')
+        {
+            $this->db->select("*");  
+            $this->db->from("patient"); 
+            $this->db->where('status !=', 0);
+            $this->db->where('category',$param1);
+            return $this->db->count_all_results(); 
+        }
+        elseif($table == 'patientsEntity')
         {
             $this->db->select("*");  
             $this->db->from("patient"); 
@@ -707,6 +742,10 @@ class Tables_model extends CI_Model
             return $this->get_patients($table, $fetch_data,$param1, $param2, $param3);
         }
 
+        elseif($table == 'patientsEntity' )
+        {
+            return $this->get_patients($table, $fetch_data,$param1, $param2, $param3);
+        }
         elseif($table == 'stabilitation' )
         {
             return $this->get_stabilitation($table, $fetch_data,$param1, $param2, $param3);
@@ -875,7 +914,67 @@ class Tables_model extends CI_Model
         }
         return $data;
     }
-    
+    function get_patientsEntity($table, $fetch_data,$param1, $param2, $param3)
+    {
+        $data = array();  
+        foreach($fetch_data as $row)  
+        {  
+            $app_pt         = $this->crud_model->date_appointment($row->patient_id);
+            $new            = $this->crud_model->num_appointments($row->patient_id);
+            $sub_array      = array();  
+            
+            $sub_array[]    = '<span class="smaller lighter">'.sprintf('%04d', $row->patient_id).'</span>';
+            
+            $sub_array[]    = '<div class="user-with-avatar">
+            <a href="'.base_url().$this->session->userdata('login_type').'/patient_profile/'.base64_encode($row->patient_id).'">
+                                <img alt="" src="'.$this->accounts_model->get_photo('patient', $row->patient_id).'">
+                                <span>'.$this->accounts_model->get_full_name('patient', $row->patient_id).'</span>
+                                </a>
+                                </div>';
+            if($row->gender =='M')
+            {
+                $sub_array[]    = '<div class="patient-gender-male">Masculino</div>';    
+            }
+            else
+            {
+                $sub_array[]    = '<div class="patient-gender-female">Femenino</div>';
+            }
+            
+            $satatus = '<div class="patient-contact">';
+               
+            $satatus .= '<a href="tel:+502'.$row->phone.'" class="no-decoration" data-toggle="tooltip" data-placement="top" title="Llamar"><i class="icon-container picons-thin-icon-thin-0289_mobile_phone_call_ringing_nfc"></i></a>';
+            $satatus .= '<a href="mailto:'.$row->email.'" class="no-decoration" data-toggle="tooltip" data-placement="top" title="Correo" target="_blank"><i class="icon-container picons-social-icon-gmail"></i></a>';   
+              
+            
+            $satatus .= '</div>';
+            
+            $sub_array[]    = $satatus;
+        
+            $sub_array[]    = '<span class="smaller lighter">'.$this->crud_model->formatear2($app_pt).'<span>';      
+
+
+            if($new < 2)
+            {
+                $sub_array[] = '<div class="status-pill new" data-title="Nuevo" data-toggle="tooltip" data-original-title="" title="Nuevo"></div>';
+            }
+            else
+            {
+                $sub_array[] = '<div class="status-pill frec" data-title="Frecuente" data-toggle="tooltip" data-original-title="" title="Frecuente"></div>';
+            }
+            
+            $sub_array[] = '<div class="dropdown">
+                                <div class="dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <i class="batch-icon-ellipsis" style="color:#3634a9;font-size: 20px;"></i>
+                                </div>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                    <a class="dropdown-item" href="'.base_url().$this->session->userdata('login_type').'/patient_profile/'.base64_encode($row->patient_id).'">Perfil</a>
+                                    <a class="dropdown-item" href="javascript:void(0);" onclick="delete_patient(\''.$row->patient_id.'\')">Eliminar</a>
+                                </div>
+                            </div>';
+            $data[] = $sub_array;  
+        }
+        return $data;
+    }
     
     function get_clients($table, $fetch_data,$param1, $param2, $param3)
     {

@@ -12,7 +12,7 @@
                                 <div class="col-sm-12">
                                     <div class="form-group m-b-15">
                                         <label for="simpleinput">Nombre de la categoría</label>
-                                        <input type="text" name="name" required  ?>" class="form-control">
+                                        <input type="text" name="name" required class="form-control" > 
                                     </div>
                                 </div>
                             </div>

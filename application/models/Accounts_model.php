@@ -176,7 +176,6 @@ class Accounts_model extends CI_Model
 		log_message('error','Responsable '.$this->input->post('responsable_id'));
         if($this->input->post('responsable_id') == 0 && $this->input->post('responsable_id') != "")
         {
-          
             $md5 = md5(date('d-m-Y H:i:s'));
             $FileUploader_photo = new FileUploader('photo_rep', array('uploadDir' => 'public/uploads/patient_image/'));
             $upload_photo = $FileUploader_photo->upload();
@@ -220,7 +219,6 @@ class Accounts_model extends CI_Model
             $data['n_nacional']             = $this->input->post("n_nacional_rep");
             $data['n_extranjero']           = $this->input->post("n_extranjero_rep");
             
-            
             $data['name_nit_1']     = trim($this->input->post('name_nit_1_rep'));    
             $data['nit_1']          = $this->input->post("nit_1_rep");
             $data['address_nit_1']  = $this->input->post("address_nit_1_rep");
@@ -231,7 +229,6 @@ class Accounts_model extends CI_Model
             $data['nit_3']          = $this->input->post("nit_3_rep");
             $data['address_nit_3']  = $this->input->post("address_nit_3_rep");
           
-            
             $data['clinic_id']              = $this->session->userdata('current_clinic');
             $data['date']                   = $this->crud_model->formatDate();
             $data['category']               = $this->input->post('category');
@@ -243,10 +240,8 @@ class Accounts_model extends CI_Model
 			
         } else {
             $responsable_id = $this->input->post("responsable_id");
-            
         }
         
-    
         $md5 = md5(date('d-m-Y H:i:s'));
         $FileUploader_photo = new FileUploader('photo', array('uploadDir' => 'public/uploads/patient_image/'));
         $upload_photo = $FileUploader_photo->upload();
@@ -261,7 +256,6 @@ class Accounts_model extends CI_Model
             $data['photo']        = $upload_photo['files'][0]['name'];
         }
         
-
 		$password = $this->getPassword();
 		$data['password']        = sha1($password);
 		$data['username']        = $this->getUsername(strtolower($this->normalizeText($this->input->post('first_name')." ".$this->input->post('last_name'))));    
@@ -305,7 +299,6 @@ class Accounts_model extends CI_Model
         
         $data['responsable_id']  = $responsable_id;
       
-        
         $data['clinic_id']              = $this->session->userdata('current_clinic');
         $data['date']                   = $this->crud_model->formatDate();
         $this->db->insert('patient', $data);
@@ -319,9 +312,19 @@ class Accounts_model extends CI_Model
 				'insurance_id' =>$insurans[$i],
 				'patient_id' =>$patient_id
 			);
-
 			$this->db->insert('insurance_patients',$data);
 		}
+		
+		$entity = $this->input->post('entity_id');
+		for ($i=0; $i < sizeof($entity) ; $i++) { 
+			# code...
+			$data = array(
+				'entity_id' =>$entity[$i],
+				'patient_id' =>$patient_id
+			);
+			$this->db->insert('entity_patients',$data);
+		}
+
 
 		
 		if($this->input->post('email') != '')
@@ -479,8 +482,7 @@ class Accounts_model extends CI_Model
             $dataRep['address_nit_2']  = $this->input->post("address_nit_2_rep");
             $dataRep['name_nit_3']     = trim($this->input->post('name_nit_3_rep'));    
             $dataRep['nit_3']          = $this->input->post("nit_3_rep");
-            $dataRep['address_nit_3']  = $this->input->post("address_nit_3_rep");
-          
+            $dataRep['address_nit_3']  = $this->input->post("address_nit_3_rep"); 
             
             $dataRep['clinic_id']              = $this->session->userdata('current_clinic');
             $dataRep['date']                   = $this->crud_model->formatDate();
@@ -504,9 +506,22 @@ class Accounts_model extends CI_Model
             
             move_uploaded_file($_FILES['photo_rep']['tmp_name'], 'public/uploads/patient_image/' . $md5.str_replace(' ', '', $_FILES['photo']['name']));
             $this->log_model->update_patient($this->input->post('responsable_id'));
+			
+			
         }
+        if(count($this->input->post("entitys_id"))>0){
+			$verify = $this->db->get_where("entity_patients",array("patient_id"=>$patient_id))->num_rows();
+			$dataentity["entitys_id"] = json_encode($this->input->post("entitys_id"));
+			if($verify> 0){
+				$this->db->where("patient_id", $patient_id);
+				$this->db->update("entity_patients",$dataentity);
+			}
+			else {
+				$dataentity["patient_id"] = $patient_id;
+				$this->db->insert("entity_patients",$dataentity);
+			}
+		}
         
-       
         $FileUploader_photo = new FileUploader('photo', array('uploadDir' => 'public/uploads/patient_image/'));
     	$upload_photo = $FileUploader_photo->upload();
     	if($upload_photo['isSuccess']) {
@@ -535,7 +550,9 @@ class Accounts_model extends CI_Model
         $data['profession']             = $this->input->post('profession');
         $data['workplace']              = $this->input->post('workplace');
         $data['marital_status']         = $this->input->post('marital_status');    
-        $data['gender']                 = $this->input->post('gender');  
+        $data['gender']                 = $this->input->post('gender');
+        $data['whatsapp_notification']                 = $this->input->post('wha_status');  
+        $data['email_notification']                 = $this->input->post('email_status');    
        
         $data['address']                = trim($this->input->post('address'));    
         $data['dpto']                   = $this->input->post("dpto");
@@ -577,6 +594,22 @@ class Accounts_model extends CI_Model
 			);
 
 			$this->db->insert('insurance_patients',$data);
+		}
+		
+
+
+
+		$this->db->where('patient_id',$patient_id);
+		$this->db->delete('entity_patients');
+		$entitys_ids = $this->input->post('entity_id');
+		for ($i=0; $i < sizeof($entitys_ids) ; $i++) { 
+			# code...
+			$data = array(
+				'entity_id' =>$entitys_ids[$i],
+				'patient_id' =>$patient_id
+			);
+
+			$this->db->insert('entity_patients',$data);
 		}
         
     }
@@ -4954,7 +4987,7 @@ class Accounts_model extends CI_Model
             if ($first_name_reference != '') {
                 $dataCom['first_name']     = $first_name_reference;
                 $dataCom['last_name']      = $this->input->post('last_name_reference')[$i];
-                $dataCom['phone']          = $this->input->post('first_name_reference')[$i];
+                $dataCom['phone']          = $this->input->post('phone_reference')[$i];
                 $dataCom['company_person'] = $this->input->post('company_person_reference')[$i];
                 $dataCom['entity_id']       = $entity_id;
                 $this->db->insert('commercial_reference_entity', $dataCom);
@@ -5021,17 +5054,28 @@ class Accounts_model extends CI_Model
 		$this->db->where("entity_id",$entity_id);
         $this->db->update('entity_data', $dataProv);
 
-		for ($i=0; $i<count($this->input->post('first_name_reference')); $i++) {
+		for ($i=0; $i<count($this->input->post('commercial_reference_id')); $i++) {
             $first_name_reference = $this->input->post('first_name_reference')[$i];
             if ($first_name_reference != '') {
                 $dataCom['first_name']     = $first_name_reference;
                 $dataCom['last_name']      = $this->input->post('last_name_reference')[$i];
-                $dataCom['phone']          = $this->input->post('first_name_reference')[$i];
+                $dataCom['phone']          = $this->input->post('phone_reference')[$i];
                 $dataCom['company_person'] = $this->input->post('company_person_reference')[$i];
-				$this->db->where("entity_id",$entity_id);
+                $this->db->where('commercial_reference_entity_id', $this->input->post('commercial_reference_id')[$i]);
                 $this->db->update('commercial_reference_entity', $dataCom);
             }
         }
         
     }
+
+	function delete_entity($entity_id)
+	{
+		$data['status'] = 0;
+		$this->db->where('entity_id',$entity_id);
+		$this->db->update("entity",$data);
+		$this->db->where('entity_id',$entity_id);
+		$this->db->update("entity_data",$data);
+		$this->db->where('entity_id',$entity_id);
+		$this->db->update("commercial_reference_entity",$data);
+	}
 }

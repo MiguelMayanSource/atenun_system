@@ -57,8 +57,7 @@
     </div>
     <div id="main-content">
 
-        <div class="card-box padding0">
-
+        <div class="card-box">
             <div class="card-h customPadding noborder">
                 <a class="btn btn-info pull-right" href="javascript:void(0)" data-toggle="modal" data-target="#123" style="margin-right:45px">Nuevo</a>
                 <h5 class="card-caption">Sucursales</h5>
