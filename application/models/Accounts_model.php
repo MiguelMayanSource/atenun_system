@@ -550,9 +550,7 @@ class Accounts_model extends CI_Model
         $data['profession']             = $this->input->post('profession');
         $data['workplace']              = $this->input->post('workplace');
         $data['marital_status']         = $this->input->post('marital_status');    
-        $data['gender']                 = $this->input->post('gender');
-        $data['whatsapp_notification']                 = $this->input->post('wha_status');  
-        $data['email_notification']                 = $this->input->post('email_status');    
+        $data['gender']                 = $this->input->post('gender');  
        
         $data['address']                = trim($this->input->post('address'));    
         $data['dpto']                   = $this->input->post("dpto");

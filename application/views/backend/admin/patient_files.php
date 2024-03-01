@@ -23,8 +23,7 @@
                     <span class="alert-content">Accede y gestiona rápidamente los archivos de tu <span class="alert-lined"><a href="javascript:void(0);" style="color:#0044e9">paciente</a>.</span></span>
                 </div>
             </div>
-            <?php
-                
+            <?php    
                 $have_folder = $this->db->get_where('settings',array('type'=>'folder'))->row()->description;
 
                 if ($have_folder == '') 

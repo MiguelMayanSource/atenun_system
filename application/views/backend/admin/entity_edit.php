@@ -361,6 +361,49 @@
                     </div>
                 </div>
             </div><br>
+            
+            <div class="row">
+                <div class="col-xl-8 col-lg-8 col-sm-12" style="float: none; margin: 0 auto;">
+                    <div class="task-section" style="background: #fff; padding: 24px; border-radius: 25px; border: 1px solid #ccc;">
+                        <h6 class="todo-content-header">
+                            <i class="batch-icon-arrow-right"></i><span>Marketing</span>
+                        </h6>
+                        <div class="row">
+                            <hr>
+                            
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <label>Notificaciónes Whatsapp</label>
+                                    <div class="input-group">
+                                        <div class="form-check" style="padding-left: 0px;padding-right: 8px;">
+                                            <input class="radiobutton" type="radio" name="wha_status" id="wha_status1" value="1" <?php echo $row['whatsapp_notification']== 1 || $row['whatsapp_notification'] == null ?'checked':'';?>><label class="radiobutton-label" for="wha_status1">Si</label>
+                                        </div>
+                                        <div class="form-check" style="padding-left: 0px;">
+                                            <input class="radiobutton" type="radio" name="wha_status" id="wha_status2" value="0" <?php echo $row['whatsapp_notification']== 0 || $row['whatsapp_notification'] == null ?'checked':'';?>><label class="radiobutton-label" for="wha_status2">No</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <label>Notificaciónes Email</label>
+                                    <div class="input-group">
+                                        <div class="form-check" style="padding-left: 0px;padding-right: 8px;">
+                                            <input class="radiobutton" type="radio" name="email_status" id="email_status1" value="1" <?php echo $row['email_notification']== 1 || $row['email_notification'] == null ?'checked':'';?>><label class="radiobutton-label" for="email_status1">Si</label>
+                                        </div>
+                                        <div class="form-check" style="padding-left: 0px;">
+                                            <input class="radiobutton" type="radio" name="email_status" id="email_status2" value="0" <?php echo $row['email_notification']== 0 || $row['email_notification'] == null ?'checked':'';?>><label class="radiobutton-label" for="email_status2">No</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div><br>
+
             <div class="row">
                 <div class="col-xl-8 col-lg-8 col-sm-12" style="float: none; margin: 0 auto;">
                     <div class="task-section" style="background: #fff; padding: 24px; border-radius: 25px; border: 1px solid #ccc;">

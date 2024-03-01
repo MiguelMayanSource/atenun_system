@@ -126,10 +126,9 @@ class Email_model extends CI_Model
                     }
                     
                 }
-
+                
             }else
             {
-
                     if($this->input->post('insurance_id')==0)
                     {
                         log_message('error','todos los seguro ');
@@ -152,7 +151,6 @@ class Email_model extends CI_Model
                             }
 
                         }
-            
                     }else
                     {
             
@@ -184,7 +182,7 @@ class Email_model extends CI_Model
 
                 }
             }
-        else
+        elseif($this->input->post('user_type') == "1")
         {
             log_message('error','Correo para Usuarios ');
             
@@ -281,6 +279,92 @@ class Email_model extends CI_Model
               
             }
         }
+        else        
+        {
+            log_message('error','Correo para Entidades');
+
+            if($this->input->post('patient_id_entity') != "0")
+            {
+                log_message('error','Correo para pacientes especifico ');
+        
+                $this->db->where('patient_id', $this->input->post('patient_id_entity'));
+                $patients = $this->db->get('patient')->result_array();  
+
+                foreach ($patients as $row)
+                {
+
+                    if($this->esDireccionCorreoValida($row['email']))
+                    {
+                        $mail->AddAddress($row['email']);
+                        if(!$mail->Send()) {
+                            echo "Mailer Error: " . $mail->ErrorInfo;
+                        }
+                    }
+                    
+                }
+                
+            }else
+            {
+                    if($this->input->post('entity_id')==0)
+                    {
+                        log_message('error','todas las entidades ');
+                    
+                        $this->db->order_by('first_name', 'ASC');
+                        $this->db->where('clinic_id',$this->session->userdata('current_clinic'));
+                        $this->db->where('status !=', 0);
+                        
+                        $this->db->select("*");  
+                        $this->db->group_by("first_name");
+                        $this->db->from("patient p");
+                        $this->db->join("entity_patients ep", "ep.patient_id = p.patient_id");
+                        $this->db->where('status !=', 0);
+                        $patients = $this->db->get()->result_array();  
+
+                    
+                        foreach ($patients as $row)
+                        {
+                            if($this->esDireccionCorreoValida($row['email']))
+                            {
+                                $mail->clearAddresses(); // Limpiar direcciones anteriores
+                            
+                                $mail->AddAddress($row['email']);
+                                if(!$mail->Send()) {
+                                    echo "Mailer Error: " . $mail->ErrorInfo;
+                                }
+                            }
+                        }
+                    }
+                    else
+                    {
+            
+                        log_message('error','entidad ');
+                    
+                        $this->db->select("*");  
+                        $this->db->from('entity_patients ip');
+                        $this->db->join('patient p', 'ip.patient_id = p.patient_id');
+                        $this->db->where('ip.entity_id', $this->input->post('entity_id'));
+                        $this->db->where('p.status', 1);
+                        $patients = $this->db->get()->result_array();  
+
+                    
+                        foreach ($patients as $row)
+                        {
+                            if($this->esDireccionCorreoValida($row['email']))
+                            {
+                                $mail->clearAddresses(); // Limpiar direcciones anteriores
+                            
+                                $mail->AddAddress($row['email']);
+                                if(!$mail->Send()) {
+                                    echo "Mailer Error: " . $mail->ErrorInfo;
+                                }
+                            }
+
+                        }
+
+                    }
+
+                }
+            }
 
         unlink('public/uploads/emails/'.$upload_reference_file['files'][0]['name']);
     }

@@ -206,32 +206,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                        <div class="col-sm-3">
-                                        <div class="form-group">
-                                            <label>Notificaciónes Whatsapp</label>
-                                            <div class="input-group">
-                                                <div class="form-check" style="padding-left: 0px;padding-right: 8px;">
-                                                    <input class="radiobutton" type="radio" name="wha_status" id="wha_status1" value="0" <?php echo $details['whatsapp_notification']== 0 || $details['whatsapp_notification'] == null ?'checked':'';?>><label class="radiobutton-label" for="wha_status1">Si</label>
-                                                </div>
-                                                <div class="form-check" style="padding-left: 0px;">
-                                                    <input class="radiobutton" type="radio" name="wha_status" id="wha_status2" value="1" <?php echo $details['whatsapp_notification']== 1 || $details['whatsapp_notification'] == null ?'checked':'';?>><label class="radiobutton-label" for="wha_status2">No</label>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-3">
-                                        <div class="form-group">
-                                            <label>Notificaciónes Email</label>
-                                            <div class="input-group">
-                                                <div class="form-check" style="padding-left: 0px;padding-right: 8px;">
-                                                    <input class="radiobutton" type="radio" name="email_status" id="email_status1" value="0" <?php echo $details['email_notification']== 0 || $details['email_notification'] == null ?'checked':'';?>><label class="radiobutton-label" for="email_status1">Si</label>
-                                                </div>
-                                                <div class="form-check" style="padding-left: 0px;">
-                                                    <input class="radiobutton" type="radio" name="email_status" id="email_status2" value="1" <?php echo $details['email_notification']== 1 || $details['email_notification'] == null ?'checked':'';?>><label class="radiobutton-label" for="email_status2">No</label>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -552,32 +526,6 @@
                                                     </div>
                                                     <div class="form-check" style="">
                                                         <input <?php echo $rdetails['gender'] == 'O' ? 'checked' : '';?> class="radiobutton" type="radio" name="gender_rep" id="radio5_rep" value="O"><label class="radiobutton-label" for="radio5_rep">Otros</label>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-3">
-                                            <div class="form-group">
-                                                <label>Notificaciónes Whatsapp</label>
-                                                <div class="input-group">
-                                                    <div class="form-check" style="padding-left: 0px;padding-right: 8px;">
-                                                        <input <?php echo $rdetails['whatsapp_notification'] == '0' || $rdetails['whatsapp_notification'] == null ? 'checked' : '';?> class="radiobutton" type="radio" name="wha_status_rep" id="wha_status1_rep" value="0"><label class="radiobutton-label" for="wha_status1_rep">si</label>
-                                                    </div>
-                                                    <div class="form-check" style="padding-left: 0px;">
-                                                        <input <?php echo $rdetails['whatsapp_notification'] == '1' || $rdetails['whatsapp_notification'] == null ? 'checked' : '';?> class="radiobutton" type="radio" name="marital_status_rep" id="wha_status2_rep" value="1"><label class="radiobutton-label" for="wha_status2_rep">no</label>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>                                       
-                                        <div class="col-sm-3">
-                                            <div class="form-group">
-                                                <label>Notificaciónes Email</label>
-                                                <div class="input-group">
-                                                    <div class="form-check" style="padding-left: 0px;padding-right: 8px;">
-                                                        <input <?php echo $rdetails['email_notification'] == '0' || $rdetails['email_notification'] == null ? 'checked' : '';?> class="radiobutton" type="radio" name="email_status_rep" id="email_status1_rep" value="0"><label class="radiobutton-label" for="email_status1_rep">si</label>
-                                                    </div>
-                                                    <div class="form-check" style="padding-left: 0px;">
-                                                        <input <?php echo $rdetails['email_notification'] == '1' || $rdetails['email_notification'] == null ? 'checked' : '';?> class="radiobutton" type="radio" name="email_status_rep" id="email_status2_rep" value="1"><label class="radiobutton-label" for="email_status2_rep">no</label>
                                                     </div>
                                                 </div>
                                             </div>

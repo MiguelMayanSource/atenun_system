@@ -56,6 +56,12 @@
                                             <span>Usuarios</span>
                                         </div>
                                     </label>
+                                    <label>
+                                        <input type="radio" id="entity" value="2" onclick="validate(2)" name="user_type">
+                                        <div class="back-end box">
+                                            <span>Entidades</span>
+                                        </div>
+                                    </label>
                                 </div>
                                 <div id="patients">
                                     <div class="form-group">
@@ -77,6 +83,26 @@
                                     <div class="form-group">
                                         <label for="simpleinput">Seleccionar pacientes</label><span class="error_show" id="errorpat"></span>
                                         <select class="itemName form-control select2" style="width:100%" name="patient_id" id="patients_list">
+
+                                        </select>
+                                    </div>
+                                </div>
+                                <div id="entitys">
+                                    <div class="form-group">
+                                        <label for="simpleinput">Entidades</label><span class="error_show" id="errorpat"></span>
+                                        <select onchange="getPatientsFromEntity(this.value)" class="itemName form-control select2" style="width:100%" name="entity_id">
+                                            <option value="0">Todos</option>
+                                            <?php 
+									                $this->db->where('status !=', '0');
+									                $query = $this->db->get('entity')->result_array();
+                                                    foreach($query as $pat): ?>
+                                            <option value="<?php echo $pat['entity_id'];?>"><?php echo $pat['first_name'];?></option>
+                                            <?php endforeach; ?>
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="simpleinput">Seleccionar pacientes</label><span class="error_show" id="errorpat"></span>
+                                        <select class="itemName form-control select2" style="width:100%" name="patient_id_entity" id="patients_list_entity">
 
                                         </select>
                                     </div>
@@ -139,6 +165,7 @@ $(function() {
 
     validate(0);
     getPatients(0);
+    getPatientsFromEntity(0);
     getUsers(0);
     $('.select2').select2();
 
@@ -154,9 +181,17 @@ function validate(value) {
     if (value == 0) {
         $("#patients").show();
         $("#users").hide();
-    } else {
-        $("#users").show();
+        $("#entitys").hide();
+    } 
+    else if(value == 1){
         $("#patients").hide();
+        $("#users").show();
+        $("#entitys").hide();
+    }
+    else {
+        $("#patients").hide();
+        $("#users").hide();
+        $("#entitys").show();
     }
 
 }
@@ -172,6 +207,24 @@ function getPatients(value) {
 
 
             $('#patients_list').html(response);
+            // console.log(response);
+        },
+        error: function() {
+            console.log("error");
+        }
+    });
+}
+
+function getPatientsFromEntity(value) {
+    $.ajax({
+        url: "<?php echo base_url().'admin/getPatientsWhatsappEntity/';?>",
+        type: "POST",
+        data: {
+            entity_id: value,
+        },
+        success: function(response) {
+
+            $('#patients_list_entity').html(response);
             // console.log(response);
         },
         error: function() {

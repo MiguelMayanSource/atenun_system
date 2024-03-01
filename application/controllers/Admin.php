@@ -9739,6 +9739,8 @@ function whatsapp($param1 = "")
 
     if($param1 == 'send')
     {
+        print_r($this->input->post());
+        exit();
         $this->whatsapp->sendWhatsapp();
         $this->whatsapp->sendAllWhatsapp();
         $this->session->set_flashdata('flash_message' , "Mensaje enviado correctamente.");
@@ -9804,7 +9806,6 @@ function getPatientsWhatsapp()
         $this->db->select("*");  
         $this->db->order_by('first_name', 'ASC');
         $this->db->from("patient");
-        $this->db->where("whatsapp_notification",0);
         $this->db->where('clinic_id',$this->session->userdata('current_clinic'));
         $this->db->where('status !=', 0);
         $patients = $this->db->get()->result_array();  
@@ -9814,7 +9815,45 @@ function getPatientsWhatsapp()
         $this->db->from('insurance_patients ip');
         $this->db->join('patient p', 'ip.patient_id = p.patient_id');
         $this->db->where('ip.insurance_id', $this->input->post('insurance_id'));
-        $this->db->where('p.whatsapp_notification', 0);
+        $this->db->where('p.status', 1);
+        $patients = $this->db->get()->result_array();  
+    }
+        
+    if(count($patients) > 0)
+    {$options .= '<option value="0">Todos</option>';
+       foreach ($patients as $row) 
+       {   
+           $options .= '<option value="' . $row['patient_id'] . '">' .$this->accounts_model->get_full_name('patient', $row['patient_id']). '</option>';
+        }
+
+    }else
+    {
+       $options .= '<option value="">Sin pacientes</option>';
+    }
+   
+   echo $options;
+    exit();
+
+}
+
+function getPatientsWhatsappEntity()
+{
+    $options='';
+    if($this->input->post('entity_id') == 0){
+        $this->db->select("*");  
+        $this->db->order_by('first_name', 'ASC');
+        $this->db->group_by("first_name");
+        $this->db->from("patient p");
+        $this->db->join("entity_patients ep", "ep.patient_id = p.patient_id");
+        $this->db->where('clinic_id',$this->session->userdata('current_clinic'));
+        $this->db->where('status !=', 0);
+        $patients = $this->db->get()->result_array();  
+    }else
+    {
+        $this->db->select("*");  
+        $this->db->from('entity_patients ip');
+        $this->db->join('patient p', 'ip.patient_id = p.patient_id');
+        $this->db->where('ip.entity_id', $this->input->post('entity_id'));
         $this->db->where('p.status', 1);
         $patients = $this->db->get()->result_array();  
     }

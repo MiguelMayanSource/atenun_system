@@ -131,7 +131,7 @@ function sendWhatsapp()
 
             }
         }
-    else
+    elseif($this->input->post('user_type') == '1')
     {
         ///////// whatsapp para usuarios
         if($this->input->post('staff_id') != "0")
@@ -280,6 +280,99 @@ function sendWhatsapp()
             }
 
         }
+    }
+    else{
+        if($this->input->post('patient_id_entity') != "0")
+        {
+            $this->db->where('patient_id', $this->input->post('patient_id_entity'));
+            $patients = $this->db->get('patient')->result_array();  
+
+            foreach ($patients as $row)
+            {
+                if($row['phone'] != '')
+                {
+                    $message = $this->input->post('message');
+                    $data = array(
+                        'phone' => $row['area_code'].$row['phone'],
+                        'message' => $message,
+                        'file' => $file,
+                        'response' => json_encode(''),
+                        'status' =>0,
+                        'user_type' => 'patient',
+                        'user_id' => $row['patient_id']
+                        );
+                    
+                    $this->db->insert('whatsapp_messages',$data);
+                }
+            }
+
+        }else
+        {
+
+            if($this->input->post('entity_id')=="0")
+            {
+                log_message('error','todas las entidades '.$_FILES['archivo']['name']);
+            
+              
+                $this->db->order_by('first_name', 'ASC');
+                $this->db->where('clinic_id',$this->session->userdata('current_clinic'));
+                $this->db->where('status !=', 0);
+                $patients = $this->db->get('patient')->result_array();  
+
+
+                foreach ($patients as $row)
+                {
+                    if($row['phone'] != '')
+                    {
+                        $message = $this->input->post('message');
+                        $data = array(
+                            'phone' => $row['area_code'].$row['phone'],
+                            'message' => $message,
+                            'file' => $file,
+                            'response' => json_encode(''),
+                            'status' =>0,
+                            'user_type' => 'patient',
+                            'user_id' => $row['patient_id']
+                            );
+                        
+                        $this->db->insert('whatsapp_messages',$data);
+                    }
+
+                }
+            }
+            else
+            {
+                log_message('error','entidad ');
+                $this->db->select("*");  
+                $this->db->from('entity_patients ip');
+                $this->db->join('patient p', 'ip.patient_id = p.patient_id');
+                $this->db->where('ip.entity_id', $this->input->post('entity_id'));
+                $this->db->where('p.status', 1);
+                $patients = $this->db->get()->result_array();  
+                
+                foreach ($patients as $row)
+                {
+                    if($row['phone'] != '')
+                     {
+                        $message = $this->input->post('message');
+                        $data = array(
+                            'phone' => $row['area_code'].$row['phone'],
+                            'message' => $message,
+                            'file' => $file,
+                            'response' => json_encode(''),
+                            'status' => 0,
+                            'user_type' => 'patient',
+                            'user_id' => $row['patient_id']
+                            );
+                        
+                        $this->db->insert('whatsapp_messages',$data);
+                     }
+
+                }
+
+            }
+
+            }
     }
 }
 
