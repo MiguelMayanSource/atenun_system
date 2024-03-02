@@ -50,7 +50,8 @@
     <div id="main-content">
         <div class="card-box padding0">
             <div class="card-h customPadding noborder">
-                <h5 class="card-caption">Aseguradoras </h5> <a class="btn btn-info pull-right" data-toggle="modal" data-target="#1specialtiesModal" href="javascript:void(0)" style="margin-right:45px">Nueva</a>
+                <h5 class="card-caption">Aseguradoras </h5> 
+                <a class="btn btn-info pull-right" data-toggle="modal" data-target="#1specialtiesModal" href="javascript:void(0)" style="margin-right:45px">Nueva</a>
             </div>
             <div class="card-b">
                 <div class="container-fluid">

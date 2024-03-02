@@ -1,18 +1,22 @@
-<h5 class="panel-content-title">Signos vitales registrados <?php if($page_name != "patient_profile"):?><a href="javascript:void(0)" onclick="load_view('new_patient_vital_signs','vitals',{patient_id:<?php echo $patient_id; ?>})" style="margin-bottom:10px" class="btn btn-info float-right mb-10">Registrar</a><?php endif; ?></h5>
-<span class="app-divider2"></span>
+<h5 class="panel-content-title">Membrecía <?php if($page_name != "patient_profile"):?><a href="javascript:void(0)" onclick="load_view('new_patient_vital_signs','vitals',{patient_id:<?php echo $patient_id; ?>})" style="margin-bottom:10px" class="btn btn-info float-right mb-10">Registrar</a><?php endif; ?>    
+     <a class="btn btn-info pull-right" href="javascript:void(0)" onclick="modal_lg('<?php echo base_url();?>modal/popup/modal_patient_membership/23');" style="margin-right:45px">Nueva</a> </h5>
+
+    
+    <span class="app-divider2"></span>
 <div class="row">
     <div class="col-sm-12">
 
         <?php 
-            $refresh_query  = $this->db->order_by('vital_sign_id','desc')->get_where('vital_sign',array('patient_id' => $patient_id));
+            $refresh_query  = $this->db->order_by('patient_id','desc')->get_where('patient_membership',array('patient_id' => $patient_id));
             if($refresh_query->num_rows() > 0):
                 $cont= 1;
             ?>
         <table class="table">
             <tr style="background-color:#f9fbfc; color:#59636d">
                 <th>#</th>
-                <th>Especialista</th>
-                <th>Fecha & Hora</th>
+                <th></th>
+                <th>Fecha de Activación</th>
+                <th>Fecha de Vencimiento</th>
                 <th>Acciones</th>
             </tr>
             <?php foreach($refresh_query->result_array() as $row): ?>
@@ -36,7 +40,7 @@
         <?php else: ?>
         <div class="col-sm-12"><br>
             <center>
-                <h5 class="poppins">Aún no hay ordenes médicas</h5><br><img src="<?php echo base_url() ?>public/uploads/medicamentos.svg" style="max-width:20%;">
+                <h5 class="poppins">Aún no cuenta con una membrecía</h5><br><img src="<?php echo base_url() ?>public/uploads/medicamentos.svg" style="max-width:20%;">
             </center>
         </div>
         <?php endif; ?>
