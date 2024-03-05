@@ -5063,7 +5063,6 @@ class Accounts_model extends CI_Model
                 $this->db->update('commercial_reference_entity', $dataCom);
             }
         }
-        
     }
 
 	function delete_entity($entity_id)
@@ -5075,5 +5074,32 @@ class Accounts_model extends CI_Model
 		$this->db->update("entity_data",$data);
 		$this->db->where('entity_id',$entity_id);
 		$this->db->update("commercial_reference_entity",$data);
+	}
+
+	function membership_plans_add()
+	{
+		$data["name"] = $this->input->post("name");
+		$data["description"] = $this->input->post("description");
+		$data["membership_id"] = $this->input->post("membership_id");
+		$data["days"] = $this->input->post("days");
+		$data["price"] = $this->input->post("price");
+		$this->db->insert(("membership_plans"), $data);
+	}
+	
+	function membership_plans_edit($membership_plans_id)
+	{
+		$data["name"] = $this->input->post("name");
+		$data["description"] = $this->input->post("description");
+		$data["days"] = $this->input->post("days");
+		$data["price"] = $this->input->post("price");
+		$this->db->where("membership_plans_id",$membership_plans_id);
+		$this->db->update(("membership_plans"), $data);
+	}
+
+	function membership_plans_delete($membership_plans_id)
+	{
+		$data["status"] = 0;
+		$this->db->where("membership_plans_id",base64_decode($membership_plans_id));
+		$this->db->update(("membership_plans"), $data);
 	}
 }

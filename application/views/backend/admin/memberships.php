@@ -3,9 +3,9 @@
     $week_name_days  = $this->crud_model->panelDate();
 ?>
 
+<?php include "navigation_memberships.php"; ?>
 <div id="main-content">
     <?php $insurance = $this->db->get_where('insurance',array('status'=>1,'clinic_id'=>$this->session->userdata('current_clinic')))->result_array();?>
-
     <div class="row">
         <div class="col-sm-12">
             <div class="title-header">

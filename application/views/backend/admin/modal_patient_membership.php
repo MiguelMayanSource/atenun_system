@@ -14,13 +14,13 @@
                 <div class="form-group">
                     <div class="container">
                         <div class="row">
-                            <div class="col-sm-8">
+                            <div class="col-sm-12">
                                 <div class="form-group m-b-15">
                                     <label for="simpleinput">Nombre</label>
                                     <input type="text" name="name" required="" value="<?php echo $row['name'] ?>" class="form-control">
                                 </div>
                             </div>
-                            <div class="col-sm-4">
+                            <div class="col-sm-12">
                                 <div class="form-group m-b-15">
                                     <label for="simpleinput">Nit</label>
                                     <input type="text" name="nit" required="" value="<?php echo $row['nit'] ?>" class="form-control">

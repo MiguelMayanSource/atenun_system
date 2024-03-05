@@ -10320,7 +10320,7 @@ function service_details($param1 = '', $param2 = '')
         $this->load->view('backend/index', $page_data);
     }
 
-    function entity_list($param1 = '', $param2 = '')
+    function entity_list($param1 = '', $param2 = '', $param3 = '')
     {
         $this->session_login();
         $page_data['entity_id']        = $param1;
@@ -10328,6 +10328,53 @@ function service_details($param1 = '', $param2 = '')
         $page_data['page_title']  = "Listado";
         $this->load->view('backend/index', $page_data);
     }
+    
+    function membership_plans($param1 = '', $param2 = '', $param3 = "")
+    {
+
+        $this->session_login();
+        if($param1 == "create")
+        {
+            $this->accounts_model->membership_plans_add();
+            $this->session->set_flashdata('flash_message' , "Plan agregado correctamente.");
+            redirect(base_url().'admin/membership_plans/', 'refresh');   
+        }
+        else if($param1 == "edit")
+        {            
+            $this->accounts_model->membership_plans_edit($param2);
+            $this->session->set_flashdata('flash_message' , "Plan agregado correctamente.");
+            redirect(base_url().'admin/membership_plans_details/'.$param3, 'refresh');   
+        }
+        else if($param1 == "delete")
+        { 
+            $this->accounts_model->membership_plans_delete($param2);
+            $this->session->set_flashdata('flash_message' , "Plan agregado correctamente.");
+            redirect(base_url().'admin/membership_plans_details/'.$param3, 'refresh');  
+        }
+        $page_data['page_name']   = 'membership_plans';
+        $page_data['page_title']  = "Planes de membrecía";
+        $this->load->view('backend/index', $page_data);
+    }
+
+    function membership_plans_add($param1 = '', $param2 = '')
+    {
+        $this->session_login();
+        $page_data['membership_id'] = $param1;
+        $page_data['page_name']   = 'membership_plans_add';
+        $page_data['page_title']  = "Agregar nuevo plan";
+        $this->load->view('backend/index', $page_data);
+
+    }
+
+    function membership_plans_details($param1 = '', $param2 = '')
+    {
+        $this->session_login();
+        $page_data['membership_id'] = base64_decode($param1);
+        $page_data['page_name']   = 'membership_plans_details';
+        $page_data['page_title']  = "Planes";
+        $this->load->view('backend/index', $page_data);
+    }
+
 
     function update_patient_copies() {
     
