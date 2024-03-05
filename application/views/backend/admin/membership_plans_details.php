@@ -7,12 +7,11 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
 <?php include "navigation_memberships.php"; ?>
 <div id="main-content">
-    <?php $insurance = $this->db->get_where('insurance',array('status'=>1,'clinic_id'=>$this->session->userdata('current_clinic')))->result_array();?>
     <div class="row">
         <div class="col-sm-12">
             <div class="title-header">
-                <h3 class="module-title">Planes</h3>
-                <a class="add-buton pull-right" href="<?php echo base_url(); ?>/admin/membership_plans_add/<?php echo $membership_id; ?>">+ Agregar Plan</a>
+                <h3 class="module-title">Planes de: <?php echo $this->db->get_where("membership",array("membership_id"=>$membership_id))->row()->name; ?></h3>
+                <a class="add-buton pull-right" href="<?php echo base_url(); ?>admin/membership_plans_add/<?php echo base64_encode($membership_id); ?>">+ Agregar Plan</a>
             </div>
         </div>
         <div class="col-sm-12">
@@ -30,8 +29,13 @@
                         </thead>
                         <tbody>
                             <?php
-                            $this->db->where("status",1);
-                            $resultado =  $this->db->get_where("membership_plans",array("membership_id"=>$membership_id))->result_array();
+                            $this->db->select("*");
+                            $this->db->from("membership_plans mp");
+                            $this->db->join("membership m","m.membership_id = mp.membership_id");
+                            $this->db->join("plans p","p.membership_plans_id = mp.membership_plans_id");
+                            $this->db->where("mp.membership_id", $membership_id);
+                            $this->db->where("mp.status",1);
+                            $resultado = $this->db->get()->result_array();
                             foreach ($resultado as $row): ?>
                             <tr>
                                 <td><?php echo $row['name'];?></td>
@@ -39,10 +43,10 @@
                                 <td><?php echo $row['days'];?></td>
                                 <td><?php echo $row['price'];?></td>
                                 <td>
-                                    <a class="" href="javascript:void(0)" onclick="showAjaxModal('<?php echo base_url().'modal/popup/modal_add_membership_plans/'.base64_encode($row['membership_plans_id']).'/'.base64_encode($membership_id);?>')">
+                                    <a class="" href="javascript:void(0)" onclick="showAjaxModal('<?php echo base_url().'modal/popup/modal_membership_edit_plan/'.base64_encode($row['membership_plans_id']).'/'.base64_encode($membership_id);?>')">
                                         <i class="iconBox picons-thin-icon-thin-0001_compose_write_pencil_new"></i>
                                     </a>
-                                    <a class="" href="javascript:void(0)" onclick="delete_memebership_plan('<?php echo base64_encode($row['membership_plans_id']); ?>','<?php echo base64_encode($membership_id); ?>')">
+                                    <a class="" href="javascript:void(0)" onclick="delete_memebership_plan('<?php echo base64_encode($row['membership_plans_id']); ?>')">
                                         <i class="iconBox picons-thin-icon-thin-0056_bin_trash_recycle_delete_garbage_empty"></i>
                                     </a>
                                 </td>
@@ -85,7 +89,7 @@ $(function() {
     }
 });
 
-function delete_memebership_plan(id,membership_id) {
+function delete_memebership_plan(id) {
     Swal.fire({
         title: '¿Estás seguro?',
         text: "Esta acción no puede deshacerse. ¿Aún así, desea continuar?",
@@ -97,7 +101,7 @@ function delete_memebership_plan(id,membership_id) {
         cancelButtonText: 'Cancelar'
     }).then((result) => {
         if (result.value) {
-            location.href = "<?php echo base_url();?>admin/membership_plans/delete/" + id + "/" + membership_id;
+            location.href = "<?php echo base_url();?>admin/membership_plans_add/delete/" + id;
         }
     })
 }

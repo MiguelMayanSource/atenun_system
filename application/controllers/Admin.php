@@ -10341,29 +10341,48 @@ function service_details($param1 = '', $param2 = '')
         }
         else if($param1 == "edit")
         {            
-            $this->accounts_model->membership_plans_edit($param2);
-            $this->session->set_flashdata('flash_message' , "Plan agregado correctamente.");
-            redirect(base_url().'admin/membership_plans_details/'.$param3, 'refresh');   
+            $this->accounts_model->membership_plans_edit(base64_decode($param2));
+            $this->session->set_flashdata('flash_message' , "Plan editado correctamente.");
+            redirect(base_url().'admin/membership_plans/', 'refresh');   
         }
         else if($param1 == "delete")
         { 
-            $this->accounts_model->membership_plans_delete($param2);
-            $this->session->set_flashdata('flash_message' , "Plan agregado correctamente.");
-            redirect(base_url().'admin/membership_plans_details/'.$param3, 'refresh');  
+            $this->accounts_model->membership_plans_delete(base64_decode($param2));
+            $this->session->set_flashdata('flash_message' , "Plan eliminado correctamente.");            
+            redirect(base_url().'admin/membership_plans/', 'refresh');   
+
         }
         $page_data['page_name']   = 'membership_plans';
         $page_data['page_title']  = "Planes de membrecía";
         $this->load->view('backend/index', $page_data);
     }
 
-    function membership_plans_add($param1 = '', $param2 = '')
-    {
+    function membership_plans_add($param1 = '', $param2 = '', $param3 = '')
+    {   
         $this->session_login();
-        $page_data['membership_id'] = $param1;
+         $previous_url = $this->agent->referrer();
+        if($param1 == "create")
+        {   
+            $this->accounts_model->assign_plan_to_membership($param2);
+            $this->session->set_flashdata('flash_message' , "Plan asignado correctamente.");           
+            redirect(base_url().'admin/membership_plans_details/'.base64_encode($param3), 'refresh');   
+        }
+        if($param1 == "edit")
+        {
+            $this->accounts_model->edit_plan_to_membership($param2);
+            $this->session->set_flashdata('flash_message' , "Plan editado correctamente.");           
+            redirect($previous_url, 'refresh');
+        }
+        if($param1 == "delete")
+        {
+            $this->accounts_model->delete_plan_to_membership(base64_decode($param2));
+            $this->session->set_flashdata('flash_message' , "Plan eliminado correctamente.");           
+            redirect($previous_url, 'refresh');
+        }
+        $page_data['membership_id'] = base64_decode($param1);
         $page_data['page_name']   = 'membership_plans_add';
         $page_data['page_title']  = "Agregar nuevo plan";
         $this->load->view('backend/index', $page_data);
-
     }
 
     function membership_plans_details($param1 = '', $param2 = '')

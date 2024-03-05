@@ -40,6 +40,9 @@
                                     <a class="" href="<?php echo base_url();?>admin/membership_details/<?php echo base64_encode($row['membership_id']); ?>">
                                         <i class="iconBox picons-thin-icon-thin-0064_bullet_list_view"></i>
                                     </a>
+                                    <a class="" href="<?php echo base_url();?>admin/membership_plans_details/<?php echo base64_encode($row['membership_id']); ?>">
+                                        <i class="iconBox iconBox picons-thin-icon-thin-0100_to_do_list_reminder_done"></i>
+                                    </a>
                                     <a class="" href="javascript:void(0)" onclick="delete_memebership('<?php echo base64_encode($row['membership_id']); ?>')">
                                         <i class="iconBox picons-thin-icon-thin-0056_bin_trash_recycle_delete_garbage_empty"></i>
                                     </a>

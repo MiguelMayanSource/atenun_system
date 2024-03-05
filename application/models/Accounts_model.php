@@ -5080,10 +5080,9 @@ class Accounts_model extends CI_Model
 	{
 		$data["name"] = $this->input->post("name");
 		$data["description"] = $this->input->post("description");
-		$data["membership_id"] = $this->input->post("membership_id");
 		$data["days"] = $this->input->post("days");
-		$data["price"] = $this->input->post("price");
-		$this->db->insert(("membership_plans"), $data);
+		$data["status"] = 1;
+		$this->db->insert(("plans"), $data);
 	}
 	
 	function membership_plans_edit($membership_plans_id)
@@ -5091,15 +5090,36 @@ class Accounts_model extends CI_Model
 		$data["name"] = $this->input->post("name");
 		$data["description"] = $this->input->post("description");
 		$data["days"] = $this->input->post("days");
-		$data["price"] = $this->input->post("price");
 		$this->db->where("membership_plans_id",$membership_plans_id);
-		$this->db->update(("membership_plans"), $data);
+		$this->db->update(("plans"), $data);
 	}
 
 	function membership_plans_delete($membership_plans_id)
 	{
 		$data["status"] = 0;
-		$this->db->where("membership_plans_id",base64_decode($membership_plans_id));
-		$this->db->update(("membership_plans"), $data);
+		$this->db->where("membership_plans_id",$membership_plans_id);
+		$this->db->update(("plans"), $data);
 	}
+
+	function assign_plan_to_membership($membership_id)
+	{
+		$data["membership_id"] = $membership_id;
+		$data["plans_id"] = $this->input->post("plans_id");
+		$data["price"] = $this->input->post("price");
+		$data["status"] = 1;
+		$this->db->insert("membership_plans",$data);
+	}
+	function edit_plan_to_membership($membership_plans_id)
+	{
+		$data["price"] = $this->input->post("price");
+		$this->db->where("membership_plans_id",$membership_plans_id);
+		$this->db->update("membership_plans",$data);
+	}
+	function delete_plan_to_membership($membership_plans_id)
+	{
+		$data["status"] = 0;
+		$this->db->where("membership_plans_id",$membership_plans_id);
+		$this->db->update("membership_plans",$data);
+	}
+
 }

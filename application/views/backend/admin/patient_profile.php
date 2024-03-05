@@ -442,7 +442,6 @@ div.page {
             <div class="tab-pane container fade" id="c-membership">
                 <div class="card-widget" id="files" style="margin-top:15px;border: 1px solid #c6c6cc;">
                     <?php
-                        $parent_id=0;
                             include_once(dirname(__DIR__, 1).'/includes/patient_membership.php');
                         ?>
                 </div>
