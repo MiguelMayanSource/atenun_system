@@ -1792,6 +1792,7 @@ class Admin extends CI_Controller
         $page_data['page_title']  = "Inventario";
         $this->load->view('backend/index', $page_data);
     }
+
     
     function inventory_products($param1 = '', $param2 = '')
     {
@@ -10481,7 +10482,19 @@ function service_details($param1 = '', $param2 = '')
         $this->load->view('backend/index', $page_data);
     }
 
-    
+    function contact_file($param1 = '', $param2 = '', $param3 = '')
+    {
+         $this->session_login();
+
+         if($param1 == 'all_contact_export')
+         {
+             $inventory = $this->inventory_model->contact_export($param2,$param3);
+             $this->session->set_flashdata('flash_message' , "Producto agregados correctamente");
+             $refer =  $this->agent->referrer();
+             redirect($refer, 'refresh');
+         }
+         redirect($refer, 'refresh');
+    }
 
 
     function update_patient_copies() {

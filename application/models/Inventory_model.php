@@ -1393,6 +1393,75 @@ class Inventory_model extends CI_Model
        exit();
         
      }
+     function contact_export($category_id,$entity_id)
+     {
+        $md5 = md5(date('d-m-Y H:i:s'));
+        $path = 'public/uploads/import/contacto.xlsx';
+
+        $objReader = PHPExcel_IOFactory::createReader('Excel2007');
+        $objPHPExcel = $objReader->load($path);
+
+        $number_of_entries   =   sizeof($columns);
+
+        $styleArray = array(
+            'borders' => array(
+              'allborders' => array(
+                'style' => PHPExcel_Style_Border::BORDER_THIN
+              )
+            )
+          );
+          
+        setlocale(LC_ALL,"es_ES");
+       
+        $objPHPExcel->getActiveSheet()->getPageSetup()->setOrientation(PHPExcel_Worksheet_PageSetup::ORIENTATION_PORTRAIT);
+        $objPHPExcel->getActiveSheet()->getPageSetup()->setPaperSize(PHPExcel_Worksheet_PageSetup::PAPERSIZE_A4);
+        $objPHPExcel->getActiveSheet()->getPageSetup()->setFitToPage(true);
+
+        // if($this->input->post('category_id') != 'T')
+        // {
+        //     $this->db->where('category_id',$this->input->post('category_id'));
+        // }
+
+        // if($this->input->post('subcategory_id') != 'T')
+        // {
+        //     $this->db->where('subcategory_id',$this->input->post('subcategory_id'));
+        // }
+        $this->db->select('p.patient_id,p.first_name, p.second_name,p.third_name,p.last_name,p.second_last_name,p.married_last_name,p.phone,p.area_code');
+        $this->db->from('patient p');
+        $this->db->join('entity_patients ep','ep.patient_id = p.patient_id');
+        $this->db->join('entity e','e.entity_id = ep.entity_id');
+        if ($entity_id != '') $this->db->where('ep.entity_id', $entity_id);
+        if ($category_id != '') $this->db->where('category_entity_id', $category_id);
+        $this->db->group_by('ep.patient_id');
+        $patientsOfEntity = $this->db->get()->result_array();
+
+        log_message('error',$this->db->last_query());
+        $row = 12;
+        foreach ($patientsOfEntity as $product) {
+
+            $objPHPExcel->getActiveSheet()->setCellValue('A' . $row, $product['patient_id']);
+            $objPHPExcel->getActiveSheet()->setCellValue('B' . $row, $product['first_name']);
+            $objPHPExcel->getActiveSheet()->setCellValue('C' . $row, $product['second_name']);
+            $objPHPExcel->getActiveSheet()->setCellValue('D' . $row, $product['third_name']);
+            $objPHPExcel->getActiveSheet()->setCellValue('E' . $row, $product['last_name']);
+            $objPHPExcel->getActiveSheet()->setCellValue('F' . $row, $product['second_last_name']);
+            $objPHPExcel->getActiveSheet()->setCellValue('G' . $row, $product['area_code']);
+            $objPHPExcel->getActiveSheet()->setCellValue('H' . $row, $product['phone']);
+
+            $row++;
+        }
+        
+       // Configurar el encabezado HTTP para descargar el archivo Excel
+       header('Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet');
+       header('Content-Disposition: attachment;filename="contacto.xlsx"');
+       header('Cache-Control: max-age=0');
+
+       // Guardar el archivo Excel en el flujo de salida
+       $objWriter = PHPExcel_IOFactory::createWriter($objPHPExcel, 'Excel2007');
+       $objWriter->save('php://output');
+
+       exit();
+     }
      
          function prices_export()
      {
