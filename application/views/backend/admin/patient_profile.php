@@ -167,6 +167,8 @@ div.page {
     width: 100% !important;
 }
 </style>
+<link href="<?php echo base_url();?>public/assets/appointments/css/select2.css" rel="stylesheet" />
+
 <?php 
     $patient_id = base64_decode($id_);
     $this->db->where('patient_id', $patient_id);
@@ -452,6 +454,8 @@ div.page {
 <script src="<?php echo base_url();?>public/assets/theme/js/sticky-sidebar.js"></script>
 <script src="<?php echo base_url();?>public/assets/theme/js/jquery.sticky.js"></script>
 <script src="<?php echo base_url();?>public/assets/theme/js/PositionSticky/dist/PositionSticky.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
+
 <script>
 var sidebar = new StickySidebar('#sticky', {
     topSpacing: 10

@@ -32,7 +32,7 @@
                             $this->db->select("*");
                             $this->db->from("membership_plans mp");
                             $this->db->join("membership m","m.membership_id = mp.membership_id");
-                            $this->db->join("plans p","p.membership_plans_id = mp.membership_plans_id");
+                            $this->db->join("plans p","p.plans_id = mp.membership_plans_id");
                             $this->db->where("mp.membership_id", $membership_id);
                             $this->db->where("mp.status",1);
                             $resultado = $this->db->get()->result_array();
@@ -41,7 +41,7 @@
                                 <td><?php echo $row['name'];?></td>
                                 <td><?php echo $row['description'];?></td>
                                 <td><?php echo $row['days'];?></td>
-                                <td><?php echo $row['price'];?></td>
+                                <td><?php echo "Q ".$row['price'];?></td>
                                 <td>
                                     <a class="" href="javascript:void(0)" onclick="showAjaxModal('<?php echo base_url().'modal/popup/modal_membership_edit_plan/'.base64_encode($row['membership_plans_id']).'/'.base64_encode($membership_id);?>')">
                                         <i class="iconBox picons-thin-icon-thin-0001_compose_write_pencil_new"></i>

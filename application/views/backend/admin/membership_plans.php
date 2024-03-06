@@ -37,10 +37,10 @@
                                 <td><?php echo $row['description'];?></td>
                                 <td><?php echo $row['days'];?></td>
                                 <td>
-                                    <a class="" href="javascript:void(0)" onclick="showAjaxModal('<?php echo base_url().'modal/popup/modal_new_plan_edit/'.base64_encode($row['membership_plans_id']);?>')">
+                                    <a class="" href="javascript:void(0)" onclick="showAjaxModal('<?php echo base_url().'modal/popup/modal_new_plan_edit/'.base64_encode($row['plans_id']);?>')">
                                         <i class="iconBox picons-thin-icon-thin-0001_compose_write_pencil_new"></i>
                                     </a>
-                                    <a class="" href="javascript:void(0)" onclick="delete_memebership('<?php echo base64_encode($row['membership_plans_id']); ?>')">
+                                    <a class="" href="javascript:void(0)" onclick="delete_memebership('<?php echo base64_encode($row['plans_id']); ?>')">
                                         <i class="iconBox picons-thin-icon-thin-0056_bin_trash_recycle_delete_garbage_empty"></i>
                                     </a>
                                 </td>

@@ -14,7 +14,7 @@
             <div class="form-group">
                 <div class="container">
                     <?php 
-                    $memebership_plans = $this->db->get_where("plans",array("membership_plans_id"=> base64_decode($param2)))->result_array();
+                    $memebership_plans = $this->db->get_where("plans",array("plans_id"=> base64_decode($param2)))->result_array();
                     foreach($memebership_plans as $row): ?>
                 <div class="row">
                     <div class="col-sm-12">

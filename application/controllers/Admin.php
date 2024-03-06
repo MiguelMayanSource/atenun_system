@@ -2186,7 +2186,66 @@ class Admin extends CI_Controller
         echo $options;
     }
 
+    function get_plans($category_id)
+    {
+        if($category_id != 0){
+        $this->db->select("*");
+        $this->db->from("membership_plans mp");
+        $this->db->join("membership m","m.membership_id = mp.membership_id");
+        $this->db->join("plans p","p.plans_id = mp.membership_plans_id");
+        $this->db->where("mp.membership_id", $category_id);
+        $this->db->where("mp.status",1);
+        $products = $this->db->get()->result_array();
+    }
+        else
+            $products = "";
 
+        $options = '';
+         if(count($products) > 0)
+         {
+            $options .= '<option value="">Seleccionar</option>';
+            foreach ($products as $row) 
+            {   
+                $options .= '<option value="' . $row['membership_plans_id'] . '">' . $row['name']. '</option>';
+             }
+
+         }else
+         {
+            $options .= '<option value="">Sin Planes</option>';
+         }
+        
+        echo $options;
+    }
+
+    function get_details($category_id)
+    {
+        if($category_id != 0){
+        $this->db->select("*");
+        $this->db->from("membership_plans mp");
+        $this->db->join("membership m","m.membership_id = mp.membership_id");
+        $this->db->join("plans p","p.plans_id = mp.membership_plans_id");
+        $this->db->where("mp.membership_plans_id", $category_id);
+        $this->db->where("mp.status",1);
+        $products = $this->db->get()->row_array();
+    }
+        else
+            $products = "";
+
+        $options = '';
+         if(count($products) > 0)
+         {
+            $options .= '<p> Descripción: ' . $products['description'] . '</p>
+            <p> Días: ' . $products['days'] . '</p>
+            <p> Precio: Q ' . $products['price'] . '</p>
+            ';
+         }else
+         {
+            $options .= '<p value="">Sin Detalles</p>';
+         }
+        
+        echo $options;
+    }
+    
     function get_product_pres($product_id)
     {
         $sections = $this->db->get_where('product' , array('product_id' => $product_id))->result_array();
@@ -10365,7 +10424,7 @@ function service_details($param1 = '', $param2 = '')
         {   
             $this->accounts_model->assign_plan_to_membership($param2);
             $this->session->set_flashdata('flash_message' , "Plan asignado correctamente.");           
-            redirect(base_url().'admin/membership_plans_details/'.base64_encode($param3), 'refresh');   
+            redirect(base64_decode($param3), 'refresh');   
         }
         if($param1 == "edit")
         {
@@ -10379,6 +10438,7 @@ function service_details($param1 = '', $param2 = '')
             $this->session->set_flashdata('flash_message' , "Plan eliminado correctamente.");           
             redirect($previous_url, 'refresh');
         }
+        $page_data["url"] = base64_encode($previous_url);
         $page_data['membership_id'] = base64_decode($param1);
         $page_data['page_name']   = 'membership_plans_add';
         $page_data['page_title']  = "Agregar nuevo plan";

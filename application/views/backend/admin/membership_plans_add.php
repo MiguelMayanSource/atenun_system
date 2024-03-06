@@ -15,7 +15,7 @@
                 </div>
             </div>
         </div><br>
-        <form action="<?php echo base_url();?>admin/membership_plans_add/create/<?php echo $membership_id; ?>" method="POST" enctype="multipart/form-data">
+        <form action="<?php echo base_url();?>admin/membership_plans_add/create/<?php echo $membership_id; ?>/<?php echo $url ?>" method="POST" enctype="multipart/form-data">
             <div class="row">
                 <div class="col-xl-8 col-lg-8 col-sm-12" style="float: none; margin: 0 auto;">
                     <div class="tasks-section" style="background: #fff; padding: 24px; border-radius: 25px; border: 1px solid #ccc;">
@@ -31,7 +31,7 @@
                                         $plans = $this->db->get("plans")->result_array();                              
                                         foreach($plans as $in): ?>
 
-                                        <option value="<?php echo $in['membership_plans_id'];?>"><?php echo $in['name']." - ".$in['days']." días";?></option>
+                                        <option value="<?php echo $in['plans_id'];?>"><?php echo $in['name']." - ".$in['days']." días";?></option>
                                         <?php endforeach;?>
                                     </select>
                                 </div>
@@ -39,7 +39,7 @@
                             <div class="col-sm-12">
                                 <div class="form-group m-b-15">
                                     <label for="simpleinput">Precio:<span style="color:red">*</span></label>
-                                    <input type="number"  name="price" required="" class="form-control">
+                                    <input type="text"  name="price" required="" class="form-control" pattern="^\d*(\.\d{0,2})?$">
                                 </div>
                             </div>
                             <div class="col-sm-12">

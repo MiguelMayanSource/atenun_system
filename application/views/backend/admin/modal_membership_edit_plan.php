@@ -21,7 +21,7 @@ $membership = $this->db->get_where('membership_plans',array('membership_plans_id
                         <div class="col-sm-12">
                             <div class="form-group m-b-15">
                                 <label for="simpleinput">Precio<span style="color:red">*</span></label>
-                                <input type="number" name="price" required="" class="form-control" value="<?= $membership['price']; ?>">
+                                <input type="text" name="price" required="" class="form-control" value="<?= $membership['price']; ?>" pattern="^\d*(\.\d{0,2})?$">
                             </div>
                         </div>
                     </div>

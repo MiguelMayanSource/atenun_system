@@ -5090,14 +5090,14 @@ class Accounts_model extends CI_Model
 		$data["name"] = $this->input->post("name");
 		$data["description"] = $this->input->post("description");
 		$data["days"] = $this->input->post("days");
-		$this->db->where("membership_plans_id",$membership_plans_id);
+		$this->db->where("plans_id",$membership_plans_id);
 		$this->db->update(("plans"), $data);
 	}
 
 	function membership_plans_delete($membership_plans_id)
 	{
 		$data["status"] = 0;
-		$this->db->where("membership_plans_id",$membership_plans_id);
+		$this->db->where("plans_id",$membership_plans_id);
 		$this->db->update(("plans"), $data);
 	}
 
