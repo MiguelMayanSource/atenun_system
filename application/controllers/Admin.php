@@ -10493,6 +10493,15 @@ function service_details($param1 = '', $param2 = '')
              $refer =  $this->agent->referrer();
              redirect($refer, 'refresh');
          }
+
+         if($param1 == 'contact_import')
+         {
+             $inventory = $this->inventory_model->contact_import();
+             $this->session->set_flashdata('flash_message' , "Producto agregados correctamente");
+             $refer =  $this->agent->referrer();
+             redirect($refer, 'refresh');
+         }
+
          redirect($refer, 'refresh');
     }
 

@@ -382,6 +382,45 @@ class Inventory_model extends CI_Model
             
     }
 
+    function contact_import()
+    {
+    
+        $md5 = md5(date('d-m-Y H:i:s'));
+        $name = $md5.str_replace(' ', '', $_FILES['files']['name']);
+        $type = 1;
+        if($_FILES['files']['name'] != ''){
+            $data['file']              = $name;
+            move_uploaded_file($_FILES['files']['tmp_name'], 'public/uploads/import/' . $name);
+        }
+
+
+             $path = 'public/uploads/import/' . $name;
+             $object = PHPExcel_IOFactory::load($path);
+             foreach($object->getWorksheetIterator() as $worksheet)
+             {
+                 $highestRow = $worksheet->getHighestRow();
+                 $highestColumn = $worksheet->getHighestColumn();
+                 log_message('error', '$highestRow '.$highestRow);
+                 for($row=12; $row <= $highestRow; $row++)
+                 {
+                    $data = array(
+                        'first_name' =>  $worksheet->getCellByColumnAndRow(1, $row)->getValue(),
+                        'second_name' =>  $worksheet->getCellByColumnAndRow(2, $row)->getValue(),
+                        'third_name' =>  $worksheet->getCellByColumnAndRow(3, $row)->getValue(),
+                        'last_name' =>  $worksheet->getCellByColumnAndRow(4, $row)->getValue(),
+                        'second_last_name' => $worksheet->getCellByColumnAndRow(5, $row)->getValue(),
+                        'area_code' =>   $worksheet->getCellByColumnAndRow(6, $row)->getValue(),
+                        'phone' =>   $worksheet->getCellByColumnAndRow(7, $row)->getValue(),
+                        'email' =>   $worksheet->getCellByColumnAndRow(8, $row)->getValue()
+                    );
+                    $this->db->where("patient_id",$worksheet->getCellByColumnAndRow(0, $row)->getValue());
+                    $this->db->update('patient',$data);
+
+                 }
+             }
+             unlink('public/uploads/import/' . $name);
+            
+    }
 
     function delete_products($id)
     {
@@ -1426,7 +1465,7 @@ class Inventory_model extends CI_Model
         // {
         //     $this->db->where('subcategory_id',$this->input->post('subcategory_id'));
         // }
-        $this->db->select('p.patient_id,p.first_name, p.second_name,p.third_name,p.last_name,p.second_last_name,p.married_last_name,p.phone,p.area_code');
+        $this->db->select('p.patient_id,p.first_name, p.second_name,p.third_name,p.last_name,p.second_last_name,p.married_last_name,p.phone,p.area_code,p.email');
         $this->db->from('patient p');
         $this->db->join('entity_patients ep','ep.patient_id = p.patient_id');
         $this->db->join('entity e','e.entity_id = ep.entity_id');
@@ -1447,6 +1486,7 @@ class Inventory_model extends CI_Model
             $objPHPExcel->getActiveSheet()->setCellValue('F' . $row, $product['second_last_name']);
             $objPHPExcel->getActiveSheet()->setCellValue('G' . $row, $product['area_code']);
             $objPHPExcel->getActiveSheet()->setCellValue('H' . $row, $product['phone']);
+            $objPHPExcel->getActiveSheet()->setCellValue('I' . $row, $product['email']);
 
             $row++;
         }

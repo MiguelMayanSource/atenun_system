@@ -20,7 +20,7 @@
                 <h3 class="module-title"><?php echo $this->db->get_where("category_entity",array("category_entity_id"=>$id_category))->row()->name;  ?></h3>
                 <a class="add-buton pull-right btn btn-primary" href="<?php echo base_url()?>admin/entity_new/<?php echo base64_encode($id_category); ?>">+ Agregar Entidad</a>
                 <a class="add-buton pull-right btn btn-success" href="<?php echo base_url();?>admin/contact_file/all_contact_export/<?php echo $id_category;?>"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M13 9V5h-2v6H9.83L12 13.17L14.17 11H13z" opacity="0.3"/><path fill="currentColor" d="M15 9V3H9v6H5l7 7l7-7zm-3 4.17L9.83 11H11V5h2v6h1.17zM5 18h14v2H5z"/></svg></a>
-                <a class="add-buton pull-right btn btn-warning" href="<?php echo base_url();?>admin/contact_file/all_contact_export/<?php echo $id_category;?>"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M9 16h6v-6h4l-7-7l-7 7h4zm-4 2h14v2H5z"/></svg></a>
+                <a class="add-buton pull-right btn btn-warning" href="javascript:void(0);" onclick="showAjaxModal('<?php echo base_url(); ?>modal/popup/modal_contact_import');"> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M9 16h6v-6h4l-7-7l-7 7h4zm-4 2h14v2H5z"/></svg></a>
             </div>
         </div>
 
@@ -36,7 +36,7 @@
                                     <i class="picons-thin-icon-thin-0699_user_profile_avatar_man_male"></i>
                                 </div>
                                 <ul>
-                                    <li><a href="<?php echo base_url();?>admin/contact_file/all_contact_export/<?php echo $id_category;?>/<?php echo $row['entity_id'];?>"><i class="picons-thin-icon-thin-0124_upload_cloud_file_sync_backup"></i><span>Importar Contactos</span></a>
+                                    <li><a href="javascript:void(0);" onclick="showAjaxModal('<?php echo base_url(); ?>modal/popup/modal_contact_import');"><i class="picons-thin-icon-thin-0124_upload_cloud_file_sync_backup"></i><span>Importar Contactos</span></a>
                                     </li>
                                     <li><a href="<?php echo base_url();?>admin/contact_file/all_contact_export/<?php echo $id_category;?>/<?php echo $row['entity_id'];?>"><i class="picons-thin-icon-thin-0121_download_file"></i><span>Exportar Contactos</span></a>
                                     </li>

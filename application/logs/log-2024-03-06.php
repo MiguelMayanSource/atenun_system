@@ -8768,3 +8768,4107 @@ error:1416F086:SSL routines:tls_process_server_certificate:certificate verify fa
 ERROR - 2024-03-06 12:41:47 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
 ERROR - 2024-03-06 12:41:47 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
 ERROR - 2024-03-06 12:41:47 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:46:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:46:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:46:20 --> Severity: Notice --> Undefined variable: row C:\xampp\htdocs\atenun_system\application\views\backend\admin\modal_service_import.php 47
+ERROR - 2024-03-06 12:46:20 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\atenun_system\application\views\backend\admin\modal_service_import.php 47
+ERROR - 2024-03-06 12:46:21 --> Severity: Notice --> Undefined variable: row C:\xampp\htdocs\atenun_system\application\views\backend\admin\modal_service_import.php 88
+ERROR - 2024-03-06 12:46:21 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\atenun_system\application\views\backend\admin\modal_service_import.php 88
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:46:25 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:46:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:46:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:46:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:46:48 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 12:46:48 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:51:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:51:57 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:51:57 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:51:57 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:51:57 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:52:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:52:08 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:52:08 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:52:08 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:52:08 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:52:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:52:11 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:52:11 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:52:11 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:52:11 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 12:52:11 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\atenun_system\application\views\backend\admin\entity.php 20
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:52:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:52:16 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:52:16 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:52:16 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:52:16 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:52:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:52:18 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:52:18 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:52:18 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:52:18 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 12:52:18 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\atenun_system\application\views\backend\admin\entity.php 20
+ERROR - 2024-03-06 12:53:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:53:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:53:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:53:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:53:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:53:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:53:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:53:13 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:53:13 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:53:13 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:53:13 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:53:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:54:43 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:54:43 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:54:43 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:54:43 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:54:43 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:54:45 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:54:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:55:31 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:55:32 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:55:32 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:55:32 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:55:32 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:55:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:55:36 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 12:55:36 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:56:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:56:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:56:12 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:56:12 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:56:12 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 12:56:12 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:56:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 12:56:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:25:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:25:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:25:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:25:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:05 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:05 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:05 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:05 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:08 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:08 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:08 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:08 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:09 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:09 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:09 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:09 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:11 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:11 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:11 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:11 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:12 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:12 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:12 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:12 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:14 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:14 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:14 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:14 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:15 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:15 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:15 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:15 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:16 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:16 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:16 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:25:16 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 812
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 813
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 816
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 819
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:25:23 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 824
+ERROR - 2024-03-06 13:25:24 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 13:25:24 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 13:25:24 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 13:25:24 --> Severity: Notice --> Undefined variable: columns C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1442
+ERROR - 2024-03-06 13:25:24 --> Severity: Warning --> sizeof(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1442
+ERROR - 2024-03-06 13:25:24 --> SELECT `p`.`patient_id`, `p`.`first_name`, `p`.`second_name`, `p`.`third_name`, `p`.`last_name`, `p`.`second_last_name`, `p`.`married_last_name`, `p`.`phone`, `p`.`area_code`
+FROM `patient` `p`
+JOIN `entity_patients` `ep` ON `ep`.`patient_id` = `p`.`patient_id`
+JOIN `entity` `e` ON `e`.`entity_id` = `ep`.`entity_id`
+WHERE `ep`.`entity_id` = '7'
+AND `category_entity_id` = '2'
+GROUP BY `ep`.`patient_id`
+ERROR - 2024-03-06 13:25:24 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 321
+ERROR - 2024-03-06 13:25:24 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 324
+ERROR - 2024-03-06 13:25:24 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 562
+ERROR - 2024-03-06 13:25:24 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 612
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 812
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 813
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 816
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 819
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 824
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 13:25:57 --> Severity: Notice --> Undefined variable: columns C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1442
+ERROR - 2024-03-06 13:25:57 --> Severity: Warning --> sizeof(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1442
+ERROR - 2024-03-06 13:25:57 --> SELECT `p`.`patient_id`, `p`.`first_name`, `p`.`second_name`, `p`.`third_name`, `p`.`last_name`, `p`.`second_last_name`, `p`.`married_last_name`, `p`.`phone`, `p`.`area_code`
+FROM `patient` `p`
+JOIN `entity_patients` `ep` ON `ep`.`patient_id` = `p`.`patient_id`
+JOIN `entity` `e` ON `e`.`entity_id` = `ep`.`entity_id`
+WHERE `ep`.`entity_id` = '7'
+AND `category_entity_id` = '2'
+GROUP BY `ep`.`patient_id`
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 321
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 324
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 562
+ERROR - 2024-03-06 13:25:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 612
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:00 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 812
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 813
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 816
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 819
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 824
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 13:26:14 --> Severity: Notice --> Trying to access array offset on value of type int C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 13:26:14 --> Severity: Notice --> Trying to access array offset on value of type int C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 13:26:14 --> Severity: Notice --> Trying to access array offset on value of type int C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 13:26:14 --> $highestRow 19
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:14 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:14 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:14 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:14 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:14 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:17 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:17 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:17 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:17 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:18 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:18 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:18 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:18 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:19 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:19 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:19 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:19 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:26:19 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:19 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:19 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:19 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:26:19 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\atenun_system\application\views\backend\includes\patient_files.php 185
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:20 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:20 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:20 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:20 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:21 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:26:21 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:21 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:21 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:21 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:26:21 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:21 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:21 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:26:21 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:26:22 --> Severity: Notice --> Undefined index: postal_code C:\xampp\htdocs\atenun_system\application\views\backend\admin\patients_edit.php 269
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:26 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:26 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:26 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:26 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:26 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:29 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:29 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:29 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:29 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:29 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:30:29 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:29 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:29 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:29 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:30:29 --> Severity: Notice --> Undefined index: postal_code C:\xampp\htdocs\atenun_system\application\views\backend\admin\patients_edit.php 269
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:32 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:32 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:32 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:32 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:30:32 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:32 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:32 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:32 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:30:32 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\atenun_system\application\views\backend\includes\patient_files.php 185
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:33 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:33 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:33 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:33 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:34 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:34 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:34 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:34 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:35 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:35 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:35 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:35 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:36 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:30:36 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:36 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:36 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:30:36 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 812
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 813
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 816
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 819
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 824
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 13:31:12 --> Severity: Notice --> Trying to access array offset on value of type int C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 13:31:12 --> Severity: Notice --> Trying to access array offset on value of type int C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 13:31:12 --> Severity: Notice --> Trying to access array offset on value of type int C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 13:31:12 --> $highestRow 19
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:12 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:12 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:12 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:12 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:15 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:15 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:15 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:15 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:16 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:16 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:16 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:16 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:17 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:17 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:17 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:17 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:31:17 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:17 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:17 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:17 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:31:17 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\atenun_system\application\views\backend\includes\patient_files.php 185
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:18 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:18 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:18 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:18 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:18 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:31:19 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:19 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:19 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:19 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:31:19 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:19 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:19 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:31:19 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:31:19 --> Severity: Notice --> Undefined index: postal_code C:\xampp\htdocs\atenun_system\application\views\backend\admin\patients_edit.php 269
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:34:17 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:34:17 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:34:17 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:34:17 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:34:17 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:34:18 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 13:34:18 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:34:19 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:34:19 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:34:19 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:34:19 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:34:19 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:34:20 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 13:34:20 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:35:39 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:35:39 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:35:39 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:35:39 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:35:39 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:35:40 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 13:35:40 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:35:42 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:35:54 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:35:54 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:35:54 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:35:54 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:35:54 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:35:54 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 13:35:54 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:37:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:40:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:40:11 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:40:11 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:40:11 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:40:11 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:40:12 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 13:40:13 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 812
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 813
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 816
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 819
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 824
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 13:40:16 --> Severity: Notice --> Undefined variable: columns C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1442
+ERROR - 2024-03-06 13:40:16 --> Severity: Warning --> sizeof(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1442
+ERROR - 2024-03-06 13:40:16 --> SELECT `p`.`patient_id`, `p`.`first_name`, `p`.`second_name`, `p`.`third_name`, `p`.`last_name`, `p`.`second_last_name`, `p`.`married_last_name`, `p`.`phone`, `p`.`area_code`
+FROM `patient` `p`
+JOIN `entity_patients` `ep` ON `ep`.`patient_id` = `p`.`patient_id`
+JOIN `entity` `e` ON `e`.`entity_id` = `ep`.`entity_id`
+WHERE `category_entity_id` = '1'
+GROUP BY `ep`.`patient_id`
+ERROR - 2024-03-06 13:40:16 --> Severity: Notice --> Undefined index: email C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1488
+ERROR - 2024-03-06 13:40:16 --> Severity: Notice --> Undefined index: email C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1488
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 321
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 324
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 562
+ERROR - 2024-03-06 13:40:16 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 612
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:40:32 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:40:32 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:40:32 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:40:32 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:40:32 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:40:33 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 13:40:33 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 812
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 813
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 816
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 819
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 824
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 13:40:35 --> Severity: Notice --> Undefined variable: columns C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1442
+ERROR - 2024-03-06 13:40:35 --> Severity: Warning --> sizeof(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1442
+ERROR - 2024-03-06 13:40:35 --> SELECT `p`.`patient_id`, `p`.`first_name`, `p`.`second_name`, `p`.`third_name`, `p`.`last_name`, `p`.`second_last_name`, `p`.`married_last_name`, `p`.`phone`, `p`.`area_code`
+FROM `patient` `p`
+JOIN `entity_patients` `ep` ON `ep`.`patient_id` = `p`.`patient_id`
+JOIN `entity` `e` ON `e`.`entity_id` = `ep`.`entity_id`
+WHERE `ep`.`entity_id` = '5'
+AND `category_entity_id` = '1'
+GROUP BY `ep`.`patient_id`
+ERROR - 2024-03-06 13:40:35 --> Severity: Notice --> Undefined index: email C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1488
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 321
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 324
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 562
+ERROR - 2024-03-06 13:40:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 612
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:40:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:40:55 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:40:55 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:40:55 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 13:40:55 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 13:40:56 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 13:40:56 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:40:57 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 812
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 813
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 816
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 819
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 824
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 13:40:58 --> Severity: Notice --> Undefined variable: columns C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1442
+ERROR - 2024-03-06 13:40:58 --> Severity: Warning --> sizeof(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1442
+ERROR - 2024-03-06 13:40:58 --> SELECT `p`.`patient_id`, `p`.`first_name`, `p`.`second_name`, `p`.`third_name`, `p`.`last_name`, `p`.`second_last_name`, `p`.`married_last_name`, `p`.`phone`, `p`.`area_code`, `p`.`email`
+FROM `patient` `p`
+JOIN `entity_patients` `ep` ON `ep`.`patient_id` = `p`.`patient_id`
+JOIN `entity` `e` ON `e`.`entity_id` = `ep`.`entity_id`
+WHERE `category_entity_id` = '1'
+GROUP BY `ep`.`patient_id`
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 321
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 324
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 562
+ERROR - 2024-03-06 13:40:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 612
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 812
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 813
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 816
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 819
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 824
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 15:03:34 --> Severity: Notice --> Undefined variable: columns C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1443
+ERROR - 2024-03-06 15:03:34 --> Severity: Warning --> sizeof(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1443
+ERROR - 2024-03-06 15:03:34 --> SELECT `p`.`patient_id`, `p`.`first_name`, `p`.`second_name`, `p`.`third_name`, `p`.`last_name`, `p`.`second_last_name`, `p`.`married_last_name`, `p`.`phone`, `p`.`area_code`, `p`.`email`
+FROM `patient` `p`
+JOIN `entity_patients` `ep` ON `ep`.`patient_id` = `p`.`patient_id`
+JOIN `entity` `e` ON `e`.`entity_id` = `ep`.`entity_id`
+WHERE `category_entity_id` = '1'
+GROUP BY `ep`.`patient_id`
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 321
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 324
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 562
+ERROR - 2024-03-06 15:03:34 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 612
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:03:58 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 812
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 813
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 816
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 819
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 824
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 15:04:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 15:04:02 --> Severity: Notice --> Trying to access array offset on value of type int C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 15:04:02 --> Severity: Notice --> Trying to access array offset on value of type int C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 15:04:02 --> Severity: Notice --> Trying to access array offset on value of type int C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 15:04:02 --> Severity: Notice --> Trying to access array offset on value of type int C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 15:04:02 --> Severity: Notice --> Trying to access array offset on value of type int C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 15:04:02 --> Severity: Notice --> Trying to access array offset on value of type int C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 15:04:02 --> $highestRow 19
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:03 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:03 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:03 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:03 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:04 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:04:04 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:05 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:05 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:05 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:05 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:06 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:04:06 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:06 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:07 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:07 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:07 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:07 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:07 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:07 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:07 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:07 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:07 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:08 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:04:08 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:09 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:09 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:09 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:09 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:09 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:10 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:04:10 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:10 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:10 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:10 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:10 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:11 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:11 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:11 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:11 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:11 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:11 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:11 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:11 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:11 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:11 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:11 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:11 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:11 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:11 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:11 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:11 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/staff_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:12 --> Severity: Notice --> Trying to get property 'gender' of non-object C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 640
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:12 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\atenun_system\application\views\backend\includes\patient_files.php 185
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:12 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:12 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:13 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:04:13 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:04:13 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:06:35 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:22 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:33 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:41 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:49 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:07:49 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/staff_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to get property 'gender' of non-object C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 640
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:50 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\atenun_system\application\views\backend\includes\patient_files.php 185
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:51 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:51 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:51 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:51 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:51 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:07:51 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:51 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/patient_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:07:52 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:08:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:08:02 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:08:02 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:08:02 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:08:02 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:08:03 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:08:03 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:08:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:08:04 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:08:04 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:08:04 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:08:04 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:08:05 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:08:05 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:08:50 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:08:50 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:08:50 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:08:50 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:08:50 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:08:51 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:08:51 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:08:53 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:08:54 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:08:54 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:08:54 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:08:54 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:08:54 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:08:54 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:09:02 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:09:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:09:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:09:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:09:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:09:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:09:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:09:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:09:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:09:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:09:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:09:03 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:09:03 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:09:03 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:09:03 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:09:03 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:09:04 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:09:05 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:09:05 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:09:05 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:09:05 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:09:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:09:08 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:09:08 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:09:08 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:09:11 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:09:11 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:09:11 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:09:11 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:09:11 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:09:13 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:09:13 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:09:13 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:09:13 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:09:13 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 812
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 813
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 816
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 819
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 824
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 15:09:55 --> Severity: Notice --> Undefined variable: columns C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1443
+ERROR - 2024-03-06 15:09:55 --> Severity: Warning --> sizeof(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\atenun_system\application\models\Inventory_model.php 1443
+ERROR - 2024-03-06 15:09:55 --> SELECT `p`.`patient_id`, `p`.`first_name`, `p`.`second_name`, `p`.`third_name`, `p`.`last_name`, `p`.`second_last_name`, `p`.`married_last_name`, `p`.`phone`, `p`.`area_code`, `p`.`email`
+FROM `patient` `p`
+JOIN `entity_patients` `ep` ON `ep`.`patient_id` = `p`.`patient_id`
+JOIN `entity` `e` ON `e`.`entity_id` = `ep`.`entity_id`
+WHERE `category_entity_id` = '1'
+GROUP BY `ep`.`patient_id`
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 321
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 324
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 562
+ERROR - 2024-03-06 15:09:55 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation\Functions.php 612
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:10:15 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:10:20 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 884
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\ReferenceHelper.php 885
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 812
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 813
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 816
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 817
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 819
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 820
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell.php 824
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 82
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Cell\DefaultValueBinder.php 90
+ERROR - 2024-03-06 15:10:28 --> $highestRow 19
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 526
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 527
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 538
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 539
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 541
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Shared\String.php 542
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2551
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2672
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2676
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2764
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2768
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 2780
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3034
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3166
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3168
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3169
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3457
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3460
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3461
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3891
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3936
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3942
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 3998
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Calculation.php 4001
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:10:28 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\atenun_system\application\libraries\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-03-06 15:10:28 --> Severity: Warning --> get_headers(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:10:28 --> Severity: Warning --> get_headers(): Failed to enable crypto C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:10:28 --> Severity: Warning --> get_headers(https://localhost/atenun_system/public/uploads/doctor_image/): failed to open stream: operation failed C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 167
+ERROR - 2024-03-06 15:10:28 --> Severity: Notice --> Trying to access array offset on value of type bool C:\xampp\htdocs\atenun_system\application\models\Accounts_model.php 168
+ERROR - 2024-03-06 15:10:29 --> 404 Page Not Found: Public/assets
+ERROR - 2024-03-06 15:10:29 --> 404 Page Not Found: Public/assets
