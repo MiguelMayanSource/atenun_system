@@ -2236,6 +2236,7 @@ class Admin extends CI_Controller
          {
             $options .= '<p> Descripción: ' . $products['description'] . '</p>
             <p> Días: ' . $products['days'] . '</p>
+            <input type="hidden" name="days" value="'.$products['days'].'">
             <p> Precio: Q ' . $products['price'] . '</p>
             <input type="hidden"  name="membership_plans_id" value="'.$products['membership_plans_id'].'">
             ';
@@ -10458,14 +10459,12 @@ function service_details($param1 = '', $param2 = '')
     function patient_membership($param1 = '', $param2 = '')
     {
         $this->session_login();
-        $post = $this->input->post();
-        print_r($post);
-            exit();
+
         $previous_url = $this->agent->referrer();
 
         if($param1 == "add"){
             
-            $this->accounts_model->patient_membership_add($param2);
+            $this->accounts_model->patient_membership_add();
             $this->session->set_flashdata('flash_message' , "Membrecía agregada correctamente.");           
             redirect($previous_url, 'refresh');
         }
@@ -10473,7 +10472,9 @@ function service_details($param1 = '', $param2 = '')
             
         }
         if($param1 == "delete"){
-            
+            $this->accounts_model->patient_membership_delete( base64_decode($param2));
+            $this->session->set_flashdata('flash_message' , "Membrecía eliminada correctamente.");           
+            redirect($previous_url, 'refresh');
         }
         $page_data['page_name']   = 'membership_plans_details';
         $page_data['page_title']  = "Planes";

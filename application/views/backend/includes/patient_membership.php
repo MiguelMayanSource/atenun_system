@@ -4,17 +4,24 @@
     <div class="col-sm-12">
 
         <?php 
-            $refresh_query  = $this->db->order_by('sample_id','desc')->get_where('sample',array('patient_id' => $patient_id));
+            $this->db->select('*');
+            $this->db->from('membership_patients mpa');
+            $this->db->join('membership_plans mp', 'mpa.membership_plans_id = mp.membership_plans_id');
+            $this->db->join('membership m', 'm.membership_id = mp.membership_id');
+            $this->db->where('mpa.status', 1);
+            $this->db->where('mpa.patient_id', $patient_id);
+            $refresh_query = $this->db->get();
             if($refresh_query->num_rows() > 0):
                 $cont= 1;
             ?>
         <table class="table">
             <tr style="background-color:#f9fbfc; color:#59636d">
                 <th>#</th>
-                <th>Código</th>
-                <th>Especialista</th>
-                <th>Fecha & Hora</th>
-                <th>Estado</th>
+                <th>Membrecía</th>
+                <th>Fecha de Registro</th>
+                <th>Fecha de Inicio</th>
+                <th>Fecha de Finalización</th>
+                <th>Precio</th>
                 <th>Acciones</th>
             </tr>
             <?php foreach($refresh_query->result_array() as $row): ?>
@@ -23,30 +30,25 @@
                     <?php echo $cont++;?>
                 </td>
                 <td>
-                    <?php echo $row['code'];?>
+                    <?php echo $row['name']?>
                 </td>
                 <td>
-                    <img src="<?php echo $this->accounts_model->get_photo( $row['user_type'], $row['user_id']);?>" width="35px" style="padding-right:6px">
-                    <?php echo $this->accounts_model->gender($row['user_id']);?>
-                    <?php echo $this->accounts_model->short_name( $row['user_type'], $row['user_id']);?>
-                </td>
-                <td><?php echo $row['date']?></td>
-                <td>
-                    <?php if($row['status'] == 0):?>
-                        <span class="text-info"><b>Pendiente</b></span>
-                    <?php endif; ?>
-                    <?php if($row['status'] == 1):?>
-                        <span class="text-success"><b>Completada</b></span>
-                    <?php endif; ?>
-                    <?php if($row['status'] == 4):?>
-                        <span class="text-danger"><b>Anulada</b></span>
-                    <?php endif; ?>
+                    <?php echo $row['date_register']?>
                 </td>
                 <td>
-                    <?php if($row['status'] == 1):?>
-                    <i onclick="window.open('<?php echo base_url().$this->session->userdata('login_type').'/laboratory_results/download/'.base64_encode($row['sample_id'])?>', '_blank');" class="picons-thin-icon-thin-0100_to_do_list_reminder_done" style="font-size:20px;color:#0176fe" data-toggle="tooltip" data-placement="top" title="Detalles"></i>
-                    <?php endif; ?>
-                   
+                    <?php echo $row['start_date'];?>
+                </td>
+                <td>
+                    <?php echo $row['finish_date'];?>
+                </td>
+                
+                <td>
+                    <?php echo $row['price'];?>
+                </td>
+                <td>
+                    <a class="" href="javascript:void(0)" onclick="delete_patient_membership('<?php echo base64_encode($row['patient_membership_id']); ?>')">
+                        <i class="iconBox picons-thin-icon-thin-0056_bin_trash_recycle_delete_garbage_empty"></i>
+                    </a>
                 </td>
             </tr>
             <?php endforeach; ?>
@@ -60,3 +62,22 @@
         <?php endif; ?>
     </div>
 </div>
+
+<script>
+function delete_patient_membership(id) {
+    Swal.fire({
+        title: '¿Estás seguro?',
+        text: "Esta acción no puede deshacerse. ¿Aún así, desea continuar?",
+        type: 'info',
+        showCancelButton: true,
+        confirmButtonColor: '#9fd13b',
+        cancelButtonColor: '#fd4f57',
+        confirmButtonText: 'Sí, eliminar',
+        cancelButtonText: 'Cancelar'
+    }).then((result) => {
+        if (result.value) {
+            location.href = "<?php echo base_url();?>admin/patient_membership/delete/" + id;
+        }
+    })
+}
+</script>

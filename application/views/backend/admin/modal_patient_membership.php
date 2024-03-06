@@ -11,6 +11,12 @@
                         <div class="container">
                         <div class="row">
                             <input type="hidden" name="patient_id" value="<?php echo $param2; ?>">
+                            <div class="col-sm-12" >
+                                <div class="form-group m-b-15">
+                                    <label for="simpleinput">Fecha de Inicio</label><br>
+                                    <input class="form-control" name="start_date" type="date" required="">
+                                </div>
+                            </div>
                             <div class="col-sm-12">
                                 <div class="form-group m-b-15">
                                     <label for="simpleinput">Seleccionar membrecía</label><br>
@@ -28,7 +34,7 @@
                             <div class="col-sm-12 planes" style="display:none">
                                 <div class="form-group m-b-15">
                                     <label for="simpleinput">Seleccionar Plan</label><br>
-                                    <select class="js-example-basic-single col-12 form-control" name="plans_id" id="prod_<?php echo $_id; ?>" onchange="getDetails(this.value,'<?php $_id = uniqid(); echo $_id;?>')" style="width: 100%;" >
+                                    <select class="js-example-basic-single col-12 form-control" name="plans_id" id="prod_<?php echo $_id; ?>" onchange="getDetails(this.value,'<?php $_id = uniqid(); echo $_id;?>')" style="width: 100%;">
 
                                     </select>
                                 </div>

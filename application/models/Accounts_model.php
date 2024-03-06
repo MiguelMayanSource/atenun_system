@@ -5124,9 +5124,25 @@ class Accounts_model extends CI_Model
 
 	function patient_membership_add()
 	{
+        $post = $this->input->post();
+        $fecha = $this->input->post("start_date"); 
+        $dias_a_sumar = $this->input->post("days");
+        $nueva_fecha = date("Y-m-d", strtotime($fecha . " +$dias_a_sumar days"));
+
+		$data["date_register"] = date('Y-m-d');
+		$data["start_date"] = $this->input->post("start_date");
+		$data["finish_date"] = $nueva_fecha;
 		$data["membership_plans_id"] = $this->input->post("membership_plans_id");
-		
+		$data["patient_id"] = $this->input->post("patient_id");
+		$data["status"] = 1;
 		$this->db->insert("membership_patients",$data);
+	}
+
+	function patient_membership_delete($membership_patients)
+	{
+		$data["status"] = 0;
+		$this->db->where("patient_membership_id",$membership_patients);
+		$this->db->update("membership_patients",$data);
 	}
 
 }
