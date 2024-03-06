@@ -16,7 +16,8 @@
                                     <label for="simpleinput">Seleccionar membrecía</label><br>
                                     <select class="js-example-basic-single col-12 form-control" name="membership_id" id="secondselect" onchange="getPlans(this.value,'<?php $_id = uniqid(); echo $_id;?>')" style="width: 100%;" >
                                         <option value="seleccionar">Seleccionar</option>
-                                        <?php                                                
+                                        <?php             
+                                        $this->db->where("status",1);                               
                                         $insurancess = $this->db->get("membership")->result_array();
                                         foreach($insurancess as $in): ?>
                                             <option value="<?php echo $in['membership_id'];?>"><?php echo $in['name'];?></option>

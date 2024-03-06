@@ -32,10 +32,11 @@
                             $this->db->select("*");
                             $this->db->from("membership_plans mp");
                             $this->db->join("membership m","m.membership_id = mp.membership_id");
-                            $this->db->join("plans p","p.plans_id = mp.membership_plans_id");
+                            $this->db->join("plans p","p.plans_id = mp.plans_id");
                             $this->db->where("mp.membership_id", $membership_id);
                             $this->db->where("mp.status",1);
                             $resultado = $this->db->get()->result_array();
+
                             foreach ($resultado as $row): ?>
                             <tr>
                                 <td><?php echo $row['name'];?></td>

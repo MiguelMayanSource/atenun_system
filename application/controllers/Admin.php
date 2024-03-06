@@ -2192,7 +2192,7 @@ class Admin extends CI_Controller
         $this->db->select("*");
         $this->db->from("membership_plans mp");
         $this->db->join("membership m","m.membership_id = mp.membership_id");
-        $this->db->join("plans p","p.plans_id = mp.membership_plans_id");
+        $this->db->join("plans p","p.plans_id = mp.plans_id");
         $this->db->where("mp.membership_id", $category_id);
         $this->db->where("mp.status",1);
         $products = $this->db->get()->result_array();
@@ -2223,7 +2223,7 @@ class Admin extends CI_Controller
         $this->db->select("*");
         $this->db->from("membership_plans mp");
         $this->db->join("membership m","m.membership_id = mp.membership_id");
-        $this->db->join("plans p","p.plans_id = mp.membership_plans_id");
+        $this->db->join("plans p","p.plans_id = mp.plans_id");
         $this->db->where("mp.membership_plans_id", $category_id);
         $this->db->where("mp.status",1);
         $products = $this->db->get()->row_array();
@@ -2237,6 +2237,7 @@ class Admin extends CI_Controller
             $options .= '<p> Descripción: ' . $products['description'] . '</p>
             <p> Días: ' . $products['days'] . '</p>
             <p> Precio: Q ' . $products['price'] . '</p>
+            <input type="hidden"  name="membership_plans_id" value="'.$products['membership_plans_id'].'">
             ';
          }else
          {
@@ -10453,6 +10454,8 @@ function service_details($param1 = '', $param2 = '')
         $page_data['page_title']  = "Planes";
         $this->load->view('backend/index', $page_data);
     }
+
+    
 
 
     function update_patient_copies() {
