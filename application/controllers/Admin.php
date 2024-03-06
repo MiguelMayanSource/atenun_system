@@ -10455,6 +10455,31 @@ function service_details($param1 = '', $param2 = '')
         $this->load->view('backend/index', $page_data);
     }
 
+    function patient_membership($param1 = '', $param2 = '')
+    {
+        $this->session_login();
+        $post = $this->input->post();
+        print_r($post);
+            exit();
+        $previous_url = $this->agent->referrer();
+
+        if($param1 == "add"){
+            
+            $this->accounts_model->patient_membership_add($param2);
+            $this->session->set_flashdata('flash_message' , "Membrecía agregada correctamente.");           
+            redirect($previous_url, 'refresh');
+        }
+        if($param1 == "edit"){
+            
+        }
+        if($param1 == "delete"){
+            
+        }
+        $page_data['page_name']   = 'membership_plans_details';
+        $page_data['page_title']  = "Planes";
+        $this->load->view('backend/index', $page_data);
+    }
+
     
 
 

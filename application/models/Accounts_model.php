@@ -5122,4 +5122,11 @@ class Accounts_model extends CI_Model
 		$this->db->update("membership_plans",$data);
 	}
 
+	function patient_membership_add()
+	{
+		$data["membership_plans_id"] = $this->input->post("membership_plans_id");
+		
+		$this->db->insert("membership_patients",$data);
+	}
+
 }

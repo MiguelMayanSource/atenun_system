@@ -1,4 +1,4 @@
-<h5 class="panel-content-title">Membrecías <a class="btn btn-info pull-right" href="javascript:void(0)" onclick="modal_lg('<?php echo base_url();?>Modal/popup/modal_patient_membership');" style="margin-right:45px">Nuevo</a></h5>
+<h5 class="panel-content-title">Membrecías <a class="btn btn-info pull-right" href="javascript:void(0)" onclick="modal_lg('<?php echo base_url();?>Modal/popup/modal_patient_membership/<?php echo $patient_id ?>');" style="margin-right:45px">Nuevo</a></h5>
 <span class="app-divider2"></span>
 <div class="row">
     <div class="col-sm-12">
